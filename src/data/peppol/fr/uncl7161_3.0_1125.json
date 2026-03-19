@@ -1,0 +1,892 @@
+[
+    {
+        "code": "AA",
+        "type": "Publicité",
+        "description": "Le service de fourniture de publicité."
+    },
+    {
+        "code": "AAA",
+        "type": "Télécommunication",
+        "description": "Le service de fourniture d'activités et/ou d'installations de télécommunication."
+    },
+    {
+        "code": "AAC",
+        "type": "Modification technique",
+        "description": "Le service consistant à apporter des modifications techniques à un produit."
+    },
+    {
+        "code": "AAD",
+        "type": "Production sur commande",
+        "description": "Le service de production selon les spécifications d'une commande."
+    },
+    {
+        "code": "AAE",
+        "type": "Débours",
+        "description": "Le service consistant à avancer des fonds pour des dépenses au nom d'un partenaire commercial."
+    },
+    {
+        "code": "AAF",
+        "type": "Hors locaux",
+        "description": "Le service de fourniture de prestations en dehors des locaux du fournisseur."
+    },
+    {
+        "code": "AAH",
+        "type": "Traitement supplémentaire",
+        "description": "Le service de fourniture d'un traitement additionnel."
+    },
+    {
+        "code": "AAI",
+        "type": "Attestation",
+        "description": "Le service de certification de validité."
+    },
+    {
+        "code": "AAS",
+        "type": "Acceptation",
+        "description": "Le service d'acceptation de biens ou de services."
+    },
+    {
+        "code": "AAT",
+        "type": "Livraison urgente",
+        "description": "Le service consistant à assurer une livraison express."
+    },
+    {
+        "code": "AAV",
+        "type": "Construction spéciale",
+        "description": "Le service de fourniture d'une construction spéciale."
+    },
+    {
+        "code": "AAY",
+        "type": "Installations aéroportuaires",
+        "description": "Le service de mise à disposition d'installations aéroportuaires."
+    },
+    {
+        "code": "AAZ",
+        "type": "Concession",
+        "description": "Le service permettant à une partie d'utiliser les installations d'une autre partie."
+    },
+    {
+        "code": "ABA",
+        "type": "Stockage obligatoire",
+        "description": "Le service fourni pour détenir un inventaire obligatoire."
+    },
+    {
+        "code": "ABB",
+        "type": "Retrait de carburant",
+        "description": "Retirer ou décharger le carburant d'un véhicule, d'un navire ou d'un aéronef."
+    },
+    {
+        "code": "ABC",
+        "type": "Mise à bord",
+        "description": "Service de livraison de marchandises à un aéronef à partir d'un stockage local."
+    },
+    {
+        "code": "ABD",
+        "type": "Heures supplémentaires",
+        "description": "Le service de fourniture de main-d'œuvre au-delà de la limite établie des heures de travail."
+    },
+    {
+        "code": "ABF",
+        "type": "Outillage",
+        "description": "Le service de fourniture d'un outillage spécifique."
+    },
+    {
+        "code": "ABK",
+        "type": "Divers",
+        "description": "Services divers."
+    },
+    {
+        "code": "ABL",
+        "type": "Emballage supplémentaire",
+        "description": "Le service de fourniture d'un emballage additionnel."
+    },
+    {
+        "code": "ABN",
+        "type": "Fardage",
+        "description": "Le service de fourniture de matériaux de rembourrage supplémentaires nécessaires pour sécuriser et protéger une cargaison dans un conteneur d'expédition."
+    },
+    {
+        "code": "ABR",
+        "type": "Conteneurisation",
+        "description": "Le service d'emballage d'articles dans un conteneur."
+    },
+    {
+        "code": "ABS",
+        "type": "Emballage carton",
+        "description": "Le service d'emballage d'articles dans un carton."
+    },
+    {
+        "code": "ABT",
+        "type": "Emballage en toile de jute",
+        "description": "Le service d'emballage sous toile de jute (Hessian)."
+    },
+    {
+        "code": "ABU",
+        "type": "Emballage sous film polyéthylène",
+        "description": "Le service d'emballage sous enveloppe de polyéthylène."
+    },
+    {
+        "code": "ACF",
+        "type": "Traitement divers",
+        "description": "Service de traitement divers."
+    },
+    {
+        "code": "ACG",
+        "type": "Traitement d'émaillage",
+        "description": "Le service de fourniture d'un traitement d'émaillage."
+    },
+    {
+        "code": "ACH",
+        "type": "Traitement thermique",
+        "description": "Le service de traitement par la chaleur."
+    },
+    {
+        "code": "ACI",
+        "type": "Traitement de placage",
+        "description": "Le service de fourniture d'un traitement de placage."
+    },
+    {
+        "code": "ACJ",
+        "type": "Peinture",
+        "description": "Le service de peinture."
+    },
+    {
+        "code": "ACK",
+        "type": "Polissage",
+        "description": "Le service de polissage."
+    },
+    {
+        "code": "ACL",
+        "type": "Apprêt",
+        "description": "Le service d'application d'un apprêt."
+    },
+    {
+        "code": "ACM",
+        "type": "Traitement de conservation",
+        "description": "Le service de traitement pour la conservation."
+    },
+    {
+        "code": "ACS",
+        "type": "Ajustement/Montage",
+        "description": "Service d'ajustement ou de montage."
+    },
+    {
+        "code": "ADC",
+        "type": "Consolidation",
+        "description": "Le service de regroupement de plusieurs envois en une seule expédition."
+    },
+    {
+        "code": "ADE",
+        "type": "Connaissement",
+        "description": "Le service de fourniture d'un document de connaissement (Bill of Lading)."
+    },
+    {
+        "code": "ADJ",
+        "type": "Airbag",
+        "description": "Le service consistant à entourer un produit d'un sac gonflable (airbag)."
+    },
+    {
+        "code": "ADK",
+        "type": "Transfert",
+        "description": "Le service de transfert."
+    },
+    {
+        "code": "ADL",
+        "type": "Slipsheet",
+        "description": "Le service consistant à sécuriser une pile de produits sur une feuille intercalaire (slipsheet)."
+    },
+    {
+        "code": "ADM",
+        "type": "Reliure",
+        "description": "Service de reliure."
+    },
+    {
+        "code": "ADN",
+        "type": "Réparation ou remplacement d'emballage consigné cassé",
+        "description": "Le service de réparation ou de remplacement d'un emballage consigné endommagé."
+    },
+    {
+        "code": "ADO",
+        "type": "Logistique efficace",
+        "description": "Un code indiquant des services logistiques efficaces."
+    },
+    {
+        "code": "ADP",
+        "type": "Merchandising",
+        "description": "Un code indiquant que des services de merchandising sont en cours."
+    },
+    {
+        "code": "ADQ",
+        "type": "Mix de produits",
+        "description": "Un code indiquant que des services de mélange de produits sont en cours."
+    },
+    {
+        "code": "ADR",
+        "type": "Autres services",
+        "description": "Un code indiquant que d'autres services non spécifiques sont en cours."
+    },
+    {
+        "code": "ADT",
+        "type": "Enlèvement",
+        "description": "Le service d'enlèvement ou de collecte de marchandises."
+    },
+    {
+        "code": "ADW",
+        "type": "Maladie chronique",
+        "description": "Les services spéciaux fournis en raison d'une maladie chronique."
+    },
+    {
+        "code": "ADY",
+        "type": "Introduction de nouveau produit",
+        "description": "Service fourni par un acheteur lors de l'introduction d'un nouveau produit de la gamme d'un fournisseur dans la gamme commercialisée par l'acheteur."
+    },
+    {
+        "code": "ADZ",
+        "type": "Livraison directe",
+        "description": "Service de livraison directe."
+    },
+    {
+        "code": "AEA",
+        "type": "Déroutement",
+        "description": "Le service de déroutement de livrables."
+    },
+    {
+        "code": "AEB",
+        "type": "Déconnexion",
+        "description": "Le service est une déconnexion."
+    },
+    {
+        "code": "AEC",
+        "type": "Distribution",
+        "description": "Service de distribution."
+    },
+    {
+        "code": "AED",
+        "type": "Manutention de cargaisons dangereuses",
+        "description": "Un service pour la manutention de marchandises dangereuses."
+    },
+    {
+        "code": "AEF",
+        "type": "Locations et baux",
+        "description": "Le service de location et/ou de crédit-bail."
+    },
+    {
+        "code": "AEH",
+        "type": "Différentiel d'emplacement",
+        "description": "Livraison à un endroit différent de celui initialement prévu au contrat."
+    },
+    {
+        "code": "AEI",
+        "type": "Ravitaillement d'aéronef",
+        "description": "Carburant mis dans l'aéronef."
+    },
+    {
+        "code": "AEJ",
+        "type": "Carburant expédié en stockage",
+        "description": "Carburant expédié vers un système de stockage."
+    },
+    {
+        "code": "AEK",
+        "type": "Paiement à la livraison",
+        "description": "La fourniture d'un service de paiement à la livraison (contre-remboursement)."
+    },
+    {
+        "code": "AEL",
+        "type": "Service de traitement de petites commandes",
+        "description": "Un service lié au traitement des commandes de faible volume."
+    },
+    {
+        "code": "AEM",
+        "type": "Services administratifs ou de secrétariat",
+        "description": "La fourniture de services administratifs ou de secrétariat."
+    },
+    {
+        "code": "AEN",
+        "type": "Garantie",
+        "description": "Le service de fourniture d'une garantie."
+    },
+    {
+        "code": "AEO",
+        "type": "Collecte et recyclage",
+        "description": "Le service de collecte et de recyclage des produits."
+    },
+    {
+        "code": "AEP",
+        "type": "Collecte de redevances de droits d'auteur",
+        "description": "Le service de collecte des frais de droits d'auteur."
+    },
+    {
+        "code": "AES",
+        "type": "Service d'inspection vétérinaire",
+        "description": "Le service de fourniture d'une inspection vétérinaire."
+    },
+    {
+        "code": "AET",
+        "type": "Service aux retraités",
+        "description": "Service spécial lorsque le sujet est un retraité."
+    },
+    {
+        "code": "AEU",
+        "type": "Détenteur de laissez-passer médical gratuit",
+        "description": "Service spécial lorsque le sujet détient un laissez-passer pour des médicaments gratuits."
+    },
+    {
+        "code": "AEV",
+        "type": "Service de protection de l'environnement",
+        "description": "La fourniture d'un service de protection de l'environnement."
+    },
+    {
+        "code": "AEW",
+        "type": "Service de nettoyage environnemental",
+        "description": "La fourniture d'un service de nettoyage environnemental."
+    },
+    {
+        "code": "AEX",
+        "type": "Service national de traitement de chèques hors zone",
+        "description": "Service de traitement d'un chèque national en dehors de la zone commerciale de la banque du client donneur d'ordre."
+    },
+    {
+        "code": "AEY",
+        "type": "Service national de paiement hors zone",
+        "description": "Service de traitement d'un paiement national vers un bénéficiaire détenant un compte en dehors de la zone commerciale de la banque du client donneur d'ordre."
+    },
+    {
+        "code": "AEZ",
+        "type": "Service national de paiement en zone",
+        "description": "Service de traitement d'un paiement national vers un bénéficiaire détenant un compte dans la zone commerciale de la banque du client donneur d'ordre."
+    },
+    {
+        "code": "AJ",
+        "type": "Ajustements",
+        "description": "Le service consistant à effectuer des ajustements."
+    },
+    {
+        "code": "AU",
+        "type": "Authentification",
+        "description": "Le service d'authentification."
+    },
+    {
+        "code": "CA",
+        "type": "Catalogage",
+        "description": "La fourniture de services de catalogage."
+    },
+    {
+        "code": "CAB",
+        "type": "Camionnage",
+        "description": "Mouvement de marchandises par chariot ou véhicule de transport lourd."
+    },
+    {
+        "code": "CAD",
+        "type": "Certification",
+        "description": "Le service de certification."
+    },
+    {
+        "code": "CAE",
+        "type": "Certificat de conformité",
+        "description": "Le service de fourniture d'un certificat de conformité."
+    },
+    {
+        "code": "CAF",
+        "type": "Certificat d'origine",
+        "description": "Le service de fourniture d'un certificat d'origine."
+    },
+    {
+        "code": "CAI",
+        "type": "Découpe",
+        "description": "Le service de découpe."
+    },
+    {
+        "code": "CAJ",
+        "type": "Service consulaire",
+        "description": "Le service fourni par les consulats."
+    },
+    {
+        "code": "CAK",
+        "type": "Enlèvement par le client",
+        "description": "Le service de collecte des marchandises par le client."
+    },
+    {
+        "code": "CAL",
+        "type": "Service de paiement des salaires",
+        "description": "Fourniture d'un service de paiement de la paie."
+    },
+    {
+        "code": "CAM",
+        "type": "Transport de fonds",
+        "description": "Fourniture d'un service de transport d'espèces."
+    },
+    {
+        "code": "CAN",
+        "type": "Service de banque à domicile",
+        "description": "Fourniture d'un service de banque en ligne/à domicile."
+    },
+    {
+        "code": "CAO",
+        "type": "Service d'accord bilatéral",
+        "description": "Fourniture d'un service tel que spécifié dans un accord spécial bilatéral."
+    },
+    {
+        "code": "CAP",
+        "type": "Service de courtage d'assurance",
+        "description": "Fourniture d'un service de courtage d'assurance."
+    },
+    {
+        "code": "CAQ",
+        "type": "Génération de chèques",
+        "description": "Fourniture d'un service de génération de chèques."
+    },
+    {
+        "code": "CAR",
+        "type": "Emplacement de merchandising préférentiel",
+        "description": "Service d'attribution d'un emplacement préférentiel pour le merchandising."
+    },
+    {
+        "code": "CAS",
+        "type": "Grue",
+        "description": "Le service de mise à disposition d'une grue."
+    },
+    {
+        "code": "CAT",
+        "type": "Service de couleur spéciale",
+        "description": "Fourniture d'une couleur différente de la couleur par défaut."
+    },
+    {
+        "code": "CAU",
+        "type": "Tri",
+        "description": "La fourniture de services de tri."
+    },
+    {
+        "code": "CAV",
+        "type": "Collecte et recyclage de batteries",
+        "description": "Le service de collecte et de recyclage des batteries."
+    },
+    {
+        "code": "CAW",
+        "type": "Frais de reprise de produit",
+        "description": "Les frais que le consommateur doit payer au fabricant pour la reprise du produit."
+    },
+    {
+        "code": "CAX",
+        "type": "Libéré par le contrôle qualité",
+        "description": "Informe le détenteur de stock qu'il est libre de distribuer les marchandises ayant passé le contrôle qualité."
+    },
+    {
+        "code": "CAY",
+        "type": "Retenu par le contrôle qualité",
+        "description": "Donne instruction au détenteur de stock de suspendre la distribution des marchandises jusqu'à ce que le fabricant ait terminé une évaluation de contrôle qualité."
+    },
+    {
+        "code": "CAZ",
+        "type": "Embargo du contrôle qualité",
+        "description": "Donne instruction au détenteur de stock de suspendre la distribution des marchandises ayant échoué aux tests de contrôle qualité."
+    },
+    {
+        "code": "CD",
+        "type": "Chargement de véhicule",
+        "description": "Service de chargement de voiture ou véhicule."
+    },
+    {
+        "code": "CG",
+        "type": "Nettoyage",
+        "description": "Service de nettoyage."
+    },
+    {
+        "code": "CS",
+        "type": "Timbrage de cigarettes",
+        "description": "Le service de fourniture de timbrage de cigarettes."
+    },
+    {
+        "code": "CT",
+        "type": "Comptage et recomptage",
+        "description": "Le service consistant à effectuer un comptage et un recomptage."
+    },
+    {
+        "code": "DAB",
+        "type": "Mise en page/Conception",
+        "description": "Le service de fourniture de mise en page ou de conception."
+    },
+    {
+        "code": "DAC",
+        "type": "Indemnité d'assortiment",
+        "description": "Indemnité accordée lorsqu'une partie spécifique de l'assortiment d'un fournisseur est achetée par l'acheteur."
+    },
+    {
+        "code": "DAD",
+        "type": "Déchargement par le chauffeur",
+        "description": "Le service de déchargement effectué par le conducteur."
+    },
+    {
+        "code": "DAF",
+        "type": "Lié au débiteur",
+        "description": "Une indemnité ou des frais spéciaux applicables à un débiteur spécifique."
+    },
+    {
+        "code": "DAG",
+        "type": "Indemnité concessionnaire",
+        "description": "Une indemnité offerte par une partie vendant une ou plusieurs marques de produits."
+    },
+    {
+        "code": "DAH",
+        "type": "Indemnité transférable au consommateur",
+        "description": "Une indemnité accordée par le fabricant qui doit être transférée au consommateur."
+    },
+    {
+        "code": "DAI",
+        "type": "Croissance de l'activité",
+        "description": "Une indemnité ou des frais liés à la croissance des affaires sur une période prédéterminée."
+    },
+    {
+        "code": "DAJ",
+        "type": "Indemnité d'introduction",
+        "description": "Une indemnité liée à l'introduction d'un nouveau produit dans la gamme de produits commercialisée par un détaillant."
+    },
+    {
+        "code": "DAK",
+        "type": "Promotion d'achats multiples",
+        "description": "Un code indiquant des conditions spéciales liées à une promotion pour achats multiples."
+    },
+    {
+        "code": "DAL",
+        "type": "Partenariat",
+        "description": "Une indemnité ou des frais liés à l'établissement et à la maintenance continue d'un partenariat."
+    },
+    {
+        "code": "DAM",
+        "type": "Gestion des retours",
+        "description": "Une indemnité ou des frais liés à la gestion des retours."
+    },
+    {
+        "code": "DAN",
+        "type": "Frais de commande minimale non atteinte",
+        "description": "Frais perçus parce que la quantité minimale de commande n'a pas pu être atteinte."
+    },
+    {
+        "code": "DAO",
+        "type": "Indemnité de seuil de point de vente",
+        "description": "Indemnité pour avoir atteint ou dépassé un seuil de vente convenu au point de vente."
+    },
+    {
+        "code": "DAP",
+        "type": "Remise de gros",
+        "description": "Une remise spéciale liée à l'achat de produits via un grossiste."
+    },
+    {
+        "code": "DAQ",
+        "type": "Commission de transfert de crédits documentaires",
+        "description": "Frais pour le transfert de crédits documentaires transférables."
+    },
+    {
+        "code": "DL",
+        "type": "Livraison",
+        "description": "Le service de fourniture de livraison."
+    },
+    {
+        "code": "EG",
+        "type": "Gravure",
+        "description": "Le service de fourniture de gravure."
+    },
+    {
+        "code": "EP",
+        "type": "Expédition accélérée",
+        "description": "Le service d'accélération de l'expédition."
+    },
+    {
+        "code": "ER",
+        "type": "Garantie du taux de change",
+        "description": "Le service de garantie du taux de change."
+    },
+    {
+        "code": "FAA",
+        "type": "Fabrication",
+        "description": "Le service de fourniture de fabrication."
+    },
+    {
+        "code": "FAB",
+        "type": "Égalisation du fret",
+        "description": "Le service d'équilibrage de charge."
+    },
+    {
+        "code": "FAC",
+        "type": "Manutention extraordinaire du fret",
+        "description": "Le service de fourniture d'une manutention extraordinaire du fret."
+    },
+    {
+        "code": "FC",
+        "type": "Service de fret",
+        "description": "Le service de déplacement de marchandises, par quelque moyen que ce soit, d'un endroit à un autre."
+    },
+    {
+        "code": "FH",
+        "type": "Remplissage/Manutention",
+        "description": "Le service de fourniture de remplissage ou de manutention."
+    },
+    {
+        "code": "FI",
+        "type": "Financement",
+        "description": "Le service de fourniture de financement."
+    },
+    {
+        "code": "GAA",
+        "type": "Meulage",
+        "description": "Le service de meulage."
+    },
+    {
+        "code": "HAA",
+        "type": "Tuyau",
+        "description": "Le service de fourniture d'un tuyau (flexible)."
+    },
+    {
+        "code": "HD",
+        "type": "Manutention",
+        "description": "Service de manutention."
+    },
+    {
+        "code": "HH",
+        "type": "Levage et halage",
+        "description": "Le service de levage et de halage."
+    },
+    {
+        "code": "IAA",
+        "type": "Installation",
+        "description": "Le service d'installation."
+    },
+    {
+        "code": "IAB",
+        "type": "Installation et garantie",
+        "description": "Le service d'installation et de fourniture de garantie."
+    },
+    {
+        "code": "ID",
+        "type": "Livraison intérieure",
+        "description": "Le service de fourniture d'une livraison à l'intérieur."
+    },
+    {
+        "code": "IF",
+        "type": "Inspection",
+        "description": "Le service d'inspection."
+    },
+    {
+        "code": "IR",
+        "type": "Installation et formation",
+        "description": "Le service de fourniture d'installation et de formation."
+    },
+    {
+        "code": "IS",
+        "type": "Facturation",
+        "description": "Le service de fourniture d'une facture."
+    },
+    {
+        "code": "KO",
+        "type": "Cachérisation",
+        "description": "Le service de préparation des aliments conformément à la loi juive."
+    },
+    {
+        "code": "L1",
+        "type": "Comptage par le transporteur",
+        "description": "Le service de comptage effectué par le transporteur."
+    },
+    {
+        "code": "LA",
+        "type": "Étiquetage",
+        "description": "Service d'étiquetage."
+    },
+    {
+        "code": "LAA",
+        "type": "Main-d'œuvre",
+        "description": "Le service consistant à fournir la main-d'œuvre requise."
+    },
+    {
+        "code": "LAB",
+        "type": "Réparation et retour",
+        "description": "Le service de réparation et de retour."
+    },
+    {
+        "code": "LF",
+        "type": "Légalisation",
+        "description": "Le service de légalisation."
+    },
+    {
+        "code": "MAE",
+        "type": "Montage",
+        "description": "Le service de montage."
+    },
+    {
+        "code": "MI",
+        "type": "Envoi de facture par courrier",
+        "description": "Le service d'expédition d'une facture par voie postale."
+    },
+    {
+        "code": "ML",
+        "type": "Envoi de facture par courrier à chaque emplacement",
+        "description": "Le service d'expédition d'une facture par voie postale à chaque site."
+    },
+    {
+        "code": "NAA",
+        "type": "Conteneurs non consignés",
+        "description": "Le service de fourniture de conteneurs perdus (non retournables)."
+    },
+    {
+        "code": "OA",
+        "type": "Connecteurs de câbles extérieurs",
+        "description": "Le service de fourniture de connecteurs de câbles extérieurs."
+    },
+    {
+        "code": "PA",
+        "type": "Facture jointe à l'expédition",
+        "description": "Le service consistant à inclure la facture avec l'envoi."
+    },
+    {
+        "code": "PAA",
+        "type": "Phosphatation (traitement de l'acier)",
+        "description": "Le service de phosphatation de l'acier."
+    },
+    {
+        "code": "PC",
+        "type": "Emballage",
+        "description": "Le service d'emballage."
+    },
+    {
+        "code": "PL",
+        "type": "Palettisation",
+        "description": "Le service de palettisation."
+    },
+    {
+        "code": "PRV",
+        "type": "Variation de prix",
+        "description": "Variation de prix liée à la variation des coûts de l'énergie et/ou des matières premières."
+    },
+    {
+        "code": "RAB",
+        "type": "Réemballage",
+        "description": "Le service de réemballage."
+    },
+    {
+        "code": "RAC",
+        "type": "Réparation",
+        "description": "Le service de réparation."
+    },
+    {
+        "code": "RAD",
+        "type": "Conteneur consigné",
+        "description": "Le service de fourniture de conteneurs retournables."
+    },
+    {
+        "code": "RAF",
+        "type": "Restockage",
+        "description": "Le service de remise en stock."
+    },
+    {
+        "code": "RE",
+        "type": "Nouvelle livraison",
+        "description": "Le service de relivraison."
+    },
+    {
+        "code": "RF",
+        "type": "Remise à neuf",
+        "description": "Le service de remise à neuf (refurbishing)."
+    },
+    {
+        "code": "RH",
+        "type": "Location de wagons ferroviaires",
+        "description": "Le service de mise à disposition de wagons ferroviaires en location."
+    },
+    {
+        "code": "RV",
+        "type": "Chargement",
+        "description": "Le service de chargement des marchandises."
+    },
+    {
+        "code": "SA",
+        "type": "Récupération",
+        "description": "Le service de récupération (salvage)."
+    },
+    {
+        "code": "SAA",
+        "type": "Expédition et manutention",
+        "description": "Le service d'expédition et de manutention."
+    },
+    {
+        "code": "SAD",
+        "type": "Emballage spécial",
+        "description": "Le service d'emballage spécial."
+    },
+    {
+        "code": "SAE",
+        "type": "Estampillage",
+        "description": "Le service d'estampillage ou de timbrage."
+    },
+    {
+        "code": "SAI",
+        "type": "Déchargement par le destinataire",
+        "description": "Le service de déchargement effectué par le destinataire."
+    },
+    {
+        "code": "SG",
+        "type": "Film rétractable",
+        "description": "Le service d'emballage sous film rétractable."
+    },
+    {
+        "code": "SH",
+        "type": "Manutention spéciale",
+        "description": "Le service de manutention spéciale."
+    },
+    {
+        "code": "SM",
+        "type": "Finition spéciale",
+        "description": "Le service de fourniture d'une finition spéciale."
+    },
+    {
+        "code": "SU",
+        "type": "Mise en service",
+        "description": "Le service de configuration ou mise en service (set-up)."
+    },
+    {
+        "code": "TAB",
+        "type": "Location de réservoirs",
+        "description": "Le service de mise à disposition de réservoirs en location."
+    },
+    {
+        "code": "TAC",
+        "type": "Test",
+        "description": "Le service de test."
+    },
+    {
+        "code": "TT",
+        "type": "Transport - facturation tiers",
+        "description": "Le service de fourniture d'une facturation tierce pour le transport."
+    },
+    {
+        "code": "TV",
+        "type": "Transport par le fournisseur",
+        "description": "Le service de fourniture de transport par le vendeur."
+    },
+    {
+        "code": "V1",
+        "type": "Livraison sur parc",
+        "description": "Le service de livraison des marchandises sur le parc (yard)."
+    },
+    {
+        "code": "V2",
+        "type": "Livraison à quai",
+        "description": "Le service de livraison des marchandises au quai (dock)."
+    },
+    {
+        "code": "WH",
+        "type": "Entreposage",
+        "description": "Le service de stockage et de manutention des marchandises dans un entrepôt."
+    },
+    {
+        "code": "XAA",
+        "type": "Combiner tous les envois du même jour",
+        "description": "Le service consistant à combiner tous les envois pour le même jour."
+    },
+    {
+        "code": "YY",
+        "type": "Enlèvement fractionné",
+        "description": "Le service de fourniture d'un enlèvement fractionné."
+    },
+    {
+        "code": "ZZZ",
+        "type": "Défini mutuellement",
+        "description": "Un code attribué dans une liste de codes à utiliser sur une base provisoire et tel que défini entre partenaires commerciaux jusqu'à ce qu'un code précis puisse être attribué à la liste."
+    }
+]

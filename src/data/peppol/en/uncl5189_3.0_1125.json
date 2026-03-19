@@ -1,0 +1,78 @@
+[
+    {
+        "code": "41",
+        "type": "Bonus for works ahead of schedule"
+    },
+    {
+        "code": "42",
+        "type": "Other bonus"
+    },
+    {
+        "code": "60",
+        "type": "Manufacturer’s consumer discount"
+    },
+    {
+        "code": "62",
+        "type": "Due to military status"
+    },
+    {
+        "code": "63",
+        "type": "Due to work accident"
+    },
+    {
+        "code": "64",
+        "type": "Special agreement"
+    },
+    {
+        "code": "65",
+        "type": "Production error discount"
+    },
+    {
+        "code": "66",
+        "type": "New outlet discount"
+    },
+    {
+        "code": "67",
+        "type": "Sample discount"
+    },
+    {
+        "code": "68",
+        "type": "End-of-range discount"
+    },
+    {
+        "code": "70",
+        "type": "Incoterm discount"
+    },
+    {
+        "code": "71",
+        "type": "Point of sales threshold allowance"
+    },
+    {
+        "code": "88",
+        "type": "Material surcharge/deduction"
+    },
+    {
+        "code": "95",
+        "type": "Discount"
+    },
+    {
+        "code": "100",
+        "type": "Special rebate"
+    },
+    {
+        "code": "102",
+        "type": "Fixed long term"
+    },
+    {
+        "code": "103",
+        "type": "Temporary"
+    },
+    {
+        "code": "104",
+        "type": "Standard"
+    },
+    {
+        "code": "105",
+        "type": "Yearly turnover"
+    }
+]

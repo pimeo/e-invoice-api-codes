@@ -1,0 +1,422 @@
+[
+    {
+        "code": "1",
+        "label": "Instrument non défini",
+        "description": "Accord juridiquement exécutoire non défini entre deux ou plusieurs parties (exprimant un droit contractuel ou un droit au paiement d'une somme d'argent)."
+    },
+    {
+        "code": "2",
+        "label": "Crédit de chambre de compensation automatisée",
+        "description": "Transaction de crédit effectuée via le système de chambre de compensation automatisée."
+    },
+    {
+        "code": "3",
+        "label": "Débit de chambre de compensation automatisée",
+        "description": "Transaction de débit effectuée via le système de chambre de compensation automatisée."
+    },
+    {
+        "code": "4",
+        "label": "Annulation de débit à vue ACH",
+        "description": "Demande d'annulation d'une transaction de débit ACH vers un compte de dépôt à vue."
+    },
+    {
+        "code": "5",
+        "label": "Annulation de crédit à vue ACH",
+        "description": "Demande d'annulation d'une transaction de crédit vers un compte de dépôt à vue."
+    },
+    {
+        "code": "6",
+        "label": "Crédit à vue ACH",
+        "description": "Transaction de crédit effectuée via le système ACH vers un compte de dépôt à vue."
+    },
+    {
+        "code": "7",
+        "label": "Débit à vue ACH",
+        "description": "Transaction de débit effectuée via le système ACH vers un compte de dépôt à vue."
+    },
+    {
+        "code": "8",
+        "label": "Retenue",
+        "description": "Indique que la banque doit retenir le paiement en vue de son encaissement par le bénéficiaire ou conformément à d'autres instructions."
+    },
+    {
+        "code": "9",
+        "label": "Compensation nationale ou régionale",
+        "description": "Indique que le paiement doit être effectué via la compensation nationale ou régionale."
+    },
+    {
+        "code": "10",
+        "label": "Espèces",
+        "description": "Paiement en monnaie (y compris billets et pièces) en circulation, y compris les dépôts sur compte courant."
+    },
+    {
+        "code": "11",
+        "label": "Inversion de crédit d'épargne ACH",
+        "description": "Demande d'annulation d'une transaction de crédit ACH vers un compte d'épargne."
+    },
+    {
+        "code": "12",
+        "label": "Inversion de débit d'épargne ACH",
+        "description": "Demande d'annulation d'une transaction de débit ACH vers un compte d'épargne."
+    },
+    {
+        "code": "13",
+        "label": "Crédit d'épargne ACH",
+        "description": "Transaction de crédit effectuée via le système ACH vers un compte d'épargne."
+    },
+    {
+        "code": "14",
+        "label": "Débit d'épargne ACH",
+        "description": "Transaction de débit effectuée via le système ACH vers un compte d'épargne."
+    },
+    {
+        "code": "15",
+        "label": "Crédit par écriture",
+        "description": "Opération de crédit entre deux comptes d'une même agence bancaire. Synonyme: crédit interne."
+    },
+    {
+        "code": "16",
+        "label": "Débit par écriture",
+        "description": "Opération de débit entre deux comptes d'une même agence bancaire. Synonyme: débit interne."
+    },
+    {
+        "code": "17",
+        "label": "Crédit ACH à vue (CCD)",
+        "description": "Transaction de crédit effectuée via le système ACH sur un compte de dépôt à vue au moyen du format de paiement CCD."
+    },
+    {
+        "code": "18",
+        "label": "Débit ACH à vue (CCD)",
+        "description": "Transaction de débit effectuée via le système ACH sur un compte de dépôt à vue au moyen du format de paiement CCD."
+    },
+    {
+        "code": "19",
+        "label": "Crédit ACH à vue pour les transactions commerciales d'entreprise (CTP)",
+        "description": "Transaction de crédit effectuée via le système ACH sur un compte de dépôt à vue au moyen du format de paiement CTP."
+    },
+    {
+        "code": "20",
+        "label": "Chèque",
+        "description": "Paiement par formulaire pré-imprimé donnant instruction au titulaire du compte (banque ou société de crédit immobilier) de verser une somme déterminée à un bénéficiaire désigné."
+    },
+    {
+        "code": "21",
+        "label": "Traite de banque",
+        "description": "Émission d'une traite de banque en paiement des fonds."
+    },
+    {
+        "code": "22",
+        "label": "Traite de banque certifiée",
+        "description": "Chèque tiré par une banque sur elle-même ou sur son mandataire. Une personne qui doit de l'argent à autrui achète la traite auprès d'une banque contre espèces et la remet au créancier, qui n'a donc pas à craindre qu'elle soit impayée."
+    },
+    {
+        "code": "23",
+        "label": "Chèque bancaire (émis par une banque ou un établissement similaire)",
+        "description": "Paiement par formulaire pré-imprimé, rempli par un établissement financier, donnant instruction au titulaire du compte (banque ou société de crédit immobilier) de verser une somme déterminée à un destinataire désigné."
+    },
+    {
+        "code": "24",
+        "label": "Lettre de change en attente d'acceptation",
+        "description": "Traitement tiré par le créancier sur le débiteur, mais non encore accepté par ce dernier."
+    },
+    {
+        "code": "25",
+        "label": "Chèque certifié",
+        "description": "Paiement par formulaire pré-imprimé, portant le cachet de la banque émettrice, donnant instruction au titulaire du compte (banque ou société de crédit immobilier) de verser une somme déterminée à un destinataire désigné."
+    },
+    {
+        "code": "26",
+        "label": "Chèque local",
+        "description": "Indique que le chèque est remis localement au destinataire."
+    },
+    {
+        "code": "27",
+        "label": "Paiement à vue ACH (CTP) - Débit",
+        "description": "Transaction de débit effectuée via le système ACH sur un compte de dépôt à vue au format CTP."
+    },
+    {
+        "code": "28",
+        "label": "Crédit ACH (CTX) - Échange de fonds à vue",
+        "description": "Transaction de crédit effectuée via le système ACH sur un compte de dépôt à vue au format CTX."
+    },
+    {
+        "code": "29",
+        "label": "Débit ACH (CTX) - Échange de fonds à vue",
+        "description": "Transaction de débit effectuée via le système ACH sur un compte de dépôt à vue au format CTX."
+    },
+    {
+        "code": "30",
+        "label": "Virement",
+        "description": "Paiement par virement de fonds d'un compte à un autre."
+    },
+    {
+        "code": "31",
+        "label": "Virement",
+        "description": "Paiement par virement de fonds d'un compte à un autre."
+    },
+    {
+        "code": "32",
+        "label": "Crédit ACH (CCD+) - Concentration/Déboursement de trésorerie à vue",
+        "description": "Transaction de crédit effectuée via le système ACH sur un compte de dépôt à vue au format CCD+."
+    },
+    {
+        "code": "33",
+        "label": "Débit ACH à vue (CCD+)",
+        "description": "Transaction de débit effectuée via le système ACH sur un compte de dépôt à vue, au moyen du format de paiement CCD+."
+    },
+    {
+        "code": "34",
+        "label": "Paiement et dépôt préétablis ACH (PPD)",
+        "description": "Transaction de crédit à la consommation effectuée via le système ACH sur un compte de dépôt à vue ou d'épargne."
+    },
+    {
+        "code": "35",
+        "label": "Crédit ACH à vue (CCD)",
+        "description": "Transaction de crédit effectuée via le système ACH sur un compte de dépôt à vue ou d'épargne."
+    },
+    {
+        "code": "36",
+        "label": "Débit ACH à vue (CCD)",
+        "description": "Transaction de débit effectuée via le système ACH sur un compte d'épargne, au moyen du format de paiement CCD."
+    },
+    {
+        "code": "37",
+        "label": "Crédit ACH à vue (CTP)",
+        "description": "Transaction de crédit effectuée via le système ACH sur un compte d'épargne, au moyen du format de paiement CTP."
+    },
+    {
+        "code": "38",
+        "label": "Débit ACH pour paiement commercial d'entreprise (CTP)",
+        "description": "Transaction de débit effectuée via le système ACH sur un compte d'épargne au format CTP."
+    },
+    {
+        "code": "39",
+        "label": "Crédit ACH pour échange commercial d'entreprise (CTX)",
+        "description": "Transaction de crédit effectuée via le système ACH sur un compte d'épargne au format CTX."
+    },
+    {
+        "code": "40",
+        "label": "Débit ACH pour échange commercial d'entreprise (CTX)",
+        "description": "Transaction de débit effectuée via le système ACH sur un compte d'épargne au format CTX."
+    },
+    {
+        "code": "41",
+        "label": "Crédit ACH pour concentration/décaissement de trésorerie plus (CCD+)",
+        "description": "Transaction de crédit effectuée via le système ACH sur un compte d'épargne au format CCD+."
+    },
+    {
+        "code": "42",
+        "label": "Paiement sur compte bancaire",
+        "description": "Paiement par le biais d'un accord de règlement de dettes géré par La Poste."
+    },
+    {
+        "code": "43",
+        "label": "Débit ACH pour concentration/décaissement de trésorerie plus (CCD+)",
+        "description": "Transaction de débit effectuée via le système ACH sur un compte d'épargne au format CCD+."
+    },
+    {
+        "code": "44",
+        "label": "Lettre de change acceptée",
+        "description": "Effet tiré par le créancier sur le débiteur et accepté par ce dernier."
+    },
+    {
+        "code": "45",
+        "label": "Virement bancaire à domicile référencé",
+        "description": "Virement bancaire référencé initié par le biais du service de banque à domicile."
+    },
+    {
+        "code": "46",
+        "label": "Virement interbancaire",
+        "description": "Virement par débit interbancaire."
+    },
+    {
+        "code": "47",
+        "label": "Virement bancaire à domicile",
+        "description": "Virement par débit initié par le biais du service de banque à domicile."
+    },
+    {
+        "code": "48",
+        "label": "Carte bancaire",
+        "description": "Paiement par carte émise par une banque ou un autre établissement financier."
+    },
+    {
+        "code": "49",
+        "label": "Prélèvement automatique",
+        "description": "Le montant doit être, ou a été, débité directement du compte bancaire du client."
+    },
+    {
+        "code": "50",
+        "label": "Paiement par virement bancaire",
+        "description": "Méthode de transfert de fonds par la poste plutôt que par le système bancaire."
+    },
+    {
+        "code": "51",
+        "label": "FR, norme 6 97-Télérèglement CFONB (Organisation française de normalisation bancaire)",
+        "description": "Option A. Procédure standard française permettant à un débiteur de régler une somme due à un créancier. Le créancier la transmet à sa banque, qui encaisse le montant sur le compte bancaire du débiteur."
+    },
+    {
+        "code": "52",
+        "label": "Paiement commercial urgent",
+        "description": "Ordre de paiement nécessitant un traitement garanti par les moyens les plus appropriés pour assurer son exécution à la date d'exécution demandée, à condition qu'il soit émis à la banque destinataire avant l'heure limite convenue."
+    },
+    {
+        "code": "53",
+        "label": "Paiement urgent de trésorerie",
+        "description": "Ordre de paiement ou virement devant être exécuté, par les moyens les plus appropriés, dans les plus brefs délais et avant les paiements commerciaux urgents."
+    },
+    {
+        "code": "54",
+        "label": "Carte de crédit",
+        "description": "Paiement effectué par carte de crédit."
+    },
+    {
+        "code": "55",
+        "label": "Carte de débit",
+        "description": "Paiement effectué par carte de débit."
+    },
+    {
+        "code": "56",
+        "label": "Bankgiro",
+        "description": "Le paiement sera ou a été effectué par Bankgiro."
+    },
+    {
+        "code": "57",
+        "label": "Convention permanente",
+        "description": "Les moyens de paiement ont été préalablement convenus entre le vendeur et l'acheteur et ne sont donc pas précisés à nouveau."
+    },
+    {
+        "code": "58",
+        "label": "Virement SEPA",
+        "description": "Virement au sein de l'espace unique de paiement en euros (SEPA)."
+    },
+    {
+        "code": "59",
+        "label": "Prélèvement SEPA",
+        "description": "Prélèvement automatique au sein de l'espace unique de paiement en euros (SEPA)."
+    },
+    {
+        "code": "60",
+        "label": "Billet à ordre",
+        "description": "Paiement par promesse écrite inconditionnelle faite par une personne à une autre, signée par son émetteur, s'engageant à payer, à vue ou à une date ultérieure déterminée ou déterminable, une somme d'argent déterminée, à ordre ou au porteur."
+    },
+    {
+        "code": "61",
+        "label": "Billet à ordre signé par le débiteur",
+        "description": "Paiement par promesse écrite inconditionnelle faite par le débiteur à une autre personne, signée par lui, s'engageant à payer, à vue ou à une date ultérieure déterminée ou déterminable, une somme d'argent déterminée, à ordre ou au porteur."
+    },
+    {
+        "code": "62",
+        "label": "Billet à ordre signé par le débiteur et endossé par une banque",
+        "description": "Paiement par promesse écrite inconditionnelle faite par le débiteur à une autre personne, signée par le débiteur et endossée par une banque, engageant à payer sur demande ou à une date ultérieure déterminée ou déterminable une somme d'argent, à ordre ou au porteur."
+    },
+    {
+        "code": "63",
+        "label": "Billet à ordre signé par le débiteur et endossé par un tiers",
+        "description": "Paiement par promesse écrite inconditionnelle faite par le débiteur à une autre personne, signée par le débiteur et endossée par un tiers, engageant à payer sur demande ou à une date ultérieure déterminée ou déterminable une somme d'argent, à ordre ou au porteur."
+    },
+    {
+        "code": "64",
+        "label": "Billet à ordre signé par une banque",
+        "description": "Paiement par promesse écrite inconditionnelle faite par la banque à une autre personne, signée par la banque, engageant à payer sur demande ou à une date ultérieure déterminée ou déterminable une somme d'argent, à ordre ou au porteur."
+    },
+    {
+        "code": "65",
+        "label": "Billet à ordre signé par une banque et endossé par une autre banque",
+        "description": "Paiement par promesse écrite inconditionnelle faite par la banque à une autre personne, signée par la banque et endossée par une autre banque, engageant à payer sur demande ou à une date ultérieure déterminée ou déterminable une somme d'argent, à ordre ou au porteur."
+    },
+    {
+        "code": "66",
+        "label": "Billet à ordre signé par un tiers",
+        "description": "Paiement par promesse écrite inconditionnelle faite par un tiers à une autre personne, signée par ce tiers, engageant à payer sur demande ou à une date ultérieure déterminée ou déterminable une somme d'argent, à ordre ou au porteur."
+    },
+    {
+        "code": "67",
+        "label": "Billet à ordre signé par un tiers et endossé par une banque",
+        "description": "Paiement par promesse écrite inconditionnelle faite par un tiers à une autre personne, signée par ce tiers et endossée par une banque, engageant à payer sur demande ou à une date ultérieure déterminée ou déterminable une somme d'argent."
+    },
+    {
+        "code": "68",
+        "label": "Service de paiement en ligne",
+        "description": "Le paiement sera effectué ou a été effectué par un service de paiement en ligne."
+    },
+    {
+        "code": "70",
+        "label": "Effet tiré par le créancier sur le débiteur",
+        "description": "Effet tiré par le créancier sur le débiteur."
+    },
+    {
+        "code": "74",
+        "label": "Effet tiré par le créancier sur une banque",
+        "description": "Effet tiré par le créancier sur une banque."
+    },
+    {
+        "code": "75",
+        "label": "Effet tiré par le créancier, endossé par une autre banque",
+        "description": "Effet tiré par le créancier, endossé par une autre banque."
+    },
+    {
+        "code": "76",
+        "label": "Effet tiré par le créancier sur une banque et endossé par un tiers",
+        "description": "Effet tiré par le créancier sur une banque et endossé par un tiers."
+    },
+    {
+        "code": "77",
+        "label": "Effet tiré par le créancier sur un tiers",
+        "description": "Effet tiré par le créancier sur un tiers."
+    },
+    {
+        "code": "78",
+        "label": "Effet tiré par le créancier sur un tiers, accepté et endossé par la banque",
+        "description": "Effet tiré par le créancier sur un tiers, accepté et endossé par la banque."
+    },
+    {
+        "code": "91",
+        "label": "Traite bancaire non transférable",
+        "description": "Émission d'une traite bancaire non endossable."
+    },
+    {
+        "code": "92",
+        "label": "Chèque local non transférable",
+        "description": "Émission d'un chèque non endossable en paiement des fonds."
+    },
+    {
+        "code": "93",
+        "label": "Virement de référence",
+        "description": "Le donneur d'ordre indique à la banque d'utiliser le système de paiement «Virement de référence». Utilisé dans le système bancaire national finlandais."
+    },
+    {
+        "code": "94",
+        "label": "Virement de référence urgent",
+        "description": "Le donneur d'ordre indique à la banque d'utiliser le service bancaire «Virement de référence urgent» pour le transfert du paiement. Utilisé dans le système bancaire national finlandais."
+    },
+    {
+        "code": "95",
+        "label": "Virement de référence libre",
+        "description": "Le donneur d'ordre indique à la banque donneuse d'utiliser le service bancaire «Virement de référence libre» pour le transfert du paiement. Utilisé dans le système bancaire national finlandais."
+    },
+    {
+        "code": "96",
+        "label": "Mode de paiement demandé non utilisé",
+        "description": "Ce code indique que le mode de paiement demandé n'a pas pu être utilisé."
+    },
+    {
+        "code": "97",
+        "label": "Compensation entre partenaires",
+        "description": "Montants que deux partenaires se doivent mutuellement et qui doivent être compensés afin d'éviter des paiements inutiles."
+    },
+    {
+        "code": "98",
+        "label": "JP, Créances monétaires enregistrées électroniquement",
+        "description": "Une créance monétaire enregistrée électroniquement est une créance distincte de la dette sous-jacente qui a donné lieu à sa constitution. Par conséquent, même si une créance monétaire enregistrée électroniquement est constituée comme moyen de paiement de la dette sous-jacente, cette dernière ne sera pas automatiquement éteinte."
+    },
+    {
+        "code": "'ZZZ'",
+        "label": "Défini mutuellement",
+        "description": "Code attribué au sein d'une liste de codes, à utiliser provisoirement et selon les modalités définies entre les partenaires commerciaux, jusqu'à ce qu'un code précis puisse être attribué à la liste de codes."
+    },
+    {
+        "code": "69",
+        "label": "Avis de transfert",
+        "description": ""
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "code": "81",
+        "type": "Note de crédit relative aux marchandises ou services",
+        "description": "Message documentaire utilisé pour fournir des informations de crédit relatives à une transaction de biens ou de services à la partie concernée."
+    },
+    {
+        "code": "83",
+        "type": "Note de crédit relative à des ajustements financiers",
+        "description": "Message documentaire pour fournir des informations de crédit relatives à des ajustements financiers à la partie concernée, par exemple des bonus."
+    },
+    {
+        "code": "381",
+        "type": "Note de crédit",
+        "description": "(1113) Document/message permettant de fournir des informations de crédit à la partie concernée."
+    },
+    {
+        "code": "396",
+        "type": "Note de crédit d'affacturage",
+        "description": "Note de crédit relative à une ou plusieurs factures cédées."
+    },
+    {
+        "code": "532",
+        "type": "Note de crédit du transitaire",
+        "description": "Document/message permettant de fournir des informations de crédit à la partie concernée."
+    }
+]

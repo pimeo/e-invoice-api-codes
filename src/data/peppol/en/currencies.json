@@ -1,0 +1,152 @@
+[
+    {
+        "code": "USD",
+        "type": "United States Dollar",
+        "symbol": "$"
+    },
+    {
+        "code": "EUR",
+        "type": "Euro",
+        "symbol": "€"
+    },
+    {
+        "code": "GBP",
+        "type": "British Pound Sterling",
+        "symbol": "£"
+    },
+    {
+        "code": "JPY",
+        "type": "Japanese Yen",
+        "symbol": "¥"
+    },
+    {
+        "code": "CHF",
+        "type": "Swiss Franc",
+        "symbol": "CHF"
+    },
+    {
+        "code": "CAD",
+        "type": "Canadian Dollar",
+        "symbol": "CA$"
+    },
+    {
+        "code": "AUD",
+        "type": "Australian Dollar",
+        "symbol": "A$"
+    },
+    {
+        "code": "CNY",
+        "type": "Chinese Yuan Renminbi",
+        "symbol": "¥"
+    },
+    {
+        "code": "INR",
+        "type": "Indian Rupee",
+        "symbol": "₹"
+    },
+    {
+        "code": "BRL",
+        "type": "Brazilian Real",
+        "symbol": "R$"
+    },
+    {
+        "code": "RUB",
+        "type": "Russian Ruble",
+        "symbol": "₽"
+    },
+    {
+        "code": "KRW",
+        "type": "South Korean Won",
+        "symbol": "₩"
+    },
+    {
+        "code": "MXN",
+        "type": "Mexican Peso",
+        "symbol": "Mex$"
+    },
+    {
+        "code": "ZAR",
+        "type": "South African Rand",
+        "symbol": "R"
+    },
+    {
+        "code": "SGD",
+        "type": "Singapore Dollar",
+        "symbol": "S$"
+    },
+    {
+        "code": "HKD",
+        "type": "Hong Kong Dollar",
+        "symbol": "HK$"
+    },
+    {
+        "code": "SEK",
+        "type": "Swedish Krona",
+        "symbol": "kr"
+    },
+    {
+        "code": "NOK",
+        "type": "Norwegian Krone",
+        "symbol": "kr"
+    },
+    {
+        "code": "DKK",
+        "type": "Danish Krone",
+        "symbol": "kr"
+    },
+    {
+        "code": "TRY",
+        "type": "Turkish Lira",
+        "symbol": "₺"
+    },
+    {
+        "code": "NZD",
+        "type": "New Zealand Dollar",
+        "symbol": "NZ$"
+    },
+    {
+        "code": "THB",
+        "type": "Thai Baht",
+        "symbol": "฿"
+    },
+    {
+        "code": "IDR",
+        "type": "Indonesian Rupiah",
+        "symbol": "Rp"
+    },
+    {
+        "code": "ILS",
+        "type": "Israeli New Shekel",
+        "symbol": "₪"
+    },
+    {
+        "code": "PHP",
+        "type": "Philippine Peso",
+        "symbol": "₱"
+    },
+    {
+        "code": "PLN",
+        "type": "Polish Zloty",
+        "symbol": "zł"
+    },
+    {
+        "code": "AED",
+        "type": "United Arab Emirates Dirham",
+        "symbol": "د.إ"
+    },
+    {
+        "code": "SAR",
+        "type": "Saudi Riyal",
+        "symbol": "ر.س"
+    },
+    {
+        "code": "MYR",
+        "type": "Malaysian Ringgit",
+        "symbol": "RM"
+    },
+    {
+        "code": "VND",
+        "type": "Vietnamese Dong",
+        "symbol": "₫"
+    }
+]

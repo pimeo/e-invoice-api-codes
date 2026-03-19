@@ -1,0 +1,107 @@
+[
+    {
+        "code": "A",
+        "type": "Taux de taxe mixte",
+        "description": "Code précisant que le taux est basé sur une taxe mixte."
+    },
+    {
+        "code": "AA",
+        "type": "Taux réduit",
+        "description": "Le taux de taxe est inférieur au taux standard."
+    },
+    {
+        "code": "AB",
+        "type": "Exonéré pour revente",
+        "description": "Code de catégorie fiscale indiquant que l'article est exonéré de taxe lorsqu'il est acheté pour une revente future."
+    },
+    {
+        "code": "AC",
+        "type": "TVA non exigible immédiatement",
+        "description": "Code indiquant que le montant de la taxe sur la valeur ajoutée (TVA) dû sur la facture actuelle doit être payé à la réception d'une demande de paiement de TVA distincte."
+    },
+    {
+        "code": "AD",
+        "type": "TVA due sur une facture précédente",
+        "description": "Code indiquant que le montant de la taxe sur la valeur ajoutée (TVA) d'une facture précédente doit être payé."
+    },
+    {
+        "code": "AE",
+        "type": "Autoliquidation de la TVA",
+        "description": "Code précisant que le taux de TVA standard est perçu auprès du destinataire de la facture."
+    },
+    {
+        "code": "B",
+        "type": "TVA transférée",
+        "description": "La TVA ne doit pas être payée à l'émetteur de la facture mais directement à l'autorité fiscale compétente."
+    },
+    {
+        "code": "C",
+        "type": "Droits payés par le fournisseur",
+        "description": "Les droits associés à l'expédition des marchandises sont payés par le fournisseur ; le client reçoit les marchandises avec les droits acquittés."
+    },
+    {
+        "code": "D",
+        "type": "Régime de la marge (TVA) - agences de voyages",
+        "description": "Indication que le régime de la marge de TVA pour les agences de voyages est appliqué."
+    },
+    {
+        "code": "E",
+        "type": "Exonéré de taxe",
+        "description": "Code précisant que les taxes ne sont pas applicables."
+    },
+    {
+        "code": "F",
+        "type": "Régime de la marge (TVA) - biens d'occasion",
+        "description": "Indication que le régime de la marge de TVA pour les biens d'occasion est appliqué."
+    },
+    {
+        "code": "G",
+        "type": "Exportation franche, taxe non facturée",
+        "description": "Code précisant que l'article est une exportation libre et que les taxes ne sont pas facturées."
+    },
+    {
+        "code": "H",
+        "type": "Taux majoré",
+        "description": "Code précisant un taux plus élevé de droit, de taxe ou de frais."
+    },
+    {
+        "code": "I",
+        "type": "Régime de la marge (TVA) - œuvres d'art",
+        "description": "Indication que le régime de la marge de TVA pour les œuvres d'art est appliqué."
+    },
+    {
+        "code": "J",
+        "type": "Régime de la marge (TVA) - objets de collection et antiquités",
+        "description": "Indication que le régime de la marge de TVA pour les objets de collection et les antiquités est appliqué."
+    },
+    {
+        "code": "K",
+        "type": "Exonéré de TVA pour livraisons intracommunautaires EEE",
+        "description": "Code de catégorie fiscale indiquant que l'article est exonéré de TVA en raison d'une livraison intracommunautaire dans l'Espace Économique Européen."
+    },
+    {
+        "code": "L",
+        "type": "Taxe indirecte générale des Canaries",
+        "description": "L'Impuesto General Indirecto Canario (IGIC) est une taxe indirecte perçue sur les biens et services fournis aux îles Canaries (Espagne)."
+    },
+    {
+        "code": "M",
+        "type": "Taxe sur la production et l'importation à Ceuta et Melilla",
+        "description": "L'Impuesto sobre la Producción, los Servicios y la Importación (IPSI) est une taxe municipale indirecte perçue dans les villes de Ceuta et Melilla."
+    },
+    {
+        "code": "O",
+        "type": "Services hors champ d'application de la taxe",
+        "description": "Code précisant que les taxes ne sont pas applicables aux services."
+    },
+    {
+        "code": "S",
+        "type": "Taux standard",
+        "description": "Code spécifiant le taux standard."
+    },
+    {
+        "code": "Z",
+        "type": "Marchandises taxées à taux zéro",
+        "description": "Code précisant que les marchandises sont à un taux nul."
+    }
+]

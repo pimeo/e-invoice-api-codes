@@ -1,0 +1,867 @@
+[
+    {
+        "code": "AAA",
+        "type": "Description des marchandises",
+        "description": "[7002] Description en langage clair de la nature des marchandises suffisante pour les identifier au niveau requis à des fins bancaires, douanières, statistiques ou de transport, en évitant les détails inutiles (terme générique)."
+    },
+    {
+        "code": "AAB",
+        "type": "Conditions de paiement",
+        "description": "[4276] Conditions de paiement entre les parties à une transaction (terme générique)."
+    },
+    {
+        "code": "AAC",
+        "type": "Informations supplémentaires sur les marchandises dangereuses",
+        "description": "Informations complémentaires concernant les marchandises dangereuses."
+    },
+    {
+        "code": "AAD",
+        "type": "Nom technique des marchandises dangereuses",
+        "description": "Désignation officielle de transport, complétée si nécessaire par le nom technique correct, par lequel une substance ou un article dangereux peut être correctement identifié."
+    },
+    {
+        "code": "AAE",
+        "type": "Description de l'accusé de réception",
+        "description": "Le contenu d'un accusé de réception."
+    },
+    {
+        "code": "AAF",
+        "type": "Informations tarifaires supplémentaires",
+        "description": "Détails spécifiques s'appliquant aux tarifs."
+    },
+    {
+        "code": "AAG",
+        "type": "Instructions aux parties",
+        "description": "Indique que le segment contient des instructions à transmettre à la partie identifiée."
+    },
+    {
+        "code": "AAH",
+        "type": "Informations douanières",
+        "description": "[4034] Informations saisies par la douane sur la CIM."
+    },
+    {
+        "code": "AAI",
+        "type": "Informations générales",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "AAJ",
+        "type": "Conditions supplémentaires de vente/achat",
+        "description": "Conditions supplémentaires spécifiques à cette commande ou à ce projet."
+    },
+    {
+        "code": "AAK",
+        "type": "Conditions de prix",
+        "description": "Informations sur les conditions de prix attendues ou données."
+    },
+    {
+        "code": "AAL",
+        "type": "Dimensions des marchandises en caractères",
+        "description": "Expression d'un nombre en caractères comme la longueur de dix mètres."
+    },
+    {
+        "code": "AAM",
+        "type": "Restrictions de réutilisation de l'équipement",
+        "description": "Raisons techniques ou commerciales pour lesquelles un équipement ne peut pas être réutilisé après la fin du transport actuel."
+    },
+    {
+        "code": "AAN",
+        "type": "Restriction de manipulation",
+        "description": "Restrictions de manipulation dépendant des caractéristiques techniques de l'équipement ou de la nature des marchandises."
+    },
+    {
+        "code": "AAO",
+        "type": "Description de l'erreur (texte libre)",
+        "description": "Erreur décrite par un texte libre."
+    },
+    {
+        "code": "AAP",
+        "type": "Réponse (texte libre)",
+        "description": "Texte libre de la réponse à une communication."
+    },
+    {
+        "code": "AAQ",
+        "type": "Description du contenu du colis",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "AAR",
+        "type": "Conditions de livraison",
+        "description": "(4053) Texte libre des conditions de livraison non Incoterms. Pour les Incoterms, utiliser : 4053."
+    },
+    {
+        "code": "AAS",
+        "type": "Remarques sur le connaissement",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "AAT",
+        "type": "Informations sur le mode de règlement",
+        "description": "Informations en texte libre sur une lettre de transport aérien IATA indiquant le moyen par lequel le compte doit être réglé."
+    },
+    {
+        "code": "AAU",
+        "type": "Informations sur la facture d'envoi",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "AAV",
+        "type": "Informations sur la facture de dédouanement",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "AAW",
+        "type": "Informations sur la lettre de crédit",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "AAX",
+        "type": "Informations sur la licence",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "AAY",
+        "type": "Déclarations de certification",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "AAZ",
+        "type": "Informations d'exportation supplémentaires",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ABA",
+        "type": "Déclarations tarifaires",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ABC",
+        "type": "Conditions de vente ou d'achat",
+        "description": "Informations complémentaires concernant les termes et conditions applicables à la transaction."
+    },
+    {
+        "code": "ABD",
+        "type": "Nature de la transaction",
+        "description": "Une indication pour la douane du type de contrat sous lequel les marchandises sont fournies."
+    },
+    {
+        "code": "ABE",
+        "type": "Conditions et/ou clauses additionnelles (crédit documentaire)",
+        "description": "Conditions et/ou clauses additionnelles au crédit documentaire."
+    },
+    {
+        "code": "ABF",
+        "type": "Instructions/informations sur le crédit documentaire standby",
+        "description": "Instructions ou informations relatives à un crédit documentaire de soutien (standby)."
+    },
+    {
+        "code": "ABG",
+        "type": "Instructions/informations sur les expéditions partielles",
+        "description": "Instructions ou informations sur les expéditions partielles."
+    },
+    {
+        "code": "ABH",
+        "type": "Instructions/informations sur les transbordements",
+        "description": "Instructions ou informations sur les transbordements."
+    },
+    {
+        "code": "ABI",
+        "type": "Instructions de manutention additionnelles (crédit documentaire)",
+        "description": "Instructions de manutention supplémentaires pour un crédit documentaire."
+    },
+    {
+        "code": "ABJ",
+        "type": "Informations d'acheminement national",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ABK",
+        "type": "Catégorie d'équipement facturable",
+        "description": "Les types d'équipement sont codés par catégorie à des fins financières."
+    },
+    {
+        "code": "ABL",
+        "type": "Informations gouvernementales",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ABM",
+        "type": "Informations d'acheminement ultérieur",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ABN",
+        "type": "Informations comptables",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ABO",
+        "type": "Informations sur les divergences",
+        "description": "Texte libre ou informations codées pour indiquer une divergence spécifique."
+    },
+    {
+        "code": "ABP",
+        "type": "Instructions de confirmation",
+        "description": "Instructions de confirmation de crédit documentaire."
+    },
+    {
+        "code": "ABQ",
+        "type": "Méthode d'émission",
+        "description": "Méthode d'émission du crédit documentaire."
+    },
+    {
+        "code": "ABR",
+        "type": "Instructions de livraison des documents",
+        "description": "Instructions de livraison pour les documents requis dans le cadre d'un crédit documentaire."
+    },
+    {
+        "code": "ABS",
+        "type": "Conditions additionnelles",
+        "description": "Conditions supplémentaires à l'émission d'un crédit documentaire."
+    },
+    {
+        "code": "ABT",
+        "type": "Informations sur les montants additionnels couverts",
+        "description": "Informations ou instructions sur les montants additionnels."
+    },
+    {
+        "code": "ABU",
+        "type": "Paiement différé (termes additionnels)",
+        "description": "Conditions supplémentaires concernant le paiement différé."
+    },
+    {
+        "code": "ABV",
+        "type": "Acceptation (termes additionnels)",
+        "description": "Conditions supplémentaires concernant l'acceptation."
+    },
+    {
+        "code": "ABW",
+        "type": "Négociation (termes additionnels)",
+        "description": "Conditions supplémentaires concernant la négociation."
+    },
+    {
+        "code": "ABX",
+        "type": "Nom du document et exigences documentaires",
+        "description": "Nom du document et exigences documentaires."
+    },
+    {
+        "code": "ABY",
+        "type": "Informations réglementaires",
+        "description": "Le texte libre contient des informations pour l'autorité réglementaire."
+    },
+    {
+        "code": "ABZ",
+        "type": "Instructions sur le crédit documentaire revolving",
+        "description": "Instructions ou informations sur un crédit documentaire permanent (revolving)."
+    },
+    {
+        "code": "ACA",
+        "type": "Exigences documentaires",
+        "description": "Spécification des exigences documentaires."
+    },
+    {
+        "code": "ACB",
+        "type": "Informations supplémentaires",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ACC",
+        "type": "Clause de cession d'affacturage",
+        "description": "Cession basée sur un accord entre le vendeur et l'affactureur."
+    },
+    {
+        "code": "ACD",
+        "type": "Raison / Motif",
+        "description": "Raison d'une demande ou d'une réponse."
+    },
+    {
+        "code": "ACE",
+        "type": "Litige",
+        "description": "Avis, généralement de l'acheteur au vendeur, signalant une anomalie sur les marchandises ou services, ou sur la facture."
+    },
+    {
+        "code": "ACF",
+        "type": "Informations d'attribut additionnelles",
+        "description": "Le texte se rapporte à des informations sur un attribut supplémentaire non spécifié par ailleurs."
+    },
+    {
+        "code": "ACG",
+        "type": "Déclaration d'absence",
+        "description": "Déclaration sur le motif de l'absence."
+    },
+    {
+        "code": "ACH",
+        "type": "Déclaration d'agrégation",
+        "description": "Déclaration sur la manière dont une variable spécifique ou un ensemble de variables a été agrégé."
+    },
+    {
+        "code": "ACI",
+        "type": "Déclaration de compilation",
+        "description": "Déclaration sur l'état de compilation d'une série ou d'un autre ensemble de chiffres ou de calculs."
+    },
+    {
+        "code": "ACJ",
+        "type": "Exception définitionnelle",
+        "description": "Une exception à la définition convenue d'un terme, d'un concept ou d'une formule."
+    },
+    {
+        "code": "ACK",
+        "type": "Déclaration de confidentialité",
+        "description": "Déclaration sur la nature privée ou confidentielle d'un objet."
+    },
+    {
+        "code": "ACL",
+        "type": "Déclaration de qualité",
+        "description": "Déclaration sur la qualité d'un objet."
+    },
+    {
+        "code": "ACM",
+        "type": "Description statistique",
+        "description": "Description d'un objet statistique tel qu'une liste de valeurs ou une structure."
+    },
+    {
+        "code": "ACN",
+        "type": "Définition statistique",
+        "description": "Définition d'un objet statistique tel qu'un concept ou une définition de structure."
+    },
+    {
+        "code": "ACO",
+        "type": "Nom statistique",
+        "description": "Nom d'un objet statistique tel qu'une liste de valeurs ou un concept."
+    },
+    {
+        "code": "ACP",
+        "type": "Titre statistique",
+        "description": "Titre d'un objet statistique tel qu'une liste de valeurs ou un concept."
+    },
+    {
+        "code": "ACQ",
+        "type": "Informations hors-dimensions",
+        "description": "Informations relatives aux différences entre les dimensions réelles de transport et les dimensions normales."
+    },
+    {
+        "code": "ACR",
+        "type": "Informations sur les arrêts imprévus",
+        "description": "Informations relatives aux arrêts inattendus pendant un transport."
+    },
+    {
+        "code": "ACS",
+        "type": "Principes",
+        "description": "Le sujet est la section des principes des règles UN/EDIFACT."
+    },
+    {
+        "code": "ACT",
+        "type": "Termes et définitions",
+        "description": "Le sujet est la section des termes et définitions des règles UN/EDIFACT."
+    },
+    {
+        "code": "ACU",
+        "type": "Nom du segment",
+        "description": "Le sujet est le nom du segment."
+    },
+    {
+        "code": "ACV",
+        "type": "Nom de l'élément de donnée simple",
+        "description": "Le sujet est le nom d'un élément de donnée simple."
+    },
+    {
+        "code": "ACW",
+        "type": "Portée (Scope)",
+        "description": "Le sujet est la section sur la portée des règles UN/EDIFACT."
+    },
+    {
+        "code": "ACX",
+        "type": "Nom du type de message",
+        "description": "Le sujet est le nom du type de message."
+    },
+    {
+        "code": "ACY",
+        "type": "Introduction",
+        "description": "Le sujet est la section introduction des règles UN/EDIFACT."
+    },
+    {
+        "code": "ACZ",
+        "type": "Glossaire",
+        "description": "Le sujet est la section glossaire des règles UN/EDIFACT."
+    },
+    {
+        "code": "ADA",
+        "type": "Définition fonctionnelle",
+        "description": "Le sujet est la section définition fonctionnelle des règles UN/EDIFACT."
+    },
+    {
+        "code": "ADB",
+        "type": "Exemples",
+        "description": "Le sujet est la section des exemples des règles UN/EDIFACT."
+    },
+    {
+        "code": "ADC",
+        "type": "Page de couverture",
+        "description": "Le sujet est la page de couverture de la documentation UN/EDIFACT."
+    },
+    {
+        "code": "ADE",
+        "type": "Nom de la valeur du code",
+        "description": "Le sujet est le nom de la valeur du code."
+    },
+    {
+        "code": "ADF",
+        "type": "Nom de la liste de codes",
+        "description": "Le sujet est le nom de la liste de codes."
+    },
+    {
+        "code": "ADG",
+        "type": "Clarification d'usage",
+        "description": "Explication de l'utilisation prévue d'un segment ou d'un groupe de segments."
+    },
+    {
+        "code": "ADH",
+        "type": "Nom de l'élément de donnée composite",
+        "description": "Le sujet est le nom de l'élément de donnée composite."
+    },
+    {
+        "code": "ADI",
+        "type": "Champ d'application",
+        "description": "Le sujet est le champ d'application des règles UN/EDIFACT."
+    },
+    {
+        "code": "ADJ",
+        "type": "Type d'actifs et de passifs",
+        "description": "Informations décrivant le type d'actifs et de passifs."
+    },
+    {
+        "code": "ADK",
+        "type": "Informations promotionnelles",
+        "description": "Le texte contient des informations sur une promotion."
+    },
+    {
+        "code": "ADL",
+        "type": "État du compteur",
+        "description": "Description de l'état d'un compteur."
+    },
+    {
+        "code": "ADM",
+        "type": "Informations de relevé de compteur",
+        "description": "Informations relatives à une lecture particulière d'un compteur."
+    },
+    {
+        "code": "ADN",
+        "type": "Raison du type de transaction",
+        "description": "Informations décrivant le type de raison de la transaction."
+    },
+    {
+        "code": "ADO",
+        "type": "Type de question d'enquête",
+        "description": "Type de question d'enquête."
+    },
+    {
+        "code": "ALC",
+        "type": "Informations sur les remises/frais",
+        "description": "Informations se rapportant aux remises ou aux frais."
+    },
+    {
+        "code": "ALL",
+        "type": "Tous documents",
+        "description": "La note s'applique à tous les documents."
+    },
+    {
+        "code": "ARR",
+        "type": "Conditions d'arrivée",
+        "description": "Conditions dans lesquelles l'arrivée a lieu."
+    },
+    {
+        "code": "AUT",
+        "type": "Authentification",
+        "description": "Nom, code, mot de passe, etc. donnés à des fins d'authentification."
+    },
+    {
+        "code": "BLC",
+        "type": "Clause de connaissement",
+        "description": "Clause sur le connaissement concernant la cargaison expédiée."
+    },
+    {
+        "code": "BLR",
+        "type": "Remarques sur le document de transport",
+        "description": "Remarques concernant l'envoi complet à imprimer sur le connaissement."
+    },
+    {
+        "code": "CCI",
+        "type": "Instructions de dédouanement",
+        "description": "Toute instruction codée ou claire convenue concernant la déclaration des marchandises."
+    },
+    {
+        "code": "CEX",
+        "type": "Instructions de dédouanement (export)",
+        "description": "Toute instruction convenue concernant la déclaration d'exportation."
+    },
+    {
+        "code": "CHG",
+        "type": "Informations de modification",
+        "description": "La note contient des informations sur les changements."
+    },
+    {
+        "code": "CIP",
+        "type": "Instructions de dédouanement (import)",
+        "description": "Toute instruction convenue concernant la déclaration d'importation."
+    },
+    {
+        "code": "CLP",
+        "type": "Lieu de dédouanement demandé",
+        "description": "Nom du lieu où le dédouanement est demandé par le destinataire/expéditeur."
+    },
+    {
+        "code": "CLR",
+        "type": "Remarques de chargement",
+        "description": "Instructions concernant le chargement du conteneur."
+    },
+    {
+        "code": "COI",
+        "type": "Informations sur la commande",
+        "description": "Informations supplémentaires relatives à une commande."
+    },
+    {
+        "code": "CUR",
+        "type": "Remarques client",
+        "description": "Remarques provenant de ou destinées à un fournisseur de biens ou services."
+    },
+    {
+        "code": "CUS",
+        "type": "Informations de déclaration en douane",
+        "description": "La note contient des informations de déclaration douanière."
+    },
+    {
+        "code": "DAR",
+        "type": "Remarques sur les dommages",
+        "description": "Remarques concernant les dommages sur la cargaison."
+    },
+    {
+        "code": "DCL",
+        "type": "Déclaration",
+        "description": "[4020] Texte d'une déclaration faite par l'émetteur du document (CIM 12)."
+    },
+    {
+        "code": "DEL",
+        "type": "Informations de livraison",
+        "description": "Informations relatives à la livraison."
+    },
+    {
+        "code": "DIN",
+        "type": "Instructions de livraison",
+        "description": "Instructions concernant la livraison de la cargaison."
+    },
+    {
+        "code": "DOC",
+        "type": "Instructions de documentation",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "DUT",
+        "type": "Déclaration de droits",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "EUR",
+        "type": "Itinéraire effectif utilisé",
+        "description": "Itinéraire physique réellement utilisé pour le mouvement du moyen de transport."
+    },
+    {
+        "code": "FBC",
+        "type": "Premier bloc à imprimer sur le contrat de transport",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "GBL",
+        "type": "Informations sur le connaissement gouvernemental",
+        "description": "Informations en texte libre indiquant le paiement par connaissement gouvernemental."
+    },
+    {
+        "code": "GEN",
+        "type": "Ensemble de la transaction",
+        "description": "Note de nature générale s'appliquant à l'ensemble du segment de transaction."
+    },
+    {
+        "code": "GS7",
+        "type": "Informations complémentaires GGVS par. 7",
+        "description": "Autorisation spéciale pour le transport routier de certaines marchandises (réglementation allemande)."
+    },
+    {
+        "code": "HAN",
+        "type": "Instructions de manutention",
+        "description": "[4078] Instructions sur la manière dont les marchandises ou conteneurs doivent être manipulés."
+    },
+    {
+        "code": "HAZ",
+        "type": "Informations sur les risques",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ICN",
+        "type": "Informations pour le destinataire",
+        "description": "[4070] Toute remarque donnée pour l'information du destinataire (CIM 21)."
+    },
+    {
+        "code": "IIN",
+        "type": "Instructions d'assurance",
+        "description": "Instructions concernant l'assurance de la cargaison."
+    },
+    {
+        "code": "IMI",
+        "type": "Instructions d'envoi de facture",
+        "description": "Instructions sur les composantes de frais à envoyer et à qui."
+    },
+    {
+        "code": "IND",
+        "type": "Description de l'article sur facture commerciale",
+        "description": "Texte libre décrivant les marchandises sur une ligne de facture commerciale."
+    },
+    {
+        "code": "INS",
+        "type": "Informations d'assurance",
+        "description": "Note spécifique contenant des informations sur l'assurance."
+    },
+    {
+        "code": "INV",
+        "type": "Instruction de facturation",
+        "description": "La note contient des instructions de facturation."
+    },
+    {
+        "code": "IRP",
+        "type": "Informations à usage ferroviaire",
+        "description": "[4090] Données saisies par les gares ferroviaires si nécessaire (CIM 8)."
+    },
+    {
+        "code": "ITR",
+        "type": "Détails du transport terrestre",
+        "description": "Informations concernant le pré-acheminement vers le port de déchargement."
+    },
+    {
+        "code": "ITS",
+        "type": "Instructions de test",
+        "description": "Instructions concernant les tests requis sur les articles de la transaction."
+    },
+    {
+        "code": "LIN",
+        "type": "Ligne d'article",
+        "description": "La note contient des informations sur la ligne d'article."
+    },
+    {
+        "code": "LOI",
+        "type": "Instructions de chargement",
+        "description": "Instructions sur le lieu où les colis ou conteneurs doivent être chargés."
+    },
+    {
+        "code": "MCO",
+        "type": "Ordre de frais divers",
+        "description": "Informations comptables IATA indiquant le paiement par ordre de frais divers."
+    },
+    {
+        "code": "MKS",
+        "type": "Marques et numéros additionnels",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "ORI",
+        "type": "Instruction de commande",
+        "description": "Texte libre contenant des instructions de commande."
+    },
+    {
+        "code": "OSI",
+        "type": "Autres informations de service",
+        "description": "Informations générales créées par l'expéditeur."
+    },
+    {
+        "code": "PAC",
+        "type": "Informations d'emballage/marquage",
+        "description": "Informations concernant l'emballage et/ou le marquage des marchandises."
+    },
+    {
+        "code": "PAI",
+        "type": "Informations sur les instructions de paiement",
+        "description": "Texte libre contenant des informations sur les instructions de paiement."
+    },
+    {
+        "code": "PAY",
+        "type": "Informations sur les comptes créditeurs",
+        "description": "Note contenant des informations sur les dettes fournisseurs."
+    },
+    {
+        "code": "PKG",
+        "type": "Informations d'emballage",
+        "description": "Note contenant des instructions d'emballage."
+    },
+    {
+        "code": "PKT",
+        "type": "Conditions d'emballage",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "PMD",
+        "type": "Détails de paiement / informations de remise",
+        "description": "Texte libre contenant les détails du paiement."
+    },
+    {
+        "code": "PMT",
+        "type": "Informations de paiement",
+        "description": "Note contenant des informations sur les paiements."
+    },
+    {
+        "code": "PRD",
+        "type": "Informations produit",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "PRF",
+        "type": "Formule de calcul du prix",
+        "description": "Informations complémentaires sur la formule de prix utilisée."
+    },
+    {
+        "code": "PRI",
+        "type": "Informations de priorité",
+        "description": "Note contenant des informations de priorité."
+    },
+    {
+        "code": "PUR",
+        "type": "Informations d'achat",
+        "description": "Note contenant des informations d'achat."
+    },
+    {
+        "code": "QIN",
+        "type": "Instructions de quarantaine",
+        "description": "Instructions concernant la période d'isolement sanitaire pour prévenir la propagation de maladies."
+    },
+    {
+        "code": "QQD",
+        "type": "Exigences de qualité",
+        "description": "Spécification des attentes de qualité ou des normes de performance."
+    },
+    {
+        "code": "QUT",
+        "type": "Informations/instructions de devis",
+        "description": "Note contenant des informations sur le devis (quotation)."
+    },
+    {
+        "code": "RAH",
+        "type": "Risques et manutention",
+        "description": "Informations concernant les risques induits par les marchandises et les instructions de manipulation."
+    },
+    {
+        "code": "REG",
+        "type": "Informations réglementaires",
+        "description": "Texte libre contenant des informations pour les autorités."
+    },
+    {
+        "code": "RET",
+        "type": "Informations de retour à l'origine",
+        "description": "Informations IATA indiquant le retour d'un envoi pour non-livraison."
+    },
+    {
+        "code": "REV",
+        "type": "Comptes débiteurs",
+        "description": "Description à fournir."
+    },
+    {
+        "code": "RQR",
+        "type": "Itinéraires demandés",
+        "description": "[3074] Noms des lieux par lesquels l'expéditeur demande l'acheminement de l'envoi."
+    },
+    {
+        "code": "RQT",
+        "type": "Tarifs et itinéraire demandés",
+        "description": "[4120] Stipulation des tarifs à appliquer et indication des points de frontière."
+    },
+    {
+        "code": "SAF",
+        "type": "Informations de sécurité",
+        "description": "Auto-explicatif."
+    },
+    {
+        "code": "SIC",
+        "type": "Instructions de l'expéditeur au transporteur",
+        "description": "[4284] Instructions et déclarations faites par l'expéditeur concernant la douane, l'assurance, etc."
+    },
+    {
+        "code": "SIN",
+        "type": "Instructions spéciales",
+        "description": "Instructions telles que le n° de licence, haute valeur, fragile."
+    },
+    {
+        "code": "SLR",
+        "type": "Ligne maritime demandée",
+        "description": "Compagnie maritime demandée pour le trafic entre l'Europe et l'Irlande/Royaume-Uni."
+    },
+    {
+        "code": "SPA",
+        "type": "Autorisation spéciale de transport (général)",
+        "description": "Déclaration qu'une autorisation spéciale a été obtenue pour le transport en général."
+    },
+    {
+        "code": "SPG",
+        "type": "Autorisation spéciale pour les marchandises",
+        "description": "Déclaration qu'une autorisation spéciale a été obtenue pour les marchandises spécifiées."
+    },
+    {
+        "code": "SPH",
+        "type": "Manutention spéciale",
+        "description": "Note contenant des informations de manutention spéciale."
+    },
+    {
+        "code": "SPP",
+        "type": "Autorisation spéciale pour l'emballage",
+        "description": "Déclaration qu'une autorisation spéciale a été obtenue pour l'emballage."
+    },
+    {
+        "code": "SPT",
+        "type": "Autorisation spéciale pour le moyen de transport",
+        "description": "Déclaration qu'une autorisation spéciale a été obtenue pour l'usage du moyen de transport."
+    },
+    {
+        "code": "SRN",
+        "type": "Numéro de risque subsidiaire (IATA/DGR)",
+        "description": "Numéro(s) des risques subsidiaires induits par les marchandises."
+    },
+    {
+        "code": "SSR",
+        "type": "Demande de service spécial",
+        "description": "Demande d'un service spécial concernant le transport des marchandises."
+    },
+    {
+        "code": "SUR",
+        "type": "Remarques fournisseur",
+        "description": "Remarques provenant de ou destinées à un fournisseur."
+    },
+    {
+        "code": "TCA",
+        "type": "Tarif et classe appliqués",
+        "description": "[5430] Spécification du tarif appliqué (CIM 55)."
+    },
+    {
+        "code": "TDT",
+        "type": "Remarques sur les détails du transport",
+        "description": "Informations supplémentaires liées aux détails du transport."
+    },
+    {
+        "code": "TRA",
+        "type": "Informations de transport",
+        "description": "Informations générales concernant le transport de la cargaison."
+    },
+    {
+        "code": "TRR",
+        "type": "Tarif demandé",
+        "description": "Stipulation des tarifs à appliquer montrant les numéros d'accords spéciaux."
+    },
+    {
+        "code": "TXD",
+        "type": "Déclaration fiscale",
+        "description": "Description à fournir."
+    },
+    {
+        "code": "WHI",
+        "type": "Instructions/informations d'entrepôt",
+        "description": "La note contient des informations sur l'entreposage."
+    },
+    {
+        "code": "ZZZ",
+        "type": "Défini mutuellement",
+        "description": "Informations définies mutuellement par les partenaires commerciaux."
+    }
+]

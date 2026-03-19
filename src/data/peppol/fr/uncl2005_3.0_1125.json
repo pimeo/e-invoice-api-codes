@@ -1,0 +1,14 @@
+[
+    {
+        "code": "3",
+        "type": "Date et heure d'émission de la facture"
+    },
+    {
+        "code": "35",
+        "type": "Date et heure réelles de livraison"
+    },
+    {
+        "code": "432",
+        "type": "Payé à ce jour"
+    }
+]

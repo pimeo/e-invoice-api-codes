@@ -1,0 +1,1202 @@
+[
+    {
+        "code": "0002",
+        "type": "Système d'Information et Répertoire des Entreprises et des Établissements : SIRENE",
+        "description": "Notes sur l'utilisation du code : Le numéro Sirene est utilisé en France principalement pour l'immatriculation officielle au Registre du Commerce et comme numéro unique d'échange entre les autorités et les organisations. Organisme émetteur : Institut National de la Statistique et des Études Économiques (I.N.S.E.E.), France."
+    },
+    {
+        "code": "0003",
+        "type": "Codification Numérique des Établissements Financiers En Belgique",
+        "description": "Notes sur l'utilisation du code : De nombreuses institutions financières possèdent plusieurs codes (ex: par agence). Les codes peuvent être réattribués au fil du temps. Les numéros 990 à 999 sont réservés. Organisme émetteur : Association Belge des Banques, Belgique."
+    },
+    {
+        "code": "0004",
+        "type": "RÉSEAU NBS/OSI",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage du réseau OSI selon l'Addenda 2 de l'ISO 8348. Organisme émetteur : National Bureau of Standards, USA."
+    },
+    {
+        "code": "0005",
+        "type": "RÉSEAU OSI DU GOUVERNEMENT FÉDÉRAL USA",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage du réseau OSI selon l'ISO 8348. Organisme émetteur : National Bureau of Standards, USA."
+    },
+    {
+        "code": "0006",
+        "type": "RÉSEAU OSI DU DOD USA",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage du réseau OSI. Organisme émetteur : Defense Communication Agency, USA."
+    },
+    {
+        "code": "0007",
+        "type": "Organisationsnummer",
+        "description": "Notes sur l'utilisation du code : Le troisième chiffre du numéro d'organisation n'est jamais inférieur à 2 pour éviter toute confusion avec les numéros personnels. Organisme émetteur : Administration fiscale nationale, SUÈDE."
+    },
+    {
+        "code": "0008",
+        "type": "LE NUMÉRO NATIONAL",
+        "description": "Organisme émetteur : Ministère de l'Intérieur et de la Fonction Publique, Belgique."
+    },
+    {
+        "code": "0009",
+        "type": "CODE SIRET",
+        "description": "Organisme émetteur : DU PONT DE NEMOURS (FRANCE) S.A. France."
+    },
+    {
+        "code": "0010",
+        "type": "Identifiants d'organisation pour les noms structurés selon l'ISO 9541 Partie 2",
+        "description": "Notes sur l'utilisation du code : Les codes établis constituent les identifiants d'organisation reconnus sous l'ISO 9541-2. Organisme émetteur : Association for Font Information Interchange, USA."
+    },
+    {
+        "code": "0011",
+        "type": "Désignateur de code international pour l'identification des organisations de radioamateurs basées sur l'OSI, objets réseau et services d'application.",
+        "description": "Notes sur l'utilisation du code : Des conventions spécifiques de nommage d'objets et d'attributs sont en cours de définition. Organisme émetteur : The Radio Amateur Telecommunications Society, USA."
+    },
+    {
+        "code": "0012",
+        "type": "Association européenne des constructeurs d'ordinateurs : ECMA",
+        "description": "Organisme émetteur : European Computer Manufacturers Association, SUISSE."
+    },
+    {
+        "code": "0013",
+        "type": "CODE VSA FTP (FTP = Protocole de transfert de fichiers)",
+        "description": "Notes sur l'utilisation du code : Le code sert à l'adressage entre les partenaires communicants. Organisme émetteur : Verband der Automobilindustrie e.V., ALLEMAGNE."
+    },
+    {
+        "code": "0014",
+        "type": "Atelier des implémenteurs NIST/OSI",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence de nommage et d'adressage de l'atelier. Organisme émetteur : Département du Commerce des États-Unis, NIST, Gaithersburg, USA."
+    },
+    {
+        "code": "0015",
+        "type": "Échange de données informatisé : EDI",
+        "description": "Organisme émetteur : Avon Rubber p.l.c. Royaume-Uni."
+    },
+    {
+        "code": "0016",
+        "type": "Identifiants d'objets EWOS",
+        "description": "Notes sur l'utilisation du code : Destiné principalement à l'enregistrement des identifiants d'objets selon l'ISO 8824. Organisme émetteur : EWOS (European Workshop for Open Systems), BELGIQUE."
+    },
+    {
+        "code": "0017",
+        "type": "LANGAGE COMMUN",
+        "description": "Notes sur l'utilisation du code : Codes pour les lieux habités, géographiques, géopolitiques et identification des organisations par l'industrie des télécommunications. Organisme émetteur : Data Communications Technology Planning, USA."
+    },
+    {
+        "code": "0018",
+        "type": "Réseau SNA/OSI",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage OSI selon l'ISO 8348. Organisme émetteur : IBM Corporation, USA."
+    },
+    {
+        "code": "0019",
+        "type": "Réseau de communication des services de l'industrie du transport aérien",
+        "description": "Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage OSI selon l'ISO 8348. Organisme émetteur : Association du Transport Aérien International (IATA), Suisse."
+    },
+    {
+        "code": "0020",
+        "type": "Laboratoire européen pour la physique des particules : CERN",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage du réseau OSI. Organisme émetteur : CERN, Suisse."
+    },
+    {
+        "code": "0021",
+        "type": "SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION (S.W.I.F.T.)",
+        "description": "Notes sur l'utilisation du code : Utilisé pour l'attribution d'identifiants d'objets (ISO 8824/8825). Organisme émetteur : S.W.I.F.T., BELGIQUE."
+    },
+    {
+        "code": "0022",
+        "type": "Identification d'objets informatiques distribués OSF",
+        "description": "Notes sur l'utilisation du code : Identification des attributs d'entrées dans l'annuaire distribué, profils de protocoles, etc. Organisme émetteur : Open Software Foundation, USA."
+    },
+    {
+        "code": "0023",
+        "type": "Réseau nordique universitaire et de recherche : NORDUnet",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage OSI selon l'ISO 8348. Organisme émetteur : NORDUnet, c/o SICS, Suède."
+    },
+    {
+        "code": "0024",
+        "type": "Digital Equipment Corporation : DEC",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'adressage réseau OSI décrit dans l'ISO 8348. Organisme émetteur : Digital Equipment (Europe) S.A.R.L., France."
+    },
+    {
+        "code": "0025",
+        "type": "ATELIER OSI ASIE-OCÉANIE",
+        "description": "Notes sur l'utilisation du code : Le code est utilisé comme élément d'identifiant d'objet pour les profils internationaux normalisés (ISP). Organisme émetteur : OSI ASIA-OCEANIA WORKSHOP, JAPON."
+    },
+    {
+        "code": "0026",
+        "type": "Schéma de codage NATO ISO 6523 ICDE",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage OSI. Organisme émetteur : OTAN (NATO), Belgique."
+    },
+    {
+        "code": "0027",
+        "type": "Réseau de télécommunications aéronautiques (ATN)",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage ISO selon l'ISO 8348. Organisme émetteur : Organisation de l'aviation civile internationale (OACI), CANADA."
+    },
+    {
+        "code": "0028",
+        "type": "Norme internationale ISO 6523",
+        "description": "Organisme émetteur : Styria Federn GmbH, AUTRICHE."
+    },
+    {
+        "code": "0029",
+        "type": "Classificateur de l'Union pour les entreprises et les organisations",
+        "description": "Organisme émetteur : Centre informatique général d'État du comité de l'URSS sur les statistiques, U.R.S.S."
+    },
+    {
+        "code": "0030",
+        "type": "Réseau AT&T/OSI",
+        "description": "Notes sur l'utilisation du code : Le code ICD constituera également la partie initiale du domaine (IDP) du réseau OSI. Organisme émetteur : AT&T, USA."
+    },
+    {
+        "code": "0031",
+        "type": "Code d'identification des partenaires EDI",
+        "description": "Notes sur l'utilisation du code : Pour identifier les partenaires EDI. Organisme émetteur : Odette NL, Pays-Bas."
+    },
+    {
+        "code": "0032",
+        "type": "Telecom Australia",
+        "description": "Notes sur l'utilisation du code : Utilisé comme élément d'identifiant d'objet lors de la définition d'objets au sein de Telecom Australia. Organisme émetteur : Australia Telecommunications Corporation, AUSTRALIE."
+    },
+    {
+        "code": "0033",
+        "type": "Interréseau S G W OSI",
+        "description": "Notes sur l'utilisation du code : Utilisation exclusive par S G W. Organisme émetteur : S G Warburg Group Management Ltd, Royaume-Uni."
+    },
+    {
+        "code": "0034",
+        "type": "Norme d'adressage ouvert Reuter",
+        "description": "Notes sur l'utilisation du code : Utilisé dans la formation des adresses NSAP (Network Service Access Point) de l'OSI. Organisme émetteur : Reuters Ltd, Royaume-Uni."
+    },
+    {
+        "code": "0035",
+        "type": "ISO 6523 - ICD",
+        "description": "Notes sur l'utilisation du code : Ce code sera utilisé internationalement par BP, un code non-géographique est donc requis. Organisme émetteur : The British Petroleum Co Plc, Royaume-Uni."
+    },
+    {
+        "code": "0036",
+        "type": "Identifiants d'objets TeleTrust",
+        "description": "Notes sur l'utilisation du code : Principalement destiné à l'enregistrement d'identifiants d'objets pour les objets liés à la sécurité selon l'ISO/IEC 8824. Organisme émetteur : TeleTrust Deutschland e.V., ALLEMAGNE."
+    },
+    {
+        "code": "0037",
+        "type": "LY-tunnus",
+        "description": "Notes sur l'utilisation du code : Possibilité d'ajouter 0 à 4 caractères au code pour un usage détaillé au sein d'une organisation. Organisme émetteur : Conseil National des Impôts, FINLANDE."
+    },
+    {
+        "code": "0038",
+        "type": "Réseau GOSIP australien",
+        "description": "Notes sur l'utilisation du code : Utilisé comme identifiant initial d'un schéma de codage NSAP. Organisme émetteur : Standards Australia."
+    },
+    {
+        "code": "0039",
+        "type": "Réseau OSI du DOD australien (OZ DOD)",
+        "description": "Le code ICD constitue la partie initiale de l'arborescence de nommage et d'adressage OSI selon l'ISO 8348. Organisme émetteur : Département de la Défense australien, AUSTRALIE."
+    },
+    {
+        "code": "0040",
+        "type": "Sociétés du groupe Unilever",
+        "description": "Notes sur l'utilisation du code : Utilisé pour former une partie de l'adresse réseau selon l'ISO 8348. Syntaxe binaire utilisée. Organisme émetteur : Information Technology Group, Unilever Plc, Royaume-Uni."
+    },
+    {
+        "code": "0041",
+        "type": "Réseau d'information mondial Citicorp",
+        "description": "Notes sur l'utilisation du code : Le code ICD constituera également la partie initiale de l'arborescence d'adressage Citicorp. Organisme émetteur : Citicorp Global Information Network, USA."
+    },
+    {
+        "code": "0042",
+        "type": "Identifiants d'objets DBP Telekom",
+        "description": "Notes sur l'utilisation du code : Destiné à l'enregistrement d'identifiants d'objets selon l'ISO 8824/8825 pour les protocoles applicatifs, formats de documents, etc. Organisme émetteur : DBP Telekom, ALLEMAGNE."
+    },
+    {
+        "code": "0043",
+        "type": "HydroNETT",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'adressage réseau OSI selon l'ISO 8348/AD2. Organisme émetteur : Norsk Hydro a.s., Norvège."
+    },
+    {
+        "code": "0044",
+        "type": "Thai Industrial Standards Institute (TISI)",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'adressage international pour la Thaïlande. Organisme émetteur : Thai Industrial Standards Institute (TISI), THAÏLANDE."
+    },
+    {
+        "code": "0045",
+        "type": "Système d'identification de société ICI",
+        "description": "Notes sur l'utilisation du code : Utilisé pour gérer l'allocation NSAP de toutes les sociétés ICI au niveau mondial. Organisme émetteur : ICI PLC, Royaume-Uni."
+    },
+    {
+        "code": "0046",
+        "type": "FUNLOC",
+        "description": "Notes sur l'utilisation du code : Applications actuelles pour les systèmes comptables et logistiques de Philips ; identification d'objets réseau. Organisme émetteur : Royal Philips Electronics N.V., Pays-Bas."
+    },
+    {
+        "code": "0047",
+        "type": "Réseau BULL ODI/DSA/UNIX",
+        "description": "Notes sur l'utilisation du code : Utilisé dans les communications de données pour former une partie de l'adresse réseau. Organisme émetteur : BULL S.A. FRANCE."
+    },
+    {
+        "code": "0048",
+        "type": "OSINZ",
+        "description": "Notes sur l'utilisation du code : Le format ISO 6523 ICD IDI avec syntaxe binaire sera utilisé. Organisme émetteur : OSINZ, Nouvelle-Zélande."
+    },
+    {
+        "code": "0049",
+        "type": "Santé de la région d'Auckland (Auckland Area Health)",
+        "description": "Notes sur l'utilisation du code : Le format ISO 6523 ICD IDI avec syntaxe binaire sera utilisé. Organisme émetteur : Auckland Area Health Board, Nouvelle-Zélande."
+    },
+    {
+        "code": "0050",
+        "type": "Firmenich",
+        "description": "Notes sur l'utilisation du code : Interconnexion des usines par un réseau OSI, principalement sur support X.25. Organisme émetteur : Firmenich S A, Suisse."
+    },
+    {
+        "code": "0051",
+        "type": "AGFA-DIS",
+        "description": "Notes sur l'utilisation du code : Communication médicale. Organisme émetteur : AGFA N.V. BELGIQUE."
+    },
+    {
+        "code": "0052",
+        "type": "Society of Motion Picture and Television Engineers (SMPTE)",
+        "description": "Notes sur l'utilisation du code : Utilisé pour identifier les organisations constitutives de la SMPTE (comités, groupes de travail) et les objets qu'ils définissent. Organisme émetteur : SMPTE, USA."
+    },
+    {
+        "code": "0053",
+        "type": "Migros_Network M_NETOPZ",
+        "description": "Organisme émetteur : Fédération des coopératives Migros, Suisse."
+    },
+    {
+        "code": "0054",
+        "type": "ISO6523 - ICDPCR",
+        "description": "Notes sur l'utilisation du code : Utilisé internationalement par Pfizer, code non-géographique requis. Partie initiale de l'arborescence d'adressage OSI. Organisme émetteur : Pfizer Central Research, Royaume-Uni."
+    },
+    {
+        "code": "0055",
+        "type": "Energy Net",
+        "description": "Organisme émetteur : ABB Asea Brown Boveri Ltd, Suisse."
+    },
+    {
+        "code": "0056",
+        "type": "Identifiants d'objets Nokia (NOI)",
+        "description": "Notes sur l'utilisation du code : Principalement destiné à l'enregistrement d'identifiants d'objets selon l'ISO/IEC 8824. Organisme émetteur : Nokia Corporation, FINLANDE."
+    },
+    {
+        "code": "0057",
+        "type": "Saint-Gobain",
+        "description": "Notes sur l'utilisation du code : Utilisé pour l'attribution de N.E.T, A.E.T et l'identification d'objets (ISO 8824/8825). Organisme émetteur : Saint-Gobain, France."
+    },
+    {
+        "code": "0058",
+        "type": "Réseau Siemens (Corporate Network)",
+        "description": "Notes sur l'utilisation du code : Le code ICD formera la partie initiale de l'arborescence d'adressage réseau OSI (adressage de couche réseau). Organisme émetteur : Siemens AG, Allemagne."
+    },
+    {
+        "code": "0059",
+        "type": "DANZNET",
+        "description": "Organisme émetteur : DANZAS AG, Suisse."
+    },
+    {
+        "code": "0060",
+        "type": "Système de numérotation universelle des données (Numéro D-U-N-S)",
+        "description": "Notes sur l'utilisation du code : Initialement pour les rapports financiers, largement utilisé pour l'identification mondiale des entreprises. Organisme émetteur : Dun and Bradstreet Ltd, Royaume-Uni."
+    },
+    {
+        "code": "0061",
+        "type": "SOFFEX OSI",
+        "description": "Notes sur l'utilisation du code : Aide à l'identification unique des adresses de nœuds de réseau de données pour les applications financières. Organisme émetteur : SOFFEX, Suisse."
+    },
+    {
+        "code": "0062",
+        "type": "KPN OVN",
+        "description": "Notes sur l'utilisation du code : Ce code est utilisé dans le réseau VTOA de KPN OVN. Organisme émetteur : Koninklijke KPN, Pays-Bas."
+    },
+    {
+        "code": "0063",
+        "type": "ascomOSINet",
+        "description": "Organisme émetteur : Ascom AG, Suisse."
+    },
+    {
+        "code": "0064",
+        "type": "UTC : Uniforme Transport Code",
+        "description": "Notes sur l'utilisation du code : Identifie une unité de transport ou de manutention individuelle (palette, colis) pour le suivi. Organisme émetteur : Foundation UTC, Pays-Bas."
+    },
+    {
+        "code": "0065",
+        "type": "CODAGE SOLVAY OSI",
+        "description": "Notes sur l'utilisation du code : Les adresses ISO 8348 utilisant ce code seront conformes au FIPS PUB 146. Organisme émetteur : Direction Centrale Technique, Belgique."
+    },
+    {
+        "code": "0066",
+        "type": "Réseau Roche (Corporate Network)",
+        "description": "Notes sur l'utilisation du code : Utilisé internationalement par Roche, un code non-géographique est requis. Organisme émetteur : F. HOFFMANN - LA ROCHE AG, Suisse."
+    },
+    {
+        "code": "0067",
+        "type": "ZellwegerOSINet",
+        "description": "Notes sur l'utilisation du code : BAKOM - Suisse. Organisme émetteur : Zellweger Uster AG, Suisse."
+    },
+    {
+        "code": "0068",
+        "type": "Intel Corporation OSI",
+        "description": "Notes sur l'utilisation du code : Le code ICD sera utilisé pour former l'identifiant initial de domaine (IDI) pour l'adressage NSAP de l'OSI. Organisme émetteur : Intel Corporation, USA."
+    },
+    {
+        "code": "0069",
+        "type": "Arborescence d'identifiants d'objets SITA",
+        "description": "Notes sur l'utilisation du code : SITA définit ses propres objets pour ses services basés sur l'OSI (MHS, gestion OSI). Organisme émetteur : SITA, France."
+    },
+    {
+        "code": "0070",
+        "type": "Réseau DaimlerChrysler (Corporate Network)",
+        "description": "Notes sur l'utilisation du code : Le code ICD formera la partie initiale de l'arborescence d'adressage réseau OSI selon l'ISO 8348. Organisme émetteur : DaimlerChrysler AG, ALLEMAGNE."
+    },
+    {
+        "code": "0071",
+        "type": "RÉSEAU LEGO / OSI",
+        "description": "Notes sur l'utilisation du code : Le code ICD formera également la partie initiale du domaine (IDP) de l'adressage réseau OSI. Organisme émetteur : LEGO Systems Inc, USA."
+    },
+    {
+        "code": "0072",
+        "type": "Réseau NAVISTAR / OSI",
+        "description": "Notes sur l'utilisation du code : Le code ICD formera également la partie initiale du domaine (IDP) de l'adressage réseau OSI. Organisme émetteur : International Truck & Engine Corp, USA."
+    },
+    {
+        "code": "0073",
+        "type": "Adresse ATM au format ICD",
+        "description": "Notes sur l'utilisation du code : Utilisé comme préfixe d'adresse ATM par les terminaux et commutateurs Newbridge. Organisme émetteur : Newbridge Networks Corporation, CANADA."
+    },
+    {
+        "code": "0074",
+        "type": "ARINC",
+        "description": "Notes sur l'utilisation du code : ARINC définit ses propres objets pour ses systèmes OSI au sein de l'industrie aéronautique. Organisme émetteur : ARINC Incorporated, USA."
+    },
+    {
+        "code": "0075",
+        "type": "Réseau Alcanet / Alcatel-Alsthom",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale du schéma d'adressage réseau OSI selon l'ISO 8384. Organisme émetteur : Alcatel Network Services Deutschland GmbH, ALLEMAGNE."
+    },
+    {
+        "code": "0076",
+        "type": "Système italien d'identification d'objets géré par UNINFO",
+        "description": "Notes sur l'utilisation du code : Utilisé pour les attributions d'identifiants d'objets selon l'ISO 8824 et ISO 8825. Organisme émetteur : UNINFO, ITALIE."
+    },
+    {
+        "code": "0077",
+        "type": "Système italien d'adressage de réseaux OSI géré par UNINFO",
+        "description": "Notes sur l'utilisation du code : Le code ICD constitue la partie initiale de l'arborescence d'adressage et de nommage réseau OSI. Organisme émetteur : UNINFO, ITALIE."
+    },
+    {
+        "code": "0078",
+        "type": "Équipement terminal ou de commutation Mitel",
+        "description": "Notes sur l'utilisation du code : Utilisé pour l'arborescence de nommage PISN et la couche application OSI (CSTA). Organisme émetteur : Mitel Corporation, Canada."
+    },
+    {
+        "code": "0079",
+        "type": "ATM Forum",
+        "description": "Notes sur l'utilisation du code : Le code ICD fera également partie du domaine initial (IDP) de l'adressage réseau OSI. Organisme émetteur : The ATM Forum, USA."
+    },
+    {
+        "code": "0080",
+        "type": "Schéma du Service National de Santé (NHS) UK (conforme EDIRA)",
+        "description": "Notes sur l'utilisation du code : Recommandations EDIRA pour le codage dans l'EDIFACT et autres systèmes EDI. Organisme émetteur : National Health Service, Royaume-Uni."
+    },
+    {
+        "code": "0081",
+        "type": "NSAP International",
+        "description": "Organisme émetteur : Office fédéral de la communication (OFCOM), Suisse."
+    },
+    {
+        "code": "0082",
+        "type": "Schéma d'identifiants EDI de l'autorité norvégienne des télécommunications (conforme EDIRA)",
+        "description": "Notes sur l'utilisation du code : Pour usage dans les messages EDIFACT selon les recommandations nationales. Organisme émetteur : Autorité norvégienne des télécommunications, NORVÈGE."
+    },
+    {
+        "code": "0083",
+        "type": "Advanced Telecommunications Modules Limited, Réseau d'entreprise",
+        "description": "Notes sur l'utilisation du code : Le code ICD fera également partie du domaine initial (IDP) de l'adressage réseau OSI. Organisme émetteur : ATM Ltd, ANGLETERRE."
+    },
+    {
+        "code": "0084",
+        "type": "Schéma de la Chambre de Commerce et d'Industrie d'Athènes (conforme EDIRA)",
+        "description": "Notes sur l'utilisation du code : Recommandations EDIRA pour le codage dans l'EDIFACT et autres syntaxes EDI. Organisme émetteur : Chambre de Commerce et d'Industrie d'Athènes, Grèce."
+    },
+    {
+        "code": "0085",
+        "type": "Schéma des Chambres de Commerce Suisses (conforme EDIRA)",
+        "description": "But prévu : Identifiants numériques des organisations. Organisme émetteur : Chambre de commerce de Zurich au nom des chambres suisses, Suisse."
+    },
+    {
+        "code": "0086",
+        "type": "Schéma du Conseil des États-Unis pour les affaires internationales (USCIB) (conforme EDIRA)",
+        "description": "Recommandations EDIRA pour le codage dans l'EDIFACT et autres syntaxes EDI. Organisme émetteur : USCIB, USA."
+    },
+    {
+        "code": "0087",
+        "type": "Fédération nationale des chambres de commerce et d'industrie de Belgique (conforme EDIRA)",
+        "description": "Organisme émetteur : Fédération nationale des chambres de commerce et d'industrie de Belgique, Belgique."
+    },
+    {
+        "code": "0088",
+        "type": "Code d'emplacement EAN",
+        "description": "Organisme émetteur : EAN International, Belgique."
+    },
+    {
+        "code": "0089",
+        "type": "Schéma de l'Association des chambres de commerce britanniques Ltd (conforme EDIRA)",
+        "description": "Organisme émetteur : The Association of British Chambers of Commerce Ltd., Royaume-Uni."
+    },
+    {
+        "code": "0090",
+        "type": "Adressage IP Internet - Encodage ISO 6523 ICD",
+        "description": "Organisme émetteur : Internet Assigned Numbers Authority (IANA), USA."
+    },
+    {
+        "code": "0091",
+        "type": "Réseau Cisco Systems / OSI",
+        "description": "Organisme émetteur : Cisco Systems, USA."
+    },
+    {
+        "code": "0093",
+        "type": "Enregistrement du numéro d'entreprise de Revenu Canada (conforme EDIRA)",
+        "description": "Organisme émetteur : Revenu Canada, CANADA."
+    },
+    {
+        "code": "0094",
+        "type": "Schéma DEUTSCHER INDUSTRIE- UND HANDELSTAG (DIHT) (conforme EDIRA)",
+        "description": "Organisme émetteur : DIHT, Allemagne."
+    },
+    {
+        "code": "0095",
+        "type": "Réseau AM interne de la société Hewlett-Packard",
+        "description": "Organisme émetteur : Hewlett-Packard Company, USA."
+    },
+    {
+        "code": "0096",
+        "type": "Schéma de la CHAMBRE DE COMMERCE DANOISE (conforme EDIRA)",
+        "description": "Organisme émetteur : Chambre de commerce danoise, Danemark."
+    },
+    {
+        "code": "0097",
+        "type": "FTI - Ediforum Italia (conforme EDIRA)",
+        "description": "Organisme émetteur : FTI - Ediforum Italia, ITALIE."
+    },
+    {
+        "code": "0098",
+        "type": "Schéma de la CHAMBRE DE COMMERCE TEL AVIV-JAFFA (conforme EDIRA)",
+        "description": "Organisme émetteur : Chamber of Commerce Tel Aviv-Jaffa, ISRAËL."
+    },
+    {
+        "code": "0099",
+        "type": "Réseau des systèmes de supervision Siemens",
+        "description": "Organisme émetteur : Siemens AG, Allemagne."
+    },
+    {
+        "code": "0100",
+        "type": "Schéma PNG_ICD",
+        "description": "Organisme émetteur : GPT Limited, Royaume-Uni."
+    },
+    {
+        "code": "0101",
+        "type": "Allocation de codes en Afrique du Sud",
+        "description": "Organisme émetteur : Thawte Consulting, Afrique du Sud."
+    },
+    {
+        "code": "0102",
+        "type": "HEAG",
+        "description": "Organisme émetteur : Hessische Elektrizitats-AG, Allemagne."
+    },
+    {
+        "code": "0104",
+        "type": "Système de codage BT - ICD",
+        "description": "Organisme émetteur : Tony Holmes, Royaume-Uni."
+    },
+    {
+        "code": "0105",
+        "type": "Schéma de la chambre de commerce et d'industrie portugaise (conforme EDIRA)",
+        "description": "Organisme émetteur : Chambre de commerce et d'industrie portugaise, Portugal."
+    },
+    {
+        "code": "0106",
+        "type": "Association des chambres de commerce et d'industrie des Pays-Bas (conforme EDIRA)",
+        "description": "Organisme émetteur : Vereniging van Kamers van Koophandel en Fabrieken in Nederland, Pays-Bas."
+    },
+    {
+        "code": "0107",
+        "type": "Schéma de l'Association des chambres de commerce et d'industrie suédoises (conforme EDIRA)",
+        "description": "Organisme émetteur : Association des chambres de commerce et d'industrie suédoises, Suède."
+    },
+    {
+        "code": "0108",
+        "type": "Schéma des chambres de commerce et d'industrie australiennes (conforme EDIRA)",
+        "description": "Organisme émetteur : Australian Chambers of Commerce and Industry, Australie."
+    },
+    {
+        "code": "0109",
+        "type": "BellSouth ICD AESA (Adresse du système final ATM)",
+        "description": "Organisme émetteur : BellSouth Corporation, USA."
+    },
+    {
+        "code": "0110",
+        "type": "Bell Atlantic",
+        "description": "Organisme émetteur : Bell Atlantic, USA."
+    },
+    {
+        "code": "0111",
+        "type": "Identifiants d'objets",
+        "description": "Organisme émetteur : IEEE (Institute of Electrical and Electronics Engineers), USA."
+    },
+    {
+        "code": "0112",
+        "type": "Registre ISO pour les organismes produisant des normes",
+        "description": "Organisme émetteur : Organisation internationale de normalisation (ISO), SUISSE."
+    },
+    {
+        "code": "0113",
+        "type": "OriginNet",
+        "description": "Organisme émetteur : Origin BV, Pays-Bas."
+    },
+    {
+        "code": "0114",
+        "type": "Check Point Software Technologies",
+        "description": "Organisme émetteur : Check Point Software Technologies Ltd, ISRAËL."
+    },
+    {
+        "code": "0115",
+        "type": "Réseau de communication de données Pacific Bell",
+        "description": "Organisme émetteur : Pacific Bell, USA."
+    },
+    {
+        "code": "0116",
+        "type": "Identifiants d'objets PSS",
+        "description": "Organisme émetteur : PSS (Postal Security Services), FINLANDE."
+    },
+    {
+        "code": "0117",
+        "type": "SYSTÈME DE CODAGE STENTOR-ICD",
+        "description": "Organisme émetteur : Stentor Resource Centre Inc., Canada."
+    },
+    {
+        "code": "0118",
+        "type": "Réseau ATM ZN'96",
+        "description": "Organisme émetteur : Deutsche Telekom AG, Allemagne."
+    },
+    {
+        "code": "0119",
+        "type": "Réseau MCI / OSI",
+        "description": "Organisme émetteur : MCI Telecommunications Corporation, USA."
+    },
+    {
+        "code": "0120",
+        "type": "Advantis",
+        "description": "Organisme émetteur : Advantis, USA."
+    },
+    {
+        "code": "0121",
+        "type": "Codes d'échange de données Affable Software",
+        "description": "Organisme émetteur : Affable Software Corporation, Canada."
+    },
+    {
+        "code": "0122",
+        "type": "BB-DATA GmbH",
+        "description": "Organisme émetteur : BB-DATA GmbH, Allemagne."
+    },
+    {
+        "code": "0123",
+        "type": "Réseau ATM de la société BASF",
+        "description": "Organisme émetteur : BASF Computer Services GmbH, Allemagne."
+    },
+    {
+        "code": "0124",
+        "type": "Identifiants IOTA pour l'adressage des télécommunications",
+        "description": "Organisme émetteur : DISC, British Standards Institution, Royaume-Uni."
+    },
+    {
+        "code": "0125",
+        "type": "Réseau d'entreprise Henkel (H-Net)",
+        "description": "Organisme émetteur : Henkel KgaA, Allemagne."
+    },
+    {
+        "code": "0126",
+        "type": "Réseau GTE / OSI",
+        "description": "Organisme émetteur : GTE, USA."
+    },
+    {
+        "code": "0127",
+        "type": "Réseau d'entreprise Dresdner Bank",
+        "description": "Organisme émetteur : Dresdner Bank AG, Allemagne."
+    },
+    {
+        "code": "0128",
+        "type": "BCNR (Numéro de compensation bancaire suisse)",
+        "description": "Organisme émetteur : Telekurs AG, Suisse."
+    },
+    {
+        "code": "0129",
+        "type": "Code BPI (Identification des partenaires commerciaux suisses)",
+        "description": "Organisme émetteur : Telekurs AG, Suisse."
+    },
+    {
+        "code": "0130",
+        "type": "Directions de la Commission européenne",
+        "description": "Organisme émetteur : Commission européenne, Belgique."
+    },
+    {
+        "code": "0131",
+        "type": "Code pour l'identification des organisations nationales",
+        "description": "Organisme émetteur : Autorité d'enregistrement des codes d'organisations nationales, R.P. de Chine."
+    },
+    {
+        "code": "0132",
+        "type": "Identifiants d'objets Certicom",
+        "description": "Organisme émetteur : Certicom Corp, USA."
+    },
+    {
+        "code": "0133",
+        "type": "OID TC68",
+        "description": "Organisme émetteur : ISO TC68, Services bancaires et financiers, USA."
+    },
+    {
+        "code": "0134",
+        "type": "Infonet Services Corporation",
+        "description": "Organisme émetteur : Infonet NV/SA, Belgique."
+    },
+    {
+        "code": "0135",
+        "type": "Identifiants d'objets SIA",
+        "description": "Organisme émetteur : SIA-Società Interbancaria per l'Automazione S.p.A., ITALIE."
+    },
+    {
+        "code": "0136",
+        "type": "Plan d'adressage de système final ATM mondial Cable & Wireless",
+        "description": "Organisme émetteur : Cable & Wireless Global Business Inc., USA."
+    },
+    {
+        "code": "0137",
+        "type": "Schéma AESA mondial",
+        "description": "Construction et administration des AESAs, routage des connexions commutées ATM. Organisme émetteur : Global One, Belgique."
+    },
+    {
+        "code": "0138",
+        "type": "Plan d'adressage de système final ATM de France Télécom",
+        "description": "Utilisé pour fournir des adresses de système final ATM basées sur le format ICD. Organisme émetteur : France Télécom, France."
+    },
+    {
+        "code": "0139",
+        "type": "Savvis Communications AESA",
+        "description": "Adressage mondial des commutateurs ATM Savvis et implémentation de PNNI. Organisme émetteur : Savvis Communications, USA."
+    },
+    {
+        "code": "0140",
+        "type": "Code TOPAS (Toshiba Organizations, Partners, And Suppliers')",
+        "description": "Identifier mondialement les organisations ayant des transactions commerciales ou techniques avec Toshiba Corporation. Organisme émetteur : Toshiba Corporation, Japon."
+    },
+    {
+        "code": "0141",
+        "type": "Système d'entités commerciales et gouvernementales de l'OTAN",
+        "description": "Identifier toutes les entités commerciales et gouvernementales fournissant du matériel/services aux forces armées de l'OTAN. Organisme émetteur : NATO Group AC/135, Luxembourg."
+    },
+    {
+        "code": "0142",
+        "type": "Identifiants d'objets SECETI",
+        "description": "Enregistrement d'identifiants d'objets selon l'ISO 8824 et ISO 8825. Organisme émetteur : Servizi Centralizzati SECETI S.p.A., ITALIE."
+    },
+    {
+        "code": "0143",
+        "type": "EINESTEINet AG",
+        "description": "Fournir des services applicatifs via un réseau ATM aux clients situés dans toute l'Europe. Organisme émetteur : EINSTEINet AG, Allemagne."
+    },
+    {
+        "code": "0144",
+        "type": "DoDAAC (Department of Defense Activity Address Code)",
+        "description": "Code attribué pour identifier de manière unique toutes les unités militaires du Département de la Défense des États-Unis. Organisme émetteur : DoD, USA."
+    },
+    {
+        "code": "0145",
+        "type": "Schéma d'identification comptable administrative DGCP",
+        "description": "Code attribué par la Direction Générale de la Comptabilité Publique française. Organisme émetteur : DGCP, France."
+    },
+    {
+        "code": "0146",
+        "type": "Code DGI (Direction Générale des Impôts)",
+        "description": "Autorité fiscale française. Organisme émetteur : DGI, France."
+    },
+    {
+        "code": "0147",
+        "type": "Code de société standard",
+        "description": "Code d'identification des partenaires enregistré auprès de JIPDEC/ECPC. Organisme émetteur : JIPDEC, Japon."
+    },
+    {
+        "code": "0148",
+        "type": "Codes d'identification de réseau de données de l'UIT (DNIC)",
+        "description": "Codes d'identification de réseau de données attribués par l'UIT (ITU). Organisme émetteur : UIT, Suisse."
+    },
+    {
+        "code": "0149",
+        "type": "Identifiant commercial mondial",
+        "description": "Utilisé pour identifier et désigner dans le commerce électronique les fournisseurs potentiels. Organisme émetteur : ResolveNet (IOM) Ltd, Royaume-Uni."
+    },
+    {
+        "code": "0150",
+        "type": "Madge Networks Ltd - Schéma d'adressage ATM ICD",
+        "description": "Code utilisé pour l'établissement des connexions PVC et SPVC. Organisme émetteur : Madge Networks, Royaume-Uni."
+    },
+    {
+        "code": "0151",
+        "type": "Schéma du numéro d'entreprise australien (ABN)",
+        "description": "Identifiant unique pour interagir avec le gouvernement australien et support pour la taxe GST. Organisme émetteur : Bureau de la fiscalité australien, AUSTRALIE."
+    },
+    {
+        "code": "0152",
+        "type": "Code d'identifiant de schéma Edira",
+        "description": "Pour l'identification sans ambiguïté des schémas d'enregistrement utilisés dans l'e-commerce (hors organisations). Organisme émetteur : Association EDIRA, Suisse."
+    },
+    {
+        "code": "0153",
+        "type": "Concert Global Network Services ICD AESA",
+        "description": "Adressage mondial des commutateurs ATM Concert pour l'implémentation de PNNI. Organisme émetteur : Concert Global Network Services Ltd, Bermudes."
+    },
+    {
+        "code": "0154",
+        "type": "Numéro d'identification des sujets économiques : (ICO)",
+        "description": "Identification unique des sujets économiques à des fins administratives en République tchèque. Organisme émetteur : Bureau tchèque des statistiques, République tchèque."
+    },
+    {
+        "code": "0155",
+        "type": "Global Crossing AESA (Adresse du système final ATM)",
+        "description": "Construction et implémentation d'un schéma AESA évolutif pour le routage. Organisme émetteur : Global Crossing Ltd, Bermudes."
+    },
+    {
+        "code": "0156",
+        "type": "AUNA",
+        "description": "Réseau de télécommunication des opérateurs du groupe AUNA utilisé pour l'adressage NSAP. Organisme émetteur : AUNA, Espagne."
+    },
+    {
+        "code": "0157",
+        "type": "Interconnexion ATM avec KPN Telecom Pays-Bas",
+        "description": "Réseau ITO Drager. Fait partie du schéma initial d'adressage réseau OSI. Organisme émetteur : Informatie en Communicatie Technologie Organisatie, Pays-Bas."
+    },
+    {
+        "code": "0158",
+        "type": "Numéro d'identification du sujet économique (ICO)",
+        "description": "Identification unique des sujets économiques (personnes morales et entrepreneurs) en Slovaquie. Organisme émetteur : Bureau slovaque des statistiques, République slovaque."
+    },
+    {
+        "code": "0159",
+        "type": "Identifiants d'objets ACTALIS",
+        "description": "Enregistrement d'identifiants d'objets (OIDs) selon l'ISO 8824/8825. Organisme émetteur : ACTALIS S.p.A., ITALIE."
+    },
+    {
+        "code": "0160",
+        "type": "GTIN - Code article international",
+        "description": "Identifiant mondial unique des articles commerciaux (produits ou services). Organisme émetteur : GS1 (anciennement EAN International)."
+    },
+    {
+        "code": "0161",
+        "type": "Annuaire technique ouvert ECCMA",
+        "description": "Dictionnaire centralisé de noms et de définitions pour les concepts commerciaux (biens et services). Organisme émetteur : ECCMA, USA."
+    },
+    {
+        "code": "0162",
+        "type": "Schéma d'identifiants d'objets du CEN/ISSS",
+        "description": "Attribuer des OID aux objets définis dans les normes développées par les instances techniques du CEN. Organisme émetteur : Comité Européen de Normalisation, Belgique."
+    },
+    {
+        "code": "0163",
+        "type": "Identifiant d'installation US-EPA",
+        "description": "Identification unique des installations réglementées ou surveillées par l'EPA des États-Unis. Organisme émetteur : Environmental Protection Agency (EPA), USA."
+    },
+    {
+        "code": "0164",
+        "type": "TELUS Corporation",
+        "description": "Schéma d'adressage SA pour l'implémentation du PNNI ATM. Organisme émetteur : TELUS Corporation, Canada."
+    },
+    {
+        "code": "0165",
+        "type": "Identifiants d'objets FIEIE",
+        "description": "Identifiants pour les entreprises internationales dans les domaines de l'industrie forestière, l'énergie, les infrastructures et l'environnement. Organisme émetteur : Jaakko Poyry Group Oyj, Finlande."
+    },
+    {
+        "code": "0166",
+        "type": "Schéma d'identifiant Swissguide",
+        "description": "Identifier de manière unique les objets (sociétés, professionnels) dans les annuaires/bases de données. Organisme émetteur : Swissguide AG, Suisse."
+    },
+    {
+        "code": "0167",
+        "type": "Plan d'adressage de système final ATM de Priority Telecom",
+        "description": "Fournir des adresses ATM basées sur le format ICD requises pour l'implémentation PNNI. Organisme émetteur : Priority Telecom Netherlands, Pays-Bas."
+    },
+    {
+        "code": "0168",
+        "type": "Adressage OSI de Vodafone Irlande",
+        "description": "Utilisé pour l'adressage réseau ATM dans le cadre du déploiement de la 3G. Organisme émetteur : Vodafone Ireland Limited, Irlande."
+    },
+    {
+        "code": "0169",
+        "type": "Numéro d'identification fédéral des entreprises suisses",
+        "description": "Identifier de manière unique toutes les entreprises/organisations inscrites au Registre du commerce suisse (zefix). Organisme émetteur : Office fédéral de la justice, Suisse."
+    },
+    {
+        "code": "0170",
+        "type": "Code de société Teikoku",
+        "description": "Code attribué aux sociétés, propriétaires d'entreprises et organisations publiques au Japon. Organisme émetteur : TEIKOKU DATABANK LTD., JAPON."
+    },
+    {
+        "code": "0171",
+        "type": "Index CP & CPS du Luxembourg (Politique et pratiques de certification)",
+        "description": "Index des politiques et pratiques de certification émis par la PKI du Luxembourg. Organisme émetteur : Ministère de l'Économie et du Commerce extérieur, Luxembourg."
+    },
+    {
+        "code": "0172",
+        "type": "Groupement de projet « Listes de propriétés » (PROLIST®)",
+        "description": "Identifier de manière unique les propriétés et blocs pour l'industrie de transformation. Organisme émetteur : PROLIST, Allemagne."
+    },
+    {
+        "code": "0173",
+        "type": "eCI@ss",
+        "description": "Identifier de manière unique les classes et caractéristiques des produits et services dans le système eCI@ss. Organisme émetteur : eCI@ss, Allemagne."
+    },
+    {
+        "code": "0174",
+        "type": "StepNexus",
+        "description": "Fournir des identifiants au sein des objets chargeurs StepNexus pour les certificats X509. Organisme émetteur : StepNexus, Royaume-Uni."
+    },
+    {
+        "code": "0175",
+        "type": "Siemens AG",
+        "description": "Identifier les propriétés et classes utilisées par Siemens AG - Power Generation. Organisme émetteur : Siemens AG, Allemagne."
+    },
+    {
+        "code": "0176",
+        "type": "Paradine GmbH",
+        "description": "Identifier les propriétés et classes pour les produits et services dans les dictionnaires Paradine. Organisme émetteur : Paradine GmbH, Autriche."
+    },
+    {
+        "code": "0177",
+        "type": "Odette International Limited",
+        "description": "Utilisé dans les échanges EDI pour identifier les entités commerciales dans l'industrie automobile européenne. Organisme émetteur : Odette International Limited, Royaume-Uni."
+    },
+    {
+        "code": "0178",
+        "type": "Route1 MobiNET",
+        "description": "Adressage des OID définis par Route1 Security Corporation pour MobiNET. Organisme émetteur : Route1 Security Corporation, Canada."
+    },
+    {
+        "code": "0179",
+        "type": "Identifiants d'objets Penango",
+        "description": "Identifier les objets, politiques et données liés aux produits et services Penango. Organisme émetteur : Penango, Inc., Canada."
+    },
+    {
+        "code": "0180",
+        "type": "PKI militaire lituanienne",
+        "description": "Index des politiques et pratiques de certification émis par la PKI militaire de Lituanie. Organisme émetteur : Ministère de la Défense Nationale, Lituanie."
+    },
+    {
+        "code": "0183",
+        "type": "Numéro d'identification suisse des entreprises (IDE)",
+        "description": "Identifier de manière unique toutes les organisations enregistrées en Suisse dans les registres officiels. Organisme émetteur : Office fédéral de la statistique (OFS), Suisse."
+    },
+    {
+        "code": "0184",
+        "type": "DIGSTORG",
+        "description": "Identifier les entreprises et associations danoises dans le commerce international. Organisme émetteur : Agence danoise pour la numérisation, Danemark."
+    },
+    {
+        "code": "0185",
+        "type": "Code d'objet Perceval",
+        "description": "Identifier de manière unique les entités liées aux produits Perceval selon l'ASN.1 (ISO 8824). Organisme émetteur : Perceval SA, Belgique."
+    },
+    {
+        "code": "0186",
+        "type": "Identifiants d'objets TrustPoint",
+        "description": "Identifier de manière unique les objets et mécanismes via les produits de sécurité TrustPoint. Organisme émetteur : TrustPoint Innovation Technologies, USA."
+    },
+    {
+        "code": "0187",
+        "type": "Schéma d'identification unique Amazon",
+        "description": "Fournir des identifiants pour les propriétés, classes et objets utilisés par Amazon.com et ses affiliés. Organisme émetteur : Amazon Technologies, Inc., USA."
+    },
+    {
+        "code": "0188",
+        "type": "Numéro d'entreprise du système de sécurité sociale et fiscale",
+        "description": "Infrastructure sociale au Japon pour améliorer l'efficacité du système fiscal et social. Organisme émetteur : Agence nationale des impôts du Japon."
+    },
+    {
+        "code": "0189",
+        "type": "Identifiant commercial européen (EBID)",
+        "description": "Utilisé dans les échanges EDI ou B2B pour identifier les entités commerciales. Organisme émetteur : EBID Service AG, Allemagne."
+    },
+    {
+        "code": "0190",
+        "type": "Organisatie Indentificatie Nummer (OIN)",
+        "description": "Norme néerlandaise pour identifier les organisations échangeant des messages avec le gouvernement néerlandais. Organisme émetteur : Logius, Pays-Bas."
+    },
+    {
+        "code": "0191",
+        "type": "Code de société (Estonie)",
+        "description": "Identifiant unique majeur de toutes les institutions et organisations en Estonie. Organisme émetteur : Ministère de la Justice, Estonie."
+    },
+    {
+        "code": "0192",
+        "type": "Organisasjonsnummer",
+        "description": "Identifier les entités inscrites au registre central de coordination des personnes morales en Norvège. Organisme émetteur : Centre de registre de Brønnøysund, Norvège."
+    },
+    {
+        "code": "0193",
+        "type": "Identifiant de partie UBL.BE",
+        "description": "Identification et adressage des différentes parties impliquées dans la facturation. Organisme émetteur : UBL.BE, Belgique."
+    },
+    {
+        "code": "0194",
+        "type": "Dictionnaire technique ouvert KOIOS",
+        "description": "Terminologie consensus (ISO, CEI) pour décrire les individus, organisations, biens et services. Organisme émetteur : KOIOS Master Data Limited, Royaume-Uni."
+    },
+    {
+        "code": "0195",
+        "type": "Cadre de facturation électronique national de Singapour",
+        "description": "Utilisation dans les messages électroniques pour l'identification des organisations à Singapour. Organisme émetteur : IMDA (Infocomm Media Development Authority), Singapour."
+    },
+    {
+        "code": "0196",
+        "type": "Identifiant islandais - Íslensk kennitala",
+        "description": "Identification des individus et entités juridiques islandais. Organisme émetteur : Registre national / Direction des impôts, Islande."
+    },
+    {
+        "code": "0197",
+        "type": "Norme APPLiA PI",
+        "description": "Structure standard d'information produit lancée par l'association européenne APPLiA. Organisme émetteur : APPLiA Home Appliance Europe, Belgique."
+    },
+    {
+        "code": "0198",
+        "type": "ERSTORG",
+        "description": "Identifier les entreprises danoises sur la base de leur numéro de TVA. Organisme émetteur : Autorité danoise des entreprises, Danemark."
+    },
+    {
+        "code": "0199",
+        "type": "Identifiant d'entité juridique (LEI)",
+        "description": "Identifiant mondial ouvert établi selon l'ISO 17442 pour les entités participant aux transactions financières. Organisme émetteur : GLEIF, Mondial."
+    },
+    {
+        "code": "0200",
+        "type": "Code d'entité juridique (Lituanie)",
+        "description": "Utilisé dans les échanges EDI pour identifier les entités juridiques. Organisme émetteur : État Centre des Registres, Lituanie."
+    },
+    {
+        "code": "0201",
+        "type": "Codice Univoco Unità Organizzativa iPA",
+        "description": "Identifier de manière unique toutes les unités organisationnelles des organismes publics en Italie. Organisme émetteur : Agenzia per l’Italia digitale, Italie."
+    },
+    {
+        "code": "0202",
+        "type": "Indirizzo di Posta Elettronica Certificata",
+        "description": "Identifier les expéditeurs et destinataires de courriers électroniques certifiés selon la loi italienne. Organisme émetteur : Agenzia per l’Italia digitale, Italie."
+    },
+    {
+        "code": "0203",
+        "type": "Identifiant de participant au réseau eDelivery",
+        "description": "Utilisé comme identifiant d'adresse électronique pour les participants au réseau sécurisé. Organisme émetteur : Agence pour le gouvernement numérique, Suède."
+    },
+    {
+        "code": "0204",
+        "type": "Leitweg-ID",
+        "description": "Identification des autorités publiques en Allemagne. Organisme émetteur : KoSIT, Allemagne."
+    },
+    {
+        "code": "0205",
+        "type": "CODDEST",
+        "description": "Facturation électronique via SdI, le système d'échange utilisé en Italie pour les factures transmises à l'administration. Organisme émetteur : Agenzia delle Entrate, Italie."
+    },
+    {
+        "code": "0206",
+        "type": "Registre du Commerce et de l’Industrie : RCI",
+        "description": "Fournir des identifiants pour les organisations au niveau national à Monaco. Organisme émetteur : AMSN, Monaco."
+    },
+    {
+        "code": "0207",
+        "type": "PiLog Ontology Codification Identifier (POCI)",
+        "description": "Répertoire de concepts (produits, services, partenaires) facilitant l'échange de données entre ERP sans interprétation humaine. Organisme émetteur : PiLog Group, Afrique du Sud."
+    },
+    {
+        "code": "0208",
+        "type": "Numéro d'entreprise / ondernemingsnummer / Unternehmensnummer",
+        "description": "Numéro d'identification attribué par le registre belge (BCE) pour identifier les entités opérant en Belgique. Organisme émetteur : Banque-Carrefour des Entreprises (BCE), Belgique."
+    },
+    {
+        "code": "0209",
+        "type": "Clés d'identification GS1",
+        "description": "Utilisées par les systèmes d'information pour désigner sans ambiguïté une entité (produit, unité logistique, lieu). Organisme émetteur : GS1, Mondial."
+    },
+    {
+        "code": "0210",
+        "type": "CODICE FISCALE",
+        "description": "Utilisé pour la facturation électronique et l'e-procurement en Italie. Organisme émetteur : Agenzia delle Entrate, Italie."
+    },
+    {
+        "code": "0211",
+        "type": "PARTITA IVA",
+        "description": "Utilisé pour la facturation électronique et l'e-procurement en Italie. Organisme émetteur : Agenzia delle Entrate, Italie."
+    },
+    {
+        "code": "0212",
+        "type": "Identifiant d'organisation finlandais",
+        "description": "Utilisé pour le commerce électronique, la facturation électronique et les reçus en Finlande. Organisme émetteur : Trésor public de Finlande."
+    },
+    {
+        "code": "0213",
+        "type": "Identifiant TVA d'organisation finlandais",
+        "description": "Utilisé pour les besoins du commerce électronique en Finlande. Organisme émetteur : Trésor public de Finlande."
+    },
+    {
+        "code": "0214",
+        "type": "Norme Tradeplace TradePI",
+        "description": "Structure standard d'information produit pour l'électronique grand public et l'électroménager. Organisme émetteur : Tradeplace B.V., Pays-Bas."
+    },
+    {
+        "code": "0215",
+        "type": "Identifiant Net service ID",
+        "description": "Schéma utilisé pour la facturation électronique et les achats. Organisme émetteur : Tieto Finland Oy, Finlande."
+    },
+    {
+        "code": "0216",
+        "type": "OVTcode",
+        "description": "Schéma utilisé pour la facturation électronique et les achats. Organisme émetteur : TIEKE, Finlande."
+    },
+    {
+        "code": "0217",
+        "type": "Numéro d'établissement de la chambre de commerce des Pays-Bas",
+        "description": "Utilisé pour la facturation électronique. Organisme émetteur : Nederlands Normalisatie Instituut (NEN)."
+    },
+    {
+        "code": "0218",
+        "type": "Numéro d'enregistrement unifié (Lettonie)",
+        "description": "Numéro unique attribué à chaque entité juridique enregistrée en Lettonie. Organisme émetteur : Registre des entreprises, Lettonie."
+    },
+    {
+        "code": "0219",
+        "type": "Code d'enregistrement contribuable (Lettonie)",
+        "description": "Utilisé dans l'EDI pour identifier les organisations publiques et privées. Organisme émetteur : Service des revenus de l'État, Lettonie."
+    },
+    {
+        "code": "0220",
+        "type": "Registre des personnes physiques (Lettonie)",
+        "description": "Système d'enregistrement uniforme fournissant l'identification des personnes physiques. Organisme émetteur : Bureau de la citoyenneté et des migrations, Lettonie."
+    },
+    {
+        "code": "0221",
+        "type": "Numéro enregistré de l'émetteur de facture qualifié",
+        "description": "Utilisé pour la méthode de facturation de la taxe à la consommation au Japon (octobre 2023). Organisme émetteur : Agence nationale des impôts du Japon."
+    },
+    {
+        "code": "0222",
+        "type": "Support de registre de métadonnées",
+        "description": "Base de données de métadonnées supportant la description des objets et données. Organisme émetteur : Farance Inc."
+    },
+    {
+        "code": "0223",
+        "type": "Société basée dans l'UE",
+        "description": "Fournir des identifiants pour les organisations basées dans l'UE. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0224",
+        "type": "FTCTC CODE ROUTAGE",
+        "description": "Identifiant utilisé pour le routage entre plateformes accréditées dans le cadre de la réforme française de la facturation électronique. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0225",
+        "type": "FRCTC ADRESSE ÉLECTRONIQUE",
+        "description": "Identifiant utilisé comme adresse électronique dans le cadre de la réforme française du CTC. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0226",
+        "type": "FRCTC Particulier",
+        "description": "Identifiant pour les citoyens français envoyant des factures au secteur public. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0227",
+        "type": "Société basée HORS UE",
+        "description": "Identifiant pour les sociétés situées en dehors de l'Union Européenne. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0228",
+        "type": "Répertoire des Entreprises et des Établissements (RIDET)",
+        "description": "Fournir des identifiants pour les organisations au niveau national en Nouvelle-Calédonie. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0229",
+        "type": "T.A.H.I.T.I (Traitement automatique hiérarchisé des institutions de Tahiti)",
+        "description": "Fournir des identifiants pour les organisations au niveau national à TAHITI. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0230",
+        "type": "Cadre national de facturation électronique",
+        "description": "Identifiant pour les organisations. Organisme émetteur : Malaysia Digital Economy Corporation (MDEC)."
+    },
+    {
+        "code": "0231",
+        "type": "Société à taxation unique (France)",
+        "description": "Fournir des identifiants aux sociétés sous le régime de taxation unique. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0232",
+        "type": "Numéro de produit NOBB",
+        "description": "Système d'identification pour les numéros de produits NOBB."
+    },
+    {
+        "code": "0233",
+        "type": "Elnummer",
+        "description": "Système d'identification Elnummer."
+    },
+    {
+        "code": "0234",
+        "type": "Identifiant Toimitusosoite ID",
+        "description": "Identifier les lieux de livraison des unités comptables du gouvernement finlandais."
+    },
+    {
+        "code": "0235",
+        "type": "Numéro d'identification fiscale (TIN) des Émirats Arabes Unis",
+        "description": "Numéro unique émis aux personnes devant être identifiées à des fins fiscales. Organisme émetteur : Autorité fédérale des impôts des EAU."
+    },
+    {
+        "code": "0236",
+        "type": "ToimipaikkalD",
+        "description": "Système d'identification ToimipaikkalD."
+    },
+    {
+        "code": "0237",
+        "type": "CPR (Numéro de registre civil des personnes danoises)",
+        "description": "Numéro de registre civil pour les individus au Danemark."
+    },
+    {
+        "code": "0238",
+        "type": "Plateforme.s agréée.s à la facturation électronique (PPF/PDP)",
+        "description": "Fournir des identifiants pour le Portail Public de Facturation et les Plateformes de Dématérialisation Partenaires. Organisme émetteur : AIFE, France."
+    },
+    {
+        "code": "0239",
+        "type": "UEEA (Union Économique Eurasiatique)",
+        "description": "Schéma d'identification de l'Union économique eurasiatique."
+    },
+    {
+        "code": "0240",
+        "type": "Répertoire des personnes morales",
+        "description": "Registre des personnes morales pour identification officielle."
+    },
+    {
+        "code": "0241",
+        "type": "Nom inconnu",
+        "description": "Entrée 0241 (Nom inconnu)."
+    },
+    {
+        "code": "0242",
+        "type": "Schéma d'identification des prestataires de services OpenPeppol (SPIS)",
+        "description": "Schéma d'identification des prestataires OpenPeppol."
+    },
+    {
+        "code": "0243",
+        "type": "Nom inconnu",
+        "description": "Entrée 0243 (Nom inconnu)."
+    },
+    {
+        "code": "0244",
+        "type": "Identification fiscale (Tax ID), Nigeria",
+        "description": "Système national d'identification fiscale du Nigeria."
+    },
+    {
+        "code": "0245",
+        "type": "Numéro d'identification fiscale (DIČ), Slovaquie",
+        "description": "Numéro d'identification fiscale slovaque pour les organisations."
+    }
+]

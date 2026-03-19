@@ -1,0 +1,137 @@
+[
+    {
+        "code": "71",
+        "type": "Request for payment",
+        "description": "Document/message issued by a creditor to a debtor to request payment of one or more invoices past due."
+    },
+    {
+        "code": "80",
+        "type": "Debit note related to goods or services",
+        "description": "Debit information related to a transaction for goods or services to the relevant party."
+    },
+    {
+        "code": "82",
+        "type": "Metered services invoice",
+        "description": "Document/message claiming payment for the supply of metered services (e.g., gas, electricity, etc.) supplied to a fixed meter whose consumption is measured over a period of time."
+    },
+    {
+        "code": "84",
+        "type": "Debit note related to financial adjustments",
+        "description": "Document/message for providing debit information related to financial adjustments to the relevant party."
+    },
+    {
+        "code": "102",
+        "type": "Tax notification",
+        "description": "Used to specify that the message is a tax notification."
+    },
+    {
+        "code": "218",
+        "type": "Final payment request based on completion of work",
+        "description": "The final payment request of a series of payment requests submitted upon completion of all the work."
+    },
+    {
+        "code": "219",
+        "type": "Payment request for completed units",
+        "description": "A request for payment for completed units."
+    },
+    {
+        "code": "326",
+        "type": "Partial invoice",
+        "description": "Document/message specifying details of an incomplete invoice."
+    },
+    {
+        "code": "331",
+        "type": "Commercial invoice which includes a packing list",
+        "description": "Commercial transaction (invoice) will include a packing list."
+    },
+    {
+        "code": "380",
+        "type": "Commercial invoice",
+        "description": "(1334) Document/message claiming payment for goods or services supplied under conditions agreed between seller and buyer."
+    },
+    {
+        "code": "382",
+        "type": "Commission note",
+        "description": "Document/message in which a seller specifies the amount of commission, the percentage of the invoice amount, or some other basis for the calculation of the commission to which a sales agent is entitled."
+    },
+    {
+        "code": "383",
+        "type": "Debit note",
+        "description": "Document/message for providing debit information to the relevant party."
+    },
+    {
+        "code": "384",
+        "type": "Corrected invoice",
+        "description": "Commercial invoice that includes revised information differing from an earlier submission of the same invoice."
+    },
+    {
+        "code": "386",
+        "type": "Prepayment invoice",
+        "description": "An invoice to pay amounts for goods and services in advance; these amounts will be subtracted from the final invoice."
+    },
+    {
+        "code": "388",
+        "type": "Tax invoice",
+        "description": "An invoice for tax purposes."
+    },
+    {
+        "code": "389",
+        "type": "Self-billed invoice",
+        "description": "An invoice the invoicee is producing instead of the seller."
+    },
+    {
+        "code": "393",
+        "type": "Factored invoice",
+        "description": "Invoice assigned to a third party for collection."
+    },
+    {
+        "code": "395",
+        "type": "Consignment invoice",
+        "description": "Commercial invoice that covers a transaction other than one involving a sale."
+    },
+    {
+        "code": "553",
+        "type": "Forwarder's invoice discrepancy report",
+        "description": "Document/message reporting invoice discrepancies indentified by the forwarder."
+    },
+    {
+        "code": "575",
+        "type": "Insurer's invoice",
+        "description": "Document/message issued by an insurer specifying the cost of an insurance which has been effected and claiming payment therefore."
+    },
+    {
+        "code": "623",
+        "type": "Forwarder's invoice",
+        "description": "Invoice issued by a freight forwarder specifying services rendered and costs incurred and claiming payment therefore."
+    },
+    {
+        "code": "780",
+        "type": "Freight invoice",
+        "description": "Document/message issued by a transport operation specifying freight costs and charges incurred for a transport operation and stating conditions of payment."
+    },
+    {
+        "code": "817",
+        "type": "Claim notification",
+        "description": "Document notifying a claim."
+    },
+    {
+        "code": "870",
+        "type": "Consular invoice",
+        "description": "Document/message to be prepared by an exporter in his country and presented to a diplomatic representation of the importing country for endorsement and subsequently to be presented by the importer in connection with the import of the goods described therein."
+    },
+    {
+        "code": "875",
+        "type": "Partial construction invoice",
+        "description": "Partial invoice in the context of a specific construction project."
+    },
+    {
+        "code": "876",
+        "type": "Partial final construction invoice",
+        "description": "Invoice concluding all previous partial construction invoices of a completed partial rendered service in the context of a specific construction project."
+    },
+    {
+        "code": "877",
+        "type": "Final construction invoice",
+        "description": "Invoice concluding all previous partial invoices and partial final construction invoices in the context of a specific construction project."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "code": "81",
+        "type": "Credit note related to goods or services",
+        "description": "Document message used to provide credit information related to a transaction for goods or services to the relevant party."
+    },
+    {
+        "code": "83",
+        "type": "Credit note related to financial adjustments",
+        "description": "Document message for providing credit information related to financial adjustments to the relevant party, e.g., bonuses."
+    },
+    {
+        "code": "381",
+        "type": "Credit note",
+        "description": "(1113) Document/message for providing credit information to the relevant party."
+    },
+    {
+        "code": "396",
+        "type": "Factored credit note",
+        "description": "Credit note related to assigned invoice(s)."
+    },
+    {
+        "code": "532",
+        "type": "Forwarder's credit note",
+        "description": "Document/message for providing credit information to the relevant party."
+    }
+]

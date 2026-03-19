@@ -1,0 +1,78 @@
+[
+    {
+        "code": "41",
+        "type": "Prime pour travaux en avance sur le calendrier"
+    },
+    {
+        "code": "42",
+        "type": "Autre prime"
+    },
+    {
+        "code": "60",
+        "type": "Remise à la consommation du fabricant"
+    },
+    {
+        "code": "62",
+        "type": "En raison du statut militaire"
+    },
+    {
+        "code": "63",
+        "type": "En raison d'un accident du travail"
+    },
+    {
+        "code": "64",
+        "type": "Accord spécial"
+    },
+    {
+        "code": "65",
+        "type": "Remise pour erreur de production"
+    },
+    {
+        "code": "66",
+        "type": "Remise pour nouveau point de vente"
+    },
+    {
+        "code": "67",
+        "type": "Remise sur échantillon"
+    },
+    {
+        "code": "68",
+        "type": "Remise sur fin de série"
+    },
+    {
+        "code": "70",
+        "type": "Remise Incoterm"
+    },
+    {
+        "code": "71",
+        "type": "Allocation de seuil de point de vente"
+    },
+    {
+        "code": "88",
+        "type": "Surtaxe/déduction sur les matériaux"
+    },
+    {
+        "code": "95",
+        "type": "Remise / Escompte"
+    },
+    {
+        "code": "100",
+        "type": "Rabais spécial"
+    },
+    {
+        "code": "102",
+        "type": "Fixe à long terme"
+    },
+    {
+        "code": "103",
+        "type": "Temporaire"
+    },
+    {
+        "code": "104",
+        "type": "Standard"
+    },
+    {
+        "code": "105",
+        "type": "Chiffre d'affaires annuel"
+    }
+]

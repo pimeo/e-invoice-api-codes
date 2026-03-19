@@ -1,0 +1,442 @@
+[
+    {
+        "code": "VATEX-EU-79-C",
+        "label": "Exonération fondée sur l'article 79, point c) de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations relatives au remboursement des débours. Remarque : le remboursement de débours n'est pas une exonération au sens de la directive TVA mais peut être traité comme tel dans le contexte de la norme EN16931."
+    },
+    {
+        "code": "VATEX-EU-132",
+        "label": "Exonération fondée sur l'article 132 de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations en faveur de certaines activités d'intérêt général."
+    },
+    {
+        "code": "VATEX-EU-132-1A",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point a) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de services et les livraisons de biens accessoires à ces prestations effectuées par les services publics des postes, à l'exception des transports de personnes et des télécommunications."
+    },
+    {
+        "code": "VATEX-EU-132-1B",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point b) de la directive 2006/112/CE du Conseil",
+        "description": "L'hospitalisation et les soins médicaux ainsi que les activités qui s'y rattachent étroitement, assurés par des organismes de droit public ou par des établissements hospitaliers dûment reconnus."
+    },
+    {
+        "code": "VATEX-EU-132-1C",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point c) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de soins à la personne effectuées dans le cadre de l'exercice des professions médicales et paramédicales telles qu'elles sont définies par l'État membre concerné."
+    },
+    {
+        "code": "VATEX-EU-132-1D",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point d) de la directive 2006/112/CE du Conseil",
+        "description": "Les livraisons d'organes, de sang et de lait humains."
+    },
+    {
+        "code": "VATEX-EU-132-1E",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point e) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de services effectuées par les mécaniciens-dentistes dans le cadre de leur profession ainsi que les fournitures de prothèses dentaires effectuées par les dentistes et les mécaniciens-dentistes."
+    },
+    {
+        "code": "VATEX-EU-132-1F",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point f) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de services effectuées par des groupements autonomes de personnes exerçant une activité exonérée à leurs membres pour les besoins directs de cette activité, sans but lucratif et sans distorsion de concurrence."
+    },
+    {
+        "code": "VATEX-EU-132-1G",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point g) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de services et les livraisons de biens étroitement liées à l'assistance sociale et à la sécurité sociale, y compris celles fournies par les maisons de retraite."
+    },
+    {
+        "code": "VATEX-EU-132-1H",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point h) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de services et les livraisons de biens étroitement liées à la protection de l'enfance et de la jeunesse par des organismes de droit public ou des organismes reconnus comme ayant un caractère social."
+    },
+    {
+        "code": "VATEX-EU-132-1I",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point i) de la directive 2006/112/CE du Conseil",
+        "description": "L'éducation de l'enfance ou de la jeunesse, l'enseignement scolaire ou universitaire, la formation ou le recyclage professionnel, ainsi que les prestations de services et les livraisons de biens qui s'y rattachent étroitement."
+    },
+    {
+        "code": "VATEX-EU-132-1J",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point j) de la directive 2006/112/CE du Conseil",
+        "description": "Les leçons données, à titre personnel, par des enseignants et portant sur l'enseignement scolaire ou universitaire."
+    },
+    {
+        "code": "VATEX-EU-132-1K",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point k) de la directive 2006/112/CE du Conseil",
+        "description": "Les mises à disposition de personnel par des institutions religieuses ou philosophiques pour les activités d'assistance, d'éducation ou de soins médicaux."
+    },
+    {
+        "code": "VATEX-EU-132-1L",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point l) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de services fournies par des organismes sans but lucratif (politique, syndical, religieux, etc.) à leurs membres, dans l'intérêt commun de ces derniers, moyennant une cotisation fixe."
+    },
+    {
+        "code": "VATEX-EU-132-1M",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point m) de la directive 2006/112/CE du Conseil",
+        "description": "Certaines prestations de services ayant un lien étroit avec la pratique du sport ou de l'éducation physique, fournies par des organismes sans but lucratif."
+    },
+    {
+        "code": "VATEX-EU-132-1N",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point n) de la directive 2006/112/CE du Conseil",
+        "description": "Certaines prestations de services culturels et les livraisons de biens qui s'y rattachent étroitement, fournis par des organismes de droit public ou d'autres organismes culturels reconnus."
+    },
+    {
+        "code": "VATEX-EU-132-1O",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point o) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de services et les livraisons de biens effectuées par des organismes dont les activités sont exonérées, lors de manifestations de collecte de fonds organisées à leur profit exclusif."
+    },
+    {
+        "code": "VATEX-EU-132-1P",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point p) de la directive 2006/112/CE du Conseil",
+        "description": "Les prestations de transport pour les personnes malades ou blessées à l'aide de véhicules spécialement aménagés à cet effet par des organismes dûment autorisés."
+    },
+    {
+        "code": "VATEX-EU-132-1Q",
+        "label": "Exonération fondée sur l'article 132, paragraphe 1, point q) de la directive 2006/112/CE du Conseil",
+        "description": "Les activités des organismes publics de radiodiffusion et de télévision qui n'ont pas un caractère commercial."
+    },
+    {
+        "code": "VATEX-EU-143",
+        "label": "Exonération fondée sur l'article 143 de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations à l'importation."
+    },
+    {
+        "code": "VATEX-EU-143-1A",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point a) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation définitive de biens dont la livraison par des assujettis est, en tout état de cause, exonérée à l'intérieur du territoire national."
+    },
+    {
+        "code": "VATEX-EU-143-1B",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point b) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation définitive de biens faisant l'objet des directives du Conseil 69/169/CEE, 83/181/CEE et 2006/79/CE."
+    },
+    {
+        "code": "VATEX-EU-143-1C",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point c) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation définitive de biens en libre pratique provenant d'un territoire tiers faisant partie du territoire douanier de la Communauté."
+    },
+    {
+        "code": "VATEX-EU-143-1D",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point d) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation de biens expédiés à partir d'un territoire tiers vers un État membre autre que celui où se termine l'expédition, lorsque la livraison est exonérée selon l'article 138."
+    },
+    {
+        "code": "VATEX-EU-143-1E",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point e) de la directive 2006/112/CE du Conseil",
+        "description": "La réimportation, par celui qui les a exportés, de biens dans l'état où ils ont été exportés et qui bénéficient de la franchise des droits de douane."
+    },
+    {
+        "code": "VATEX-EU-143-1F",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point f) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation de biens effectuée dans le cadre de relations diplomatiques et consulaires qui bénéficient de la franchise des droits de douane."
+    },
+    {
+        "code": "VATEX-EU-143-1FA",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point fa) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation de biens par la Communauté européenne, la BCE, la BEI ou par des organismes créés par les Communautés, dans les limites et conditions des protocoles sur les privilèges et immunités."
+    },
+    {
+        "code": "VATEX-EU-143-1G",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point g) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation de biens par des organismes internationaux reconnus par les autorités publiques de l'État membre d'accueil, dans les limites et conditions des conventions internationales."
+    },
+    {
+        "code": "VATEX-EU-143-1H",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point h) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation de biens effectuée dans les États membres parties au traité de l'Atlantique Nord par les forces armées des autres États parties à ce traité pour l'usage de ces forces."
+    },
+    {
+        "code": "VATEX-EU-143-1I",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point i) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation de biens par les forces armées du Royaume-Uni stationnées dans l'île de Chypre conformément au traité d'établissement de la République de Chypre."
+    },
+    {
+        "code": "VATEX-EU-143-1J",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point j) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation dans les ports par les entreprises de pêche maritime de leurs produits de la pêche non transformés ou ayant fait l'objet d'opérations de conservation avant la livraison."
+    },
+    {
+        "code": "VATEX-EU-143-1K",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point k) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation d'or effectuée par les banques centrales."
+    },
+    {
+        "code": "VATEX-EU-143-1L",
+        "label": "Exonération fondée sur l'article 143, paragraphe 1, point l) de la directive 2006/112/CE du Conseil",
+        "description": "L'importation de gaz par un système de gaz naturel, d'électricité ou d'énergie thermique (chaleur ou froid) par des réseaux."
+    },
+    {
+        "code": "VATEX-EU-144",
+        "label": "Exonération fondée sur l'article 144 de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations des prestations de services liées à l'importation de biens."
+    },
+    {
+        "code": "VATEX-EU-146-1E",
+        "label": "Exonération fondée sur l'article 146, paragraphe 1, point e) de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations des prestations de services liées à l'exportation de biens."
+    },
+    {
+        "code": "VATEX-EU-148",
+        "label": "Exonération fondée sur l'article 148 de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations liées aux transports internationaux."
+    },
+    {
+        "code": "VATEX-EU-148-A",
+        "label": "Exonération fondée sur l'article 148, point a) de la directive 2006/112/CE du Conseil",
+        "description": "L'avitaillement des navires affectés à la navigation en haute mer et assurant un trafic rémunéré."
+    },
+    {
+        "code": "VATEX-EU-148-B",
+        "label": "Exonération fondée sur l'article 148, point b) de la directive 2006/112/CE du Conseil",
+        "description": "L'avitaillement des navires de guerre affectés à la navigation internationale."
+    },
+    {
+        "code": "VATEX-EU-148-C",
+        "label": "Exonération fondée sur l'article 148, point c) de la directive 2006/112/CE du Conseil",
+        "description": "La livraison, la réparation, la transformation, l'affrètement et la location des navires de navigation internationale."
+    },
+    {
+        "code": "VATEX-EU-148-D",
+        "label": "Exonération fondée sur l'article 148, point d) de la directive 2006/112/CE du Conseil",
+        "description": "Prestations de services autres que celles visées au point c) effectuées pour les besoins directs des navires de commerce international."
+    },
+    {
+        "code": "VATEX-EU-148-E",
+        "label": "Exonération fondée sur l'article 148, point e) de la directive 2006/112/CE du Conseil",
+        "description": "L'avitaillement des aéronefs utilisés par des compagnies de navigation aérienne pratiquant principalement un trafic international rémunéré."
+    },
+    {
+        "code": "VATEX-EU-148-F",
+        "label": "Exonération fondée sur l'article 148, point f) de la directive 2006/112/CE du Conseil",
+        "description": "La livraison, la réparation, la transformation, l'affrètement et la location des aéronefs utilisés par des compagnies de navigation aérienne internationale."
+    },
+    {
+        "code": "VATEX-EU-148-G",
+        "label": "Exonération fondée sur l'article 148, point g) de la directive 2006/112/CE du Conseil",
+        "description": "Prestations de services autres que celles visées au point f) effectuées pour les besoins directs des aéronefs de navigation internationale."
+    },
+    {
+        "code": "VATEX-EU-151",
+        "label": "Exonération fondée sur l'article 151 de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations relatives à certaines opérations assimilées à des exportations."
+    },
+    {
+        "code": "VATEX-EU-151-1A",
+        "label": "Exonération fondée sur l'article 151, paragraphe 1, point a) de la directive 2006/112/CE du Conseil",
+        "description": "Les livraisons de biens et les prestations de services effectuées dans le cadre des relations diplomatiques et consulaires."
+    },
+    {
+        "code": "VATEX-EU-151-1AA",
+        "label": "Exonération fondée sur l'article 151, paragraphe 1, point aa) de la directive 2006/112/CE du Conseil",
+        "description": "Les livraisons de biens et les prestations de services effectuées pour la Communauté européenne, la BCE, la BEI ou les organismes créés par les Communautés."
+    },
+    {
+        "code": "VATEX-EU-151-1B",
+        "label": "Exonération fondée sur l'article 151, paragraphe 1, point b) de la directive 2006/112/CE du Conseil",
+        "description": "Les livraisons de biens et les prestations de services effectuées pour les organismes internationaux reconnus par les autorités publiques de l'État membre d'accueil."
+    },
+    {
+        "code": "VATEX-EU-151-1C",
+        "label": "Exonération fondée sur l'article 151, paragraphe 1, point c) de la directive 2006/112/CE du Conseil",
+        "description": "Les livraisons de biens et prestations de services effectuées dans un État membre partie au Traité de l'Atlantique Nord pour les forces armées des autres États parties."
+    },
+    {
+        "code": "VATEX-EU-151-1D",
+        "label": "Exonération fondée sur l'article 151, paragraphe 1, point d) de la directive 2006/112/CE du Conseil",
+        "description": "Les livraisons de biens et prestations de services effectuées à destination d'un autre État membre pour les forces armées d'un État partie au Traité de l'Atlantique Nord."
+    },
+    {
+        "code": "VATEX-EU-151-1E",
+        "label": "Exonération fondée sur l'article 151, paragraphe 1, point e) de la directive 2006/112/CE du Conseil",
+        "description": "Les livraisons de biens et prestations de services effectuées pour les forces armées du Royaume-Uni stationnées à Chypre."
+    },
+    {
+        "code": "VATEX-EU-159",
+        "label": "Exonération fondée sur l'article 159 de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations pour les prestations de services liées aux livraisons de biens destinés à être placés sous régime d'entrepôt douanier ou fiscal."
+    },
+    {
+        "code": "VATEX-EU-309",
+        "label": "Exonération fondée sur l'article 309 de la directive 2006/112/CE du Conseil",
+        "description": "Prestations des agents de voyage effectuées en dehors de l'UE."
+    },
+    {
+        "code": "VATEX-EU-AE",
+        "label": "Autoliquidation",
+        "description": "Prend en charge la règle BR-AE-10 de la norme EN 16931-1 - À utiliser uniquement avec le code de catégorie de TVA AE."
+    },
+    {
+        "code": "VATEX-EU-D",
+        "label": "Acquisition intracommunautaire de moyens de transport d'occasion",
+        "description": "Moyens de transport d'occasion - Indication que la TVA a été payée selon les régimes transitoires pertinents - À utiliser uniquement avec le code de catégorie de TVA E."
+    },
+    {
+        "code": "VATEX-EU-F",
+        "label": "Acquisition intracommunautaire de biens d'occasion",
+        "description": "Biens d'occasion - Indication que le régime de la marge pour les biens d'occasion a été appliqué - À utiliser uniquement avec le code de catégorie de TVA E."
+    },
+    {
+        "code": "VATEX-EU-G",
+        "label": "Exportation hors de l'UE",
+        "description": "Prend en charge la règle BR-G-10 de la norme EN 16931-1 - À utiliser uniquement avec le code de catégorie de TVA G."
+    },
+    {
+        "code": "VATEX-EU-I",
+        "label": "Acquisition intracommunautaire d'objets d'art",
+        "description": "Objets d'art - Indication que le régime de la marge pour les objets d'art a été appliqué - À utiliser uniquement avec le code de catégorie de TVA E."
+    },
+    {
+        "code": "VATEX-EU-IC",
+        "label": "Livraison intracommunautaire",
+        "description": "Prend en charge la règle BR-IC-10 de la norme EN 16931-1 - À utiliser uniquement avec le code de catégorie de TVA K."
+    },
+    {
+        "code": "VATEX-EU-O",
+        "label": "Non soumis à la TVA",
+        "description": "Prend en charge la règle BR-O-10 de la norme EN 16931-1 - À utiliser uniquement avec le code de catégorie de TVA O."
+    },
+    {
+        "code": "VATEX-EU-J",
+        "label": "Acquisition intracommunautaire d'objets de collection et d'antiquités",
+        "description": "Objets de collection et d'antiquités - Indication que le régime de la marge a été appliqué - À utiliser uniquement avec le code de catégorie de TVA E."
+    },
+    {
+        "code": "VATEX-FR-FRANCHISE",
+        "label": "Franchise en base de TVA (France)",
+        "description": "Pour la facturation domestique en France (Article 293 B du CGI)."
+    },
+    {
+        "code": "VATEX-FR-CNWVAT",
+        "label": "Avoir domestique sans TVA (France), suite à renonciation du fournisseur à la TVA pour escompte",
+        "description": "Pour les avoirs domestiques en France uniquement."
+    },
+    {
+        "code": "VATEX-EU-153",
+        "label": "Exonération fondée sur l'article 153 de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations pour les prestations de services des intermédiaires qui interviennent dans des opérations d'exportation ou de transport international."
+    },
+    {
+        "code": "VATEX-FR-CGI261-1",
+        "label": "Exonération fondée sur l'article 261, 1 du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux activités des organismes sans but lucratif à caractère social ou philanthropique."
+    },
+    {
+        "code": "VATEX-FR-CGI261-2",
+        "label": "Exonération fondée sur l'article 261, 2 du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux opérations de coopération intercommunale."
+    },
+    {
+        "code": "VATEX-FR-CGI261-3",
+        "label": "Exonération fondée sur l'article 261, 3 du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux activités de soins et de santé."
+    },
+    {
+        "code": "VATEX-FR-CGI261-4",
+        "label": "Exonération fondée sur l'article 261, 4 du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées à l'enseignement et à la formation."
+    },
+    {
+        "code": "VATEX-FR-CGI261-5",
+        "label": "Exonération fondée sur l'article 261, 5 du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux activités culturelles ou sportives."
+    },
+    {
+        "code": "VATEX-FR-CGI261-7",
+        "label": "Exonération fondée sur l'article 261, 7 du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux services rendus à leurs membres par des groupements de personnes."
+    },
+    {
+        "code": "VATEX-FR-CGI261-8",
+        "label": "Exonération fondée sur l'article 261, 8 du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées à certains services fournis par les collectivités territoriales."
+    },
+    {
+        "code": "VATEX-FR-CGI261A",
+        "label": "Exonération fondée sur l'article 261 A du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux prestations de services entre les membres d'un groupement indépendant."
+    },
+    {
+        "code": "VATEX-FR-CGI261B",
+        "label": "Exonération fondée sur l'article 261 B du Code Général des Impôts (CGI)",
+        "description": "Exonérations des services rendus à leurs membres par certains groupements."
+    },
+    {
+        "code": "VATEX-FR-CGI261C-1",
+        "label": "Exonération fondée sur l'article 261 C, 1° du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux opérations bancaires et financières."
+    },
+    {
+        "code": "VATEX-FR-CGI261C-2",
+        "label": "Exonération fondée sur l'article 261 C, 2° du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux opérations de change et de numéraire."
+    },
+    {
+        "code": "VATEX-FR-CGI261C-3",
+        "label": "Exonération fondée sur l'article 261 C, 3° du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux opérations sur titres."
+    },
+    {
+        "code": "VATEX-FR-CGI261D-1",
+        "label": "Exonération fondée sur l'article 261 D, 1° du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux locations de terres agricoles."
+    },
+    {
+        "code": "VATEX-FR-CGI261D-1BIS",
+        "label": "Exonération fondée sur l'article 261 D, 1° bis du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux locations de bâtiments agricoles."
+    },
+    {
+        "code": "VATEX-FR-CGI261D-2",
+        "label": "Exonération fondée sur l'article 261 D, 2° du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux locations de locaux nus."
+    },
+    {
+        "code": "VATEX-FR-CGI261D-3",
+        "label": "Exonération fondée sur l'article 261 D, 3° du Code Général des Impôts (CGI)",
+        "description": "Exonération de TVA - Article 261 D-3° du Code Général des Impôts (Locations meublées)."
+    },
+    {
+        "code": "VATEX-FR-CGI261D-4",
+        "label": "Exonération fondée sur l'article 261 D, 4° du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux prestations de logement social."
+    },
+    {
+        "code": "VATEX-FR-CGI261E-1",
+        "label": "Exonération fondée sur l'article 261 E, 1° du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées à l'organisation de jeux de hasard ou d'argent."
+    },
+    {
+        "code": "VATEX-FR-CGI261E-2",
+        "label": "Exonération fondée sur l'article 261 E, 2° du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées à la presse et aux publications."
+    },
+    {
+        "code": "VATEX-FR-CGI277A",
+        "label": "Exonération fondée sur l'article 277 A du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux biens placés sous régime de suspension de taxe (entrepôts fiscaux)."
+    },
+    {
+        "code": "VATEX-FR-CGI275",
+        "label": "Exonération fondée sur l'article 275 du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées aux achats en franchise de taxe pour les entreprises exportatrices."
+    },
+    {
+        "code": "VATEX-FR-298SEXDECIESA",
+        "label": "Exonération fondée sur l'article 298 sexdecies A du Code Général des Impôts (CGI)",
+        "description": "Exonérations liées à certaines opérations de raffinage ou de distribution de produits pétroliers."
+    },
+    {
+        "code": "VATEX-FR-CGI295",
+        "label": "Exonération fondée sur l'article 295 du Code Général des Impôts (CGI)",
+        "description": "Exonérations applicables dans les départements d'outre-mer."
+    },
+    {
+        "code": "VATEX-FR-AE",
+        "label": "Exonération fondée sur l'article 283, 2 du Code Général des Impôts (CGI)",
+        "description": "Autoliquidation de la TVA pour les prestations de services fournies par un assujetti établi hors de France."
+    },
+    {
+        "code": "VATEX-EU-135-1",
+        "label": "Exonération fondée sur l'article 135, paragraphe 1 de la directive 2006/112/CE du Conseil",
+        "description": "Exonérations liées aux opérations d'assurance, de crédit, de dépôt de fonds et d'autres opérations financières ou immobilières."
+    }
+]

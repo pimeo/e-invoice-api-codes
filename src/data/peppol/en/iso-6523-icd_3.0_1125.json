@@ -1,0 +1,1202 @@
+[
+    {
+        "code": "0002",
+        "type": "System Information et Repertoire des Entreprise et des Etablissements: SIRENE",
+        "description": "Notes on Use of Code: The Sirene number is used in France mainly for the official registration in the Trade Register and as the only number used between authorities and organizations, and between authorities when dealing with data interchange on organizations. Issuing agency: Institut National de la Statistique et des Etudes Economiques, (I.N.S.E.E.), France."
+    },
+    {
+        "code": "0003",
+        "type": "Codification Numerique des Etablissments Financiers En Belgique",
+        "description": "Notes on Use of Code: Many financial institutions have more than one code number, e.g. to indicate each branch individually. The codes can be reallocated over the time (mostly in the case where a financial institution terminates its activity). Some code numbers are currently unused. Code numbers 990 through 999 are reserved. Issuing agency: Association Belge des Banques, Belgium."
+    },
+    {
+        "code": "0004",
+        "type": "NBS/OSI NETWORK",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing and naming tree as depicted in Addendum 2 to ISO 8348. Issuing agency: National Bureau of Standards, USA."
+    },
+    {
+        "code": "0005",
+        "type": "USA FED GOV OSI NETWORK",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing and naming tree as depicted in Addendum 2 to ISO 8348. Issuing agency: National Bureau of Standards, USA."
+    },
+    {
+        "code": "0006",
+        "type": "USA DOD OSI NETWORK",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing and naming tree as depicted in Addendum 2 to ISO 8348. Issuing agency: Defense Communication Agency, USA."
+    },
+    {
+        "code": "0007",
+        "type": "Organisationsnummer",
+        "description": "Notes on Use of Code: The third digit in the organisation number is never lower than 2 in order to avoid it being confused with personal numbers. Issuing agency: The National Tax Board, SWEDEN."
+    },
+    {
+        "code": "0008",
+        "type": "LE NUMERO NATIONAL",
+        "description": "Issuing agency: Ministere De L'interieur et de la Fonction Publique, Belgium."
+    },
+    {
+        "code": "0009",
+        "type": "SIRET-CODE",
+        "description": "Issuing agency: DU PONT DE NEMOURS (FRANCE) S.A. France."
+    },
+    {
+        "code": "0010",
+        "type": "Organizational Identifiers for Structured Names under ISO 9541 Part 2",
+        "description": "Notes on Use of Code: The organizational codes established under this coding systems constitute the registered organizational identifiers recognised under ISO 9541-2. Issuing agency: Association for Font Information Interchange, USA."
+    },
+    {
+        "code": "0011",
+        "type": "International Code Designator for the Identification of OSI-based, Amateur Radio Organizations, Network Objects and Application Services.",
+        "description": "Notes on Use of Code: Specific object and attribute naming conventions are currently being defined. Issuing agency: The Radio Amateur Telecommunications Society, USA."
+    },
+    {
+        "code": "0012",
+        "type": "European Computer Manufacturers Association: ECMA",
+        "description": "Issuing agency: European Computer Manufacturers Association, SWITZERLAND."
+    },
+    {
+        "code": "0013",
+        "type": "VSA FTP CODE (FTP = File Transfer Protocol)",
+        "description": "Notes on Use of Code: The code serves the addressing between the communicating partners. Issuing agency: Verband der Automobilindustrie e.V., GERMANY."
+    },
+    {
+        "code": "0014",
+        "type": "NIST/OSI Implememts' Workshop",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the Workshop naming and addressing tree. Issuing agency: United States Department of Commerce, National Institute of Standards and Technology, Gaithersburg, USA."
+    },
+    {
+        "code": "0015",
+        "type": "Electronic Data Interchange: EDI",
+        "description": "Issuing agency: Avon Rubber p.l.c. UK."
+    },
+    {
+        "code": "0016",
+        "type": "EWOS Object Identifiers",
+        "description": "Notes on Use of Code: a) In the SIO the Organization Name will normally be omitted, b) The code is primarily intended for the registration of Objects Identifiers according to ISO 8824. Issuing agency: EWOS (European Workshop for Open Systems), BELGIUM."
+    },
+    {
+        "code": "0017",
+        "type": "COMMON LANGUAGE",
+        "description": "Notes on Use of Code: Codes for named populated places, geographic places, geopolitical places, and identification of organizations, places, equipment and governmental entities by the telecommunication industry. Issuing agency: Data Communications Technology Planning, USA."
+    },
+    {
+        "code": "0018",
+        "type": "SNA/OSI Network",
+        "description": "Notes on Use of Code: The ICD code will also form the initial part of the OSI Network addressing and naming tree as depicted in Addendum 2 to ISO 8348. Issuing agency: International Business Machines Corporation, USA."
+    },
+    {
+        "code": "0019",
+        "type": "Air Transport Industry Services Communications Network",
+        "description": "The ICD code forms the initial part of the OSI network addressing and naming tree as depicted in Addendum 2 to ISO 8348. Issuing agency: International Air Transport Association, Switzerland."
+    },
+    {
+        "code": "0020",
+        "type": "European Laboratory for Particle Physics: CERN",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing and naming tree as depicted in Addendum 2 of ISO 8348. Issuing agency: European Laboratory for Particle Physics, Switzerland."
+    },
+    {
+        "code": "0021",
+        "type": "SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL, TELECOMMUNICATION S.W.I.F.T.",
+        "description": "Notes on Use of Code: To be used for assignment of object identifiers (ISO 8824/8825). Issuing agency: SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL, TELECOMMUNICATION S.W.I.F.T. BELGIUM."
+    },
+    {
+        "code": "0022",
+        "type": "OSF Distributed Computing Object Identification",
+        "description": "Notes on Use of Code: OSF provides public domain software in OS, ISO networking and management. Identifying attributes of entries in the distributed directory, interfaces, etc. Issuing agency: Open Software Foundation, USA."
+    },
+    {
+        "code": "0023",
+        "type": "Nordic University and Research Network: NORDUnet",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing and tree as depicted in Addendum 2 of ISO 8348. Issuing agency: NORDUnet, c/o SICS, Sweden."
+    },
+    {
+        "code": "0024",
+        "type": "Digital Equipment Corporation: DEC",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing as described in ISO8348 Addendum 2. Issuing agency: Digital Equipment (Europe) S.A.R.L. France."
+    },
+    {
+        "code": "0025",
+        "type": "OSI ASIA-OCEANIA WORKSHOP",
+        "description": "Notes on Use of Code: The code is used as an element of object identifiers which need to be assigned relating the ISPs (International Standardized Profiles) that AOW is working on. Issuing agency: OSI ASIA-OCEANIA WORKSHOP, JAPAN."
+    },
+    {
+        "code": "0026",
+        "type": "NATO ISO 6523 ICDE coding scheme",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing and naming tree depicted in Addendum 2 of ISO 8348. Issuing agency: North Atlantic Treaty Organisation (NATO), Belgium."
+    },
+    {
+        "code": "0027",
+        "type": "Aeronautical Telecommunications Network (ATN)",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the ISO network addressing and naming tree as depicted in Addendum No 2 to ISO 8348. Issuing agency: International Civil Aviation Organization (ICAO), CANADA."
+    },
+    {
+        "code": "0028",
+        "type": "International Standard ISO 6523",
+        "description": "Issuing agency: Styria Federn GmbH, AUSTRIA."
+    },
+    {
+        "code": "0029",
+        "type": "The All-Union Classifier of Enterprises and Organisations",
+        "description": "Issuing agency: General Computing Centre of the State, Committee of the USSR on Statistics, U S S R."
+    },
+    {
+        "code": "0030",
+        "type": "AT&T/OSI Network",
+        "description": "Notes on Use of Code: The ICD code will also form the Initial Domain Part of the OSI network, addressing and naming tree as specified in Addendum 2 to ISO 8348. Issuing agency: AT&T, USA."
+    },
+    {
+        "code": "0031",
+        "type": "EDI Partner Identification Code",
+        "description": "Notes on Use of Code: To identify EDI partners. Issuing agency: Odette NL, The Netherlands."
+    },
+    {
+        "code": "0032",
+        "type": "Telecom Australia",
+        "description": "Notes on Use of Code: The code is used as an element of Object Identifier when defining objects within Telecom Australia. Issuing agency: Australia Telecommunications Corporation, AUSTRALIA."
+    },
+    {
+        "code": "0033",
+        "type": "S G W OSI Internetwork",
+        "description": "Notes on Use of Code: Exclusive use by S G W. Issuing agency: S G Warburg Group Management Ltd, UK."
+    },
+    {
+        "code": "0034",
+        "type": "Reuter Open Address Standard",
+        "description": "Notes on Use of Code: To be used in the formation of OSI Network Service Access Point (NSAP) addresses. Issuing agency: Reuters Ltd, UK."
+    },
+    {
+        "code": "0035",
+        "type": "ISO 6523 - ICD",
+        "description": "Notes on Use of Code: This code will be used internationally by BP thus a non-geographic code is requested. Issuing agency: The British Petroleum Co Plc, UK."
+    },
+    {
+        "code": "0036",
+        "type": "TeleTrust Object Identifiers",
+        "description": "Notes on Use of Code: a) In the SIO the Organization name will normally be omitted. b) The code is primarily intended for the registration of Object Identifiers for security related objects. Issuing agency: TeleTrust Deutschland e.V., GERMANY."
+    },
+    {
+        "code": "0037",
+        "type": "LY-tunnus",
+        "description": "Notes on Use of Code: It is possible to add 0-4 characters set to the code for more detailed use of one organization. Issuing agency: National Board of Taxes, FINLAND."
+    },
+    {
+        "code": "0038",
+        "type": "The Australian GOSIP Network",
+        "description": "Notes on Use of Code: As noted above it will be used as the initial identifier of an NSAP coding scheme. Issuing agency: Standards Australia."
+    },
+    {
+        "code": "0039",
+        "type": "The OZ DOD OSI Network",
+        "description": "The ICD code forms the initial part of the OSI naming and addressing tree. Format described in Australian GOSIP Manuals. Issuing agency: The Australian Department of Defence, AUSTRALIA."
+    },
+    {
+        "code": "0040",
+        "type": "Unilever Group Companies",
+        "description": "Notes on Use of Code: To be used in data communications to form part of the Network Address as defined in ISO 8348. Issuing agency: Information Technology Group, Unilever Plc, UK."
+    },
+    {
+        "code": "0041",
+        "type": "Citicorp Global Information Network",
+        "description": "Notes on Use of Code: The ICD code will also form the initial part of the Citicorp Network addressing object identifier tree and naming tree. Issuing agency: Citicorp Global Information Network, USA."
+    },
+    {
+        "code": "0042",
+        "type": "DBP Telekom Object Identifiers",
+        "description": "Notes on Use of Code: The ICD is primarily intended for the registration of Object Identifiers according to ISO 8824/8825. Issuing agency: DBP Telekom, GERMANY."
+    },
+    {
+        "code": "0043",
+        "type": "HydroNETT",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing as depicted in ISO 8348/AD2. Issuing agency: Norsk Hydro a.s., Norway."
+    },
+    {
+        "code": "0044",
+        "type": "Thai Industrial Standards Institute (TISI)",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of international addressing for Thailand. Issuing agency: Thai Industrial Standards Institute (TISI), THAILAND."
+    },
+    {
+        "code": "0045",
+        "type": "ICI Company Identification System",
+        "description": "Notes on Use of Code: The ICD code will be used to manage NSAP allocation for all ICI companies on a worldwide basis. Issuing agency: ICI PLC, UK."
+    },
+    {
+        "code": "0046",
+        "type": "FUNLOC",
+        "description": "Notes on Use of Code: Current applications are Philips accounting and logistic systems; identification of objects in open network environments. Issuing agency: Royal Philips Electronics N.V., The Netherlands."
+    },
+    {
+        "code": "0047",
+        "type": "BULL ODI/DSA/UNIX Network",
+        "description": "Notes on Use of Code: To be used in data communications to form part of the network address. Issuing agency: BULL S.A. FRANCE."
+    },
+    {
+        "code": "0048",
+        "type": "OSINZ",
+        "description": "Notes on Use of Code: ISO 6523 ICD IDI format with binary syntax will be used. Issuing agency: OSINZ, New Zealand."
+    },
+    {
+        "code": "0049",
+        "type": "Auckland Area Health",
+        "description": "Notes on Use of Code: ISO 6523 ICD IDI format with binary syntax will be used. Issuing agency: Auckland Area Health Board, New Zealand."
+    },
+    {
+        "code": "0050",
+        "type": "Firmenich",
+        "description": "Notes on Use of Code: Interconnect the plants by an OSI network essentially over X.25 carrier. Issuing agency: Firmenich S A, Switzerland."
+    },
+    {
+        "code": "0051",
+        "type": "AGFA-DIS",
+        "description": "Notes on Use of Code: Medical Communication. Issuing agency: AGFA N.V. BELGIUM."
+    },
+    {
+        "code": "0052",
+        "type": "Society of Motion Picture and Television Engineers (SMPTE)",
+        "description": "Notes on Use of Code: The ICD code will also be used to identify SMPTE constituent organizations and objects they define. Issuing agency: SMPTE, USA."
+    },
+    {
+        "code": "0053",
+        "type": "Migros_Network M_NETOPZ",
+        "description": "Issuing agency: Migros-Genossenschafts-Bund, Switzerland."
+    },
+    {
+        "code": "0054",
+        "type": "ISO6523 - ICDPCR",
+        "description": "Notes on Use of Code: This code could be used internationally by Pfizer thus a non-geographic code is required. Issuing agency: Pfizer Central Research, UK."
+    },
+    {
+        "code": "0055",
+        "type": "Energy Net",
+        "description": "Issuing agency: ABB Asea Brown Boveri Ltd, Switzerland."
+    },
+    {
+        "code": "0056",
+        "type": "Nokia Object Identifiers (NOI)",
+        "description": "Notes on Use of Code: Primarily intended for the registration of Object Identifiers according to ISO/IEC 8824. Issuing agency: Nokia Corporation, FINLAND."
+    },
+    {
+        "code": "0057",
+        "type": "Saint Gobain",
+        "description": "Notes on Use of Code: To be used for assignment of: N.E.T, A.E.T, and object identification. Issuing agency: Saint Gobain, France."
+    },
+    {
+        "code": "0058",
+        "type": "Siemens Corporate Network",
+        "description": "Notes on Use of Code: The ICD code will form the initial part of the OSI Network addressing and naming tree. Issuing agency: Siemens AG, Germany."
+    },
+    {
+        "code": "0059",
+        "type": "DANZNET",
+        "description": "Issuing agency: DANZAS AG, Switzerland."
+    },
+    {
+        "code": "0060",
+        "type": "Data Universal Numbering System (D-U-N-S Number)",
+        "description": "Notes on Use of Code: Facilitate the compilation of financial status reports; world wide recognition for identifying businesses. Issuing agency: Dun and Bradstreet Ltd, UK."
+    },
+    {
+        "code": "0061",
+        "type": "SOFFEX OSI",
+        "description": "Notes on Use of Code: Uniquely identifying data network node addresses in an international network for financial applications. Issuing agency: SOFFEX, Switzerland."
+    },
+    {
+        "code": "0062",
+        "type": "KPN OVN",
+        "description": "Notes on Use of Code: This code is used in the VTOA network of KPN OVN. Issuing agency: Koninklijke KPN, The Netherlands."
+    },
+    {
+        "code": "0063",
+        "type": "ascomOSINet",
+        "description": "Issuing agency: Ascom AG, Switzerland."
+    },
+    {
+        "code": "0064",
+        "type": "UTC: Uniforme Transport Code",
+        "description": "Notes on Use of Code: The code identifies an individual transport or handling unit (e.g. pallet, parcel) for tracing. Issuing agency: Foundation UTC, The Netherlands."
+    },
+    {
+        "code": "0065",
+        "type": "SOLVAY OSI CODING",
+        "description": "Notes on Use of Code: ISO 8348 addresses using this code will comply with FIPS PUB 146. Issuing agency: Direction Centrale Technique, Belgium."
+    },
+    {
+        "code": "0066",
+        "type": "Roche Corporate Network",
+        "description": "Notes on Use of Code: Will be used internationaly by Roche thus a non-geographic code is required. Issuing agency: F. HOFFMANN - LA ROCHE AG, Switzerland."
+    },
+    {
+        "code": "0067",
+        "type": "ZellwegerOSINet",
+        "description": "Notes on Use of Code: BAKOM - Switzerland. Issuing agency: Zellweger Uster AG, Switzerland."
+    },
+    {
+        "code": "0068",
+        "type": "Intel Corporation OSI",
+        "description": "Notes on Use of Code: The ICD code will be used to form the Initial Domain Identifier (IDI) portion of the Initial Domain Part (IDP). Issuing agency: Intel Corporation, USA."
+    },
+    {
+        "code": "0069",
+        "type": "SITA Object Identifier Tree",
+        "description": "Notes on Use of Code: SITA intends to use its OID Tree to define its own Objects for use with its OSI-based services. Issuing agency: SITA, France."
+    },
+    {
+        "code": "0070",
+        "type": "DaimlerChrysler Corporate Network",
+        "description": "Notes on Use of Code: The ICD code will form the initial part of the OSI Network addressing and naming tree. Issuing agency: DaimlerChrysler AG, GERMANY."
+    },
+    {
+        "code": "0071",
+        "type": "LEGO /OSI NETWORK",
+        "description": "Notes on Use of Code: The ICD code will also form the Initial Domain Part of the OSI network addressing and naming tree. Issuing agency: LEGO Systems Inc, USA."
+    },
+    {
+        "code": "0072",
+        "type": "NAVISTAR/OSI Network",
+        "description": "Notes on Use of Code: The ICD code will also form the Initial Domain Part of the OSI Network addressing and naming tree. Issuing agency: International Truck & Engine Corp, USA."
+    },
+    {
+        "code": "0073",
+        "type": "ICD Formatted ATM address",
+        "description": "Notes on Use of Code: Used as an ATM address prefix by Newbridge ATM terminal and switching equipment. Issuing agency: Newbridge Networks Corporation, CANADA."
+    },
+    {
+        "code": "0074",
+        "type": "ARINC",
+        "description": "Notes on Use of Code: ARINC will define its own Objects for use with its OSI-based systems and services for the Aeronautical industry. Issuing agency: ARINC Incorporated, USA."
+    },
+    {
+        "code": "0075",
+        "type": "Alcanet/Alcatel-Alsthom Corporate Network",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network addressing scheme. Issuing agency: Alcatel Network Services Deutschland GmbH, GERMANY."
+    },
+    {
+        "code": "0076",
+        "type": "Sistema Italiano di Identificazione di ogetti gestito da UNINFO",
+        "description": "Notes on Use of Code: To be used for assignments of object identifiers according to ISO 8824 and ISO 8825. Issuing agency: UNINFO, ITALY."
+    },
+    {
+        "code": "0077",
+        "type": "Sistema Italiano di Indirizzamento di Reti OSI Gestito da UNINFO",
+        "description": "Notes on Use of Code: The ICD code forms the initial part of the OSI network Addressing and naming tree. Issuing agency: UNINFO, ITALY."
+    },
+    {
+        "code": "0078",
+        "type": "Mitel terminal or switching equipment",
+        "description": "Notes on Use of Code: The ICD code will form the initial part of the naming tree for PISN manufacturer-specific information. Issuing agency: Mitel Corporation, Canada."
+    },
+    {
+        "code": "0079",
+        "type": "ATM Forum",
+        "description": "Notes on Use of Code: The ICD code will also form part of the Initial Domain Part of the OSI network addressing. Issuing agency: The ATM Forum, USA."
+    },
+    {
+        "code": "0080",
+        "type": "UK National Health Service Scheme, (EDIRA compliant)",
+        "description": "Notes on Use of Code: EDIRA recommendations for coding in EDIFACT and other EDI systems. Issuing agency: National Health Service, UK."
+    },
+    {
+        "code": "0081",
+        "type": "International NSAP",
+        "description": "Issuing agency: Federal Office for Communications, Switzerland."
+    },
+    {
+        "code": "0082",
+        "type": "Norwegian Telecommunications Authority's EDI identifier scheme",
+        "description": "Notes on Use of Code: For use in EDIFACT messages in accordance with current national recommendation. (EDIRA compliant). Issuing agency: Norwegian Telecommunications Authority, NORWAY."
+    },
+    {
+        "code": "0083",
+        "type": "Advanced Telecommunications Modules Limited, Corporate Network",
+        "description": "Notes on Use of Code: The ICD code will also form part of the Initial Domain Part of the OSI network addressing. Issuing agency: ATM Ltd, ENGLAND."
+    },
+    {
+        "code": "0084",
+        "type": "Athens Chamber of Commerce & Industry Scheme (EDIRA compliant)",
+        "description": "Notes on Use of Code: EDIRA recommendations for coding in EDIFACT and other EDI syntaxes. Issuing agency: Athens Chamber of Commerce & Industry, Greece."
+    },
+    {
+        "code": "0085",
+        "type": "Swiss Chambers of Commerce Scheme (EDIRA compliant)",
+        "description": "Intended Purpose/App. Area: Numerical identifiers of organizations. Issuing agency: Zurich Chamber of Commerce, Switzerland."
+    },
+    {
+        "code": "0086",
+        "type": "United States Council for International Business (USCIB) Scheme",
+        "description": "EDIRA recommendations for coding in EDIFACT and other EDI syntaxes. Issuing agency: USCIB, USA."
+    },
+    {
+        "code": "0087",
+        "type": "National Federation of Chambers of Commerce & Industry of Belgium",
+        "description": "Issuing agency: National Federation of Chambers of Commerce & Industry of Belgium, Belgium."
+    },
+    {
+        "code": "0088",
+        "type": "EAN Location Code",
+        "description": "Issuing agency: EAN International, Belgium."
+    },
+    {
+        "code": "0089",
+        "type": "The Association of British Chambers of Commerce Ltd. Scheme",
+        "description": "Issuing agency: The Association of British Chambers of Commerce Ltd., UK."
+    },
+    {
+        "code": "0090",
+        "type": "Internet IP addressing - ISO 6523 ICD encoding",
+        "description": "Issuing agency: Internet Assigned Numbers Authority, USA."
+    },
+    {
+        "code": "0091",
+        "type": "Cisco Sysytems / OSI Network",
+        "description": "Issuing agency: Cisco Systems, USA."
+    },
+    {
+        "code": "0093",
+        "type": "Revenue Canada Business Number Registration (EDIRA compliant)",
+        "description": "Issuing agency: Revenue Canada, CANADA."
+    },
+    {
+        "code": "0094",
+        "type": "DEUTSCHER INDUSTRIE- UND HANDELSTAG (DIHT) Scheme",
+        "description": "Issuing agency: Deutscher Industrie -und Handelstag (DIHT), Germany."
+    },
+    {
+        "code": "0095",
+        "type": "Hewlett - Packard Company Internal AM Network",
+        "description": "Issuing agency: Hewlett - Packard Company, USA."
+    },
+    {
+        "code": "0096",
+        "type": "DANISH CHAMBER OF COMMERCE Scheme (EDIRA compliant)",
+        "description": "Issuing agency: Danish Chamber of Commerce, Denmark."
+    },
+    {
+        "code": "0097",
+        "type": "FTI - Ediforum Italia, (EDIRA compliant)",
+        "description": "Issuing agency: FTI - Ediforum Italia, ITALY."
+    },
+    {
+        "code": "0098",
+        "type": "CHAMBER OF COMMERCE TEL AVIV-JAFFA Scheme (EDIRA compliant)",
+        "description": "Issuing agency: Chamber of Commerce Tel Aviv-Jaffa, ISRAEL."
+    },
+    {
+        "code": "0099",
+        "type": "Siemens Supervisory Systems Network",
+        "description": "Issuing agency: Siemens AG, Germany."
+    },
+    {
+        "code": "0100",
+        "type": "PNG_ICD Scheme",
+        "description": "Issuing agency: GPT Limited, UK."
+    },
+    {
+        "code": "0101",
+        "type": "South African Code Allocation",
+        "description": "Issuing agency: Thawte Consulting, South Africa."
+    },
+    {
+        "code": "0102",
+        "type": "HEAG",
+        "description": "Issuing agency: Hessische Elektrizitats-AG, Germany."
+    },
+    {
+        "code": "0104",
+        "type": "BT - ICD Coding System",
+        "description": "Issuing agency: Tony Holmes, UK."
+    },
+    {
+        "code": "0105",
+        "type": "Portuguese Chamber of Commerce and Industry Scheme",
+        "description": "Issuing agency: Portuguese Chamber of Commerce and Industry, Portugal."
+    },
+    {
+        "code": "0106",
+        "type": "Vereniging van Kamers van Koophandel en Fabrieken in Nederland",
+        "description": "Issuing agency: Vereniging van Kamers van Koophandel en Fabrieken in Nederland, The Netherlands."
+    },
+    {
+        "code": "0107",
+        "type": "Association of Swedish Chambers of Commerce and Industry Scheme",
+        "description": "Issuing agency: Association of Swedish Chambers of Commerce and Industry, Sweden."
+    },
+    {
+        "code": "0108",
+        "type": "Australian Chambers of Commerce and Industry Scheme",
+        "description": "Issuing agency: Australian Chambers of Commerce and Industry, Australia."
+    },
+    {
+        "code": "0109",
+        "type": "BellSouth ICD AESA (ATM End System Address)",
+        "description": "Issuing agency: BellSouth Corporation, USA."
+    },
+    {
+        "code": "0110",
+        "type": "Bell Atlantic",
+        "description": "Issuing agency: Bell Atlantic, USA."
+    },
+    {
+        "code": "0111",
+        "type": "Object Identifiers",
+        "description": "Issuing agency: Institute of Electrical and Electronics Engineers, USA."
+    },
+    {
+        "code": "0112",
+        "type": "ISO register for Standards producing Organizations",
+        "description": "Issuing agency: International Organization for Standardization (ISO), SWITZERLAND."
+    },
+    {
+        "code": "0113",
+        "type": "OriginNet",
+        "description": "Issuing agency: Origin BV, The Netherlands."
+    },
+    {
+        "code": "0114",
+        "type": "Check Point Software Technologies",
+        "description": "Issuing agency: Check Point Software Technologies Ltd, ISRAEL."
+    },
+    {
+        "code": "0115",
+        "type": "Pacific Bell Data Communications Network",
+        "description": "Issuing agency: Pacific Bell, USA."
+    },
+    {
+        "code": "0116",
+        "type": "PSS Object Identifiers",
+        "description": "Issuing agency: PSS (Postal Security Services), FINLAND."
+    },
+    {
+        "code": "0117",
+        "type": "STENTOR-ICD CODING SYSTEM",
+        "description": "Issuing agency: Stentor Resource Centre Inc., Canada."
+    },
+    {
+        "code": "0118",
+        "type": "ATM-Network ZN'96",
+        "description": "Issuing agency: Deutsche Telekom AG, Germany."
+    },
+    {
+        "code": "0119",
+        "type": "MCI / OSI Network",
+        "description": "Issuing agency: MCI Telecommunications Corporation, USA."
+    },
+    {
+        "code": "0120",
+        "type": "Advantis",
+        "description": "Issuing agency: Advantis, USA."
+    },
+    {
+        "code": "0121",
+        "type": "Affable Software Data Interchange Codes",
+        "description": "Issuing agency: Affable Software Corporation, Canada."
+    },
+    {
+        "code": "0122",
+        "type": "BB-DATA GmbH",
+        "description": "Issuing agency: BB-DATA GmbH, Germany."
+    },
+    {
+        "code": "0123",
+        "type": "BASF Company ATM-Network",
+        "description": "Issuing agency: BASF Computer Services GmbH, Germany."
+    },
+    {
+        "code": "0124",
+        "type": "IOTA Identifiers for Organizations for Telecommunications Addressing",
+        "description": "Issuing agency: DISC, British Standards Institution, UK."
+    },
+    {
+        "code": "0125",
+        "type": "Henkel Corporate Network (H-Net)",
+        "description": "Issuing agency: Henkel KgaA, Germany."
+    },
+    {
+        "code": "0126",
+        "type": "GTE/OSI Network",
+        "description": "Issuing agency: GTE, USA."
+    },
+    {
+        "code": "0127",
+        "type": "Dresdner Bank Corporate Network",
+        "description": "Issuing agency: Dresdner Bank AG, Germany."
+    },
+    {
+        "code": "0128",
+        "type": "BCNR (Swiss Clearing Bank Number)",
+        "description": "Issuing agency: Telekurs AG, Switzerland."
+    },
+    {
+        "code": "0129",
+        "type": "BPI (Swiss Business Partner Identification) code",
+        "description": "Issuing agency: Telekurs AG, Switzerland."
+    },
+    {
+        "code": "0130",
+        "type": "Directorates of the European Commission",
+        "description": "Issuing agency: European Commission, Belgium."
+    },
+    {
+        "code": "0131",
+        "type": "Code for the Identification of National Organizations",
+        "description": "Issuing agency: China National Organization Code Registration Authority, P.R. of China."
+    },
+    {
+        "code": "0132",
+        "type": "Certicom Object Identifiers",
+        "description": "Issuing agency: Certicom Corp, U.S.A."
+    },
+    {
+        "code": "0133",
+        "type": "TC68 OID",
+        "description": "Issuing agency: ISO TC68, Banking and Related Financial Services, USA."
+    },
+    {
+        "code": "0134",
+        "type": "Infonet Services Corporation",
+        "description": "Issuing agency: Infonet NV/SA, Belgium."
+    },
+    {
+        "code": "0135",
+        "type": "SIA Object Identifiers",
+        "description": "Issuing agency: SIA-Società Interbancaria per l'Automazione S.p.A., ITALIA."
+    },
+    {
+        "code": "0136",
+        "type": "Cable & Wireless Global ATM End-System Address Plan",
+        "description": "Issuing agency: Cable & Wireless Global Business Inc., USA."
+    },
+    {
+        "code": "0137",
+        "type": "Global AESA scheme",
+        "description": "Construct and Administer AESAs, Routing of ATM switched connections. Issuing agency: Global One, Belgium."
+    },
+    {
+        "code": "0138",
+        "type": "France Telecom ATM End System Address Plan",
+        "description": "Used to provide ATM End System Addresses based on ICD format NSAP addresses. Issuing agency: France Telecom, France."
+    },
+    {
+        "code": "0139",
+        "type": "Savvis Communications AESA",
+        "description": "Global Addressing of Savvis ATM Switches and implementation of PNNI. Issuing agency: Savvis Communications, USA."
+    },
+    {
+        "code": "0140",
+        "type": "Toshiba Organizations, Partners, And Suppliers' (TOPAS) Code",
+        "description": "Identify organizations world-wide that have business or technical transactions with Toshiba Corporation. Issuing agency: Toshiba Corporation, Japan."
+    },
+    {
+        "code": "0141",
+        "type": "NATO Commercial and Government Entity system",
+        "description": "Identify all Commercial and Governmental entities that provide material and/or services to NATO forces. Issuing agency: NATO Group AC/135, Luxembourg."
+    },
+    {
+        "code": "0142",
+        "type": "SECETI Object Identifiers",
+        "description": "Registration of object identifiers according to ISO 8824 and ISO 8825. Issuing agency: Servizi Centralizzati SECETI S.p.A., ITALY."
+    },
+    {
+        "code": "0143",
+        "type": "EINESTEINet AG",
+        "description": "Provide Application Services using an ATM network to customers located throughout Europe. Issuing agency: EINSTEINet AG, Germany."
+    },
+    {
+        "code": "0144",
+        "type": "DoDAAC (Department of Defense Activity Address Code)",
+        "description": "A code assigned to uniquely identify all military units in the US Department of Defense. Issuing agency: DoD, USA."
+    },
+    {
+        "code": "0145",
+        "type": "DGCP administrative accounting identification scheme",
+        "description": "Code assigned by the French public accounting office. Issuing agency: Direction Générale de la Comptabilité Publique, France."
+    },
+    {
+        "code": "0146",
+        "type": "DGI (Direction Générale des Impots) code",
+        "description": "French taxation authority. Issuing agency: DGI, France."
+    },
+    {
+        "code": "0147",
+        "type": "Standard Company Code",
+        "description": "Partner identification code registered with JIPDEC/ECPC. Issuing agency: JIPDEC, Japan."
+    },
+    {
+        "code": "0148",
+        "type": "ITU Data Network Identification Codes (DNIC)",
+        "description": "Data Network Identification Codes assigned by the ITU. Issuing agency: ITU, Switzerland."
+    },
+    {
+        "code": "0149",
+        "type": "Global Business Identifier",
+        "description": "Identify and designate in electronic commerce for accurate supplier information. Issuing agency: ResolveNet (IOM) Ltd, UK."
+    },
+    {
+        "code": "0150",
+        "type": "Madge Networks Ltd- ICD ATM Addressing Scheme",
+        "description": "ATM NSAP addressing scheme for PVC and SPVC connections. Issuing agency: Madge Networks, UK."
+    },
+    {
+        "code": "0151",
+        "type": "Australian Business Number (ABN) Scheme",
+        "description": "Unique identifier for a business to interact with Australian Government for tax purposes. Issuing agency: Australian Taxation Office, AUSTRALIA."
+    },
+    {
+        "code": "0152",
+        "type": "Edira Scheme Identifier Code",
+        "description": "Unambiguous identification of registration scheme used in e-commerce. Issuing agency: EDIRA Association, Switzerland."
+    },
+    {
+        "code": "0153",
+        "type": "Concert Global Network Services ICD AESA",
+        "description": "Global Addressing of Concert ATM switches for implementation of PNNI. Issuing agency: Concert Global Network Services Ltd, Bermuda."
+    },
+    {
+        "code": "0154",
+        "type": "Identification number of economic subjects: (ICO)",
+        "description": "Unique identification of economic subjects for all administrative purposes in Czech Republic. Issuing agency: Czech Statistical Office, Czech Republic."
+    },
+    {
+        "code": "0155",
+        "type": "Global Crossing AESA (ATM End System Address)",
+        "description": "Construction and implementation of scalable AESA schema for routing. Issuing agency: Global Crossing Ltd, Bermuda."
+    },
+    {
+        "code": "0156",
+        "type": "AUNA",
+        "description": "Telecommunication network of operators in the AUNA Group used for NSAP addressing. Issuing agency: AUNA, Spain."
+    },
+    {
+        "code": "0157",
+        "type": "ATM interconnection with the Dutch KPN Telecom",
+        "description": "ITO Drager Net initial part of the OSI network addressing scheme. Issuing agency: Informatie en Communicatie Technologie Organisatie, The Netherlands."
+    },
+    {
+        "code": "0158",
+        "type": "Identification number of economic subject (ICO)",
+        "description": "Unique identification of economic subjects for registration in Slovakia. Issuing agency: Slovak Statistical Office, Slovak Republic."
+    },
+    {
+        "code": "0159",
+        "type": "ACTALIS Object Identifiers",
+        "description": "Registration of Object Identifiers according to ISO 8824/8825. Issuing agency: ACTALIS S.p.A., ITALY."
+    },
+    {
+        "code": "0160",
+        "type": "GTIN - Global Trade Item Number",
+        "description": "Globally unique identifier of trade items (products or services) priced or ordered. Issuing agency: GS1 (formerly EAN International)."
+    },
+    {
+        "code": "0161",
+        "type": "ECCMA Open Technical Directory",
+        "description": "Centralized dictionary of names and definitions of trading concepts (goods and services). Issuing agency: ECCMA, USA."
+    },
+    {
+        "code": "0162",
+        "type": "CEN/ISSS Object Identifier Scheme",
+        "description": "Allocate OIDs to objects defined in standards developed in CEN’s technical bodies. Issuing agency: Comité Européen de Normalization, Belgium."
+    },
+    {
+        "code": "0163",
+        "type": "US-EPA Facility Identifier",
+        "description": "Unique identification of facilities regulated or monitored by the US EPA. Issuing agency: U.S. Environmental Protection Agency, USA."
+    },
+    {
+        "code": "0164",
+        "type": "TELUS Corporation",
+        "description": "SA Addressing Scheme for ATM PNNI Implementation. Issuing agency: TELUS Corporation, Canada."
+    },
+    {
+        "code": "0165",
+        "type": "FIEIE Object identifiers",
+        "description": "Identifiers for international enterprises in Forest industry, Energy, Infrastructure and Environment. Issuing agency: Jaakko Poyry Group Oyj, Finland."
+    },
+    {
+        "code": "0166",
+        "type": "Swissguide Identifier Scheme",
+        "description": "Uniquely identify objects, especially companies and professionals in databases. Issuing agency: Swissguide AG, Switzerland."
+    },
+    {
+        "code": "0167",
+        "type": "Priority Telecom ATM End System Address Plan",
+        "description": "ATM End System Address based on IDC format NSAP addresses for Priority Telecom. Issuing agency: Priority Telecom Netherlands, The Netherlands."
+    },
+    {
+        "code": "0168",
+        "type": "Vodafone Ireland OSI Addressing",
+        "description": "ATM network related addressing purposes for 3G rollout. Issuing agency: Vodafone Ireland Limited, Ireland."
+    },
+    {
+        "code": "0169",
+        "type": "Swiss Federal Business Identification Number",
+        "description": "Uniquely identify all companies registered in Swiss Register of Commerce. Issuing agency: Swiss Federal Office of Justice, Switzerland."
+    },
+    {
+        "code": "0170",
+        "type": "Teikoku Company Code",
+        "description": "Teikoku Company Code allocated to incorporations and business owners in Japan. Issuing agency: TEIKOKU DATABANK LTD., JAPAN."
+    },
+    {
+        "code": "0171",
+        "type": "Luxembourg CP & CPS Index",
+        "description": "Index of Certification Policies and Practice Statements issued by Luxembourg PKI. Issuing agency: Ministry of The Economy and Foreign Trade, Luxembourg."
+    },
+    {
+        "code": "0172",
+        "type": "Project Group “Lists of Properties” (PROLIST®)",
+        "description": "Uniquely identify properties and lists of properties for the process industry. Issuing agency: PROLIST, Germany."
+    },
+    {
+        "code": "0173",
+        "type": "eCI@ss",
+        "description": "Uniquely identify properties and classes for products and services in eCI@ss classification. Issuing agency: eCI@ss, Germany."
+    },
+    {
+        "code": "0174",
+        "type": "StepNexus",
+        "description": "Identifiers within StepNexus loader objects for X509 certificates. Issuing agency: StepNexus, UK."
+    },
+    {
+        "code": "0175",
+        "type": "Siemens AG",
+        "description": "Uniquely identify properties and lists used by Siemens AG - Power Generation. Issuing agency: Siemens AG, Germany."
+    },
+    {
+        "code": "0176",
+        "type": "Paradine GmbH",
+        "description": "Uniquely identify properties for products and services in Paradine Reference Dictionary. Issuing agency: Paradine GmbH, Austria."
+    },
+    {
+        "code": "0177",
+        "type": "Odette International Limited",
+        "description": "Identify business entities in European automotive industry for EDI exchanges. Issuing agency: Odette International Limited, UK."
+    },
+    {
+        "code": "0178",
+        "type": "Route1 MobiNET",
+        "description": "Rooting OIDs defined by Route1 Security Corporation for Route1 MobiNET. Issuing agency: Route1 Security Corporation, Canada."
+    },
+    {
+        "code": "0179",
+        "type": "Penango Object Identifiers",
+        "description": "Identify objects, policies, and data related to Penango’s products and services. Issuing agency: Penango, Inc., Canada."
+    },
+    {
+        "code": "0180",
+        "type": "Lithuanian military PKI",
+        "description": "Index of Certification Policies and Practice Statements issued by Lithuanian military PKI. Issuing agency: Ministry of National Defence, Lithuania."
+    },
+    {
+        "code": "0183",
+        "type": "Numéro d'identification suisse des enterprises (IDE)",
+        "description": "Uniquely identify all companies registered in Switzerland in all official registers. Issuing agency: Swiss Federal Statistical Office, Switzerland."
+    },
+    {
+        "code": "0184",
+        "type": "DIGSTORG",
+        "description": "Identifying Danish companies and associations in international trade. Issuing agency: The Danish Agency for Digitisation, Denmark."
+    },
+    {
+        "code": "0185",
+        "type": "Perceval Object Code",
+        "description": "Identify entities related to Perceval products and services using ASN.1. Issuing agency: Perceval SA, Belgium."
+    },
+    {
+        "code": "0186",
+        "type": "TrustPoint Object Identifiers",
+        "description": "Uniquely identify objects and mechanisms globally using TrustPoint security products. Issuing agency: TrustPoint Innovation Technologies, USA."
+    },
+    {
+        "code": "0187",
+        "type": "Amazon Unique Identification Scheme",
+        "description": "Identifiers for properties, classes, groups specified by Amazon.com. Issuing agency: Amazon Technologies, Inc., USA."
+    },
+    {
+        "code": "0188",
+        "type": "Corporate Number of The Social Security and Tax Number System",
+        "description": "Number system of Japan to improve efficiency and transparency of tax system. Issuing agency: National Tax Agency Japan."
+    },
+    {
+        "code": "0189",
+        "type": "European Business Identifier (EBID)",
+        "description": "For use in EDI or B2B exchanges to identify business entities. Issuing agency: EBID Service AG, Germany."
+    },
+    {
+        "code": "0190",
+        "type": "Organisatie Indentificatie Nummer (OIN)",
+        "description": "Dutch standard for identifying organizations in message exchange with the Dutch Government. Issuing agency: Logius, The Netherlands."
+    },
+    {
+        "code": "0191",
+        "type": "Company Code (Estonia)",
+        "description": "Major unique identifier of all institutions and organisations in Estonia. Issuing agency: Ministry of Justice, Estonia."
+    },
+    {
+        "code": "0192",
+        "type": "Organisasjonsnummer",
+        "description": "Identify entities registered in the Central Coordinating Register for Legal Entities in Norway. Issuing agency: The Brønnøysund Register Centre, Norway."
+    },
+    {
+        "code": "0193",
+        "type": "UBL.BE Party Identifier",
+        "description": "Identification and addressing of different parties involved in invoicing. Issuing agency: UBL.BE, Belgium."
+    },
+    {
+        "code": "0194",
+        "type": "KOIOS Open Technical Dictionary",
+        "description": "Collection of terminology from consensus bodies to describe organizations, goods and services. Issuing agency: KOIOS Master Data Limited, UK."
+    },
+    {
+        "code": "0195",
+        "type": "Singapore Nationwide E-lnvoice Framework",
+        "description": "Identification of organization in accordance to Singapore nationwide e-invoice framework. Issuing agency: Infocomm Media Development Authority, Singapore."
+    },
+    {
+        "code": "0196",
+        "type": "Icelandic identifier - Íslensk kennitala",
+        "description": "Identification of Icelandic individuals and legal entities. Issuing agency: Icelandic National Registry / Directorate of Internal Revenue, Iceland."
+    },
+    {
+        "code": "0197",
+        "type": "APPLiA PI Standard",
+        "description": "Standard structure for product information launched by APPLiA (Home Appliance Europe). Issuing agency: APPLiA, Belgium."
+    },
+    {
+        "code": "0198",
+        "type": "ERSTORG",
+        "description": "Identifying Danish companies based on VAT numbers. Issuing agency: The Danish Business Authority, Denmark."
+    },
+    {
+        "code": "0199",
+        "type": "Legal Entity Identifier (LEI)",
+        "description": "Global, open identifier established per ISO 17442 for legal entities participating in financial transactions. Issuing agency: GLEIF, Global."
+    },
+    {
+        "code": "0200",
+        "type": "Legal entity code (Lithuania)",
+        "description": "For use in EDI exchanges to identify legal entities. Issuing agency: State Enterprise Centre of Registers, Lithuania."
+    },
+    {
+        "code": "0201",
+        "type": "Codice Univoco Unità Organizzativa iPA",
+        "description": "Uniquely identify organizational units of public bodies and authorities in Italy. Issuing agency: Agenzia per l’Italia digitale, Italy."
+    },
+    {
+        "code": "0202",
+        "type": "Indirizzo di Posta Elettronica Certificata",
+        "description": "Identify senders and receivers of certified electronic mail in Italy. Issuing agency: Agenzia per l’Italia digitale, Italy."
+    },
+    {
+        "code": "0203",
+        "type": "eDelivery Network Participant identifier",
+        "description": "Electronic address identifier for participants within secure data networks. Issuing agency: Agency for Digital Government, Sweden."
+    },
+    {
+        "code": "0204",
+        "type": "Leitweg-ID",
+        "description": "Identification of Public Authorities in Germany. Issuing agency: KoSIT, Germany."
+    },
+    {
+        "code": "0205",
+        "type": "CODDEST",
+        "description": "Electronic Invoicing trough SdI Exchange System in Italy. Issuing agency: Agenzia delle Entrate, Italy."
+    },
+    {
+        "code": "0206",
+        "type": "Registre du Commerce et de l’Industrie : RCI",
+        "description": "Identifiers for organizations at national level in Monaco. Issuing agency: AMSN, Monaco."
+    },
+    {
+        "code": "0207",
+        "type": "PiLog Ontology Codification Identifier (POCI)",
+        "description": "Repository of concepts for products, services and business partners along with terminologies. Issuing agency: PiLog Group, South Africa."
+    },
+    {
+        "code": "0208",
+        "type": "Numero d'entreprise / ondernemingsnummer",
+        "description": "Identification number attributed by the Belgian register to identify entities. Issuing agency: Banque-Carrefour des Entreprises (BCE), Belgium."
+    },
+    {
+        "code": "0209",
+        "type": "GS1 identification keys",
+        "description": "Refer unambiguously to trade items, logistics units, or locations. Issuing agency: GS1, Global."
+    },
+    {
+        "code": "0210",
+        "type": "CODICE FISCALE",
+        "description": "Electronic Invoicing and e-procurement in Italy. Issuing agency: Agenzia delle Entrate, Italy."
+    },
+    {
+        "code": "0211",
+        "type": "PARTITA IVA",
+        "description": "Electronic Invoicing and e-procurement in Italy. Issuing agency: Agenzia delle Entrate, Italy."
+    },
+    {
+        "code": "0212",
+        "type": "Finnish Organization Identifier",
+        "description": "Electronic trade purposes in e-invoicing and purchasing. Issuing agency: State Treasury of Finland."
+    },
+    {
+        "code": "0213",
+        "type": "Finnish Organization Value Add Tax Identifier",
+        "description": "Electronic trade purposes in e-invoicing and purchasing. Issuing agency: State Treasury of Finland."
+    },
+    {
+        "code": "0214",
+        "type": "Tradeplace TradePI Standard",
+        "description": "Enhanced standard structure for product information helping retailers. Issuing agency: Tradeplace B.V., The Netherlands."
+    },
+    {
+        "code": "0215",
+        "type": "Net service ID",
+        "description": "Electronic trade purposes in e-invoicing. Issuing agency: Tieto Finland Oy, Finland."
+    },
+    {
+        "code": "0216",
+        "type": "OVTcode",
+        "description": "Electronic trade purposes in e-invoicing and purchasing. Issuing agency: TIEKE, Finland."
+    },
+    {
+        "code": "0217",
+        "type": "Netherlands Chamber of Commerce establishment number",
+        "description": "Electronic invoicing. Issuing agency: NEN, The Netherlands."
+    },
+    {
+        "code": "0218",
+        "type": "Unified registration number (Latvia)",
+        "description": "Unique number assigned to legal entities registered with the Register of Enterprises. Issuing agency: Register of Enterprises, Latvia."
+    },
+    {
+        "code": "0219",
+        "type": "Taxpayer registration code (Latvia)",
+        "description": "For use in Electronic data interchange (EDI) to identify organizations. Issuing agency: State Revenue Service, Latvia."
+    },
+    {
+        "code": "0220",
+        "type": "The Register of Natural Persons (Latvia)",
+        "description": "Uniform state registration system providing identification of natural persons. Issuing agency: Office of Citizenship and Migration Affairs, Latvia."
+    },
+    {
+        "code": "0221",
+        "type": "The registered number of the qualified invoice issuer",
+        "description": "Used on invoice-based method for Japanese consumption tax. Issuing agency: National Tax Agency Japan."
+    },
+    {
+        "code": "0222",
+        "type": "Metadata Registry Support",
+        "description": "Database of metadata supporting description of object-data-information. Issuing agency: Farance Inc."
+    },
+    {
+        "code": "0223",
+        "type": "EU based company",
+        "description": "Identifiers for organizations based in EU. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0224",
+        "type": "FTCTC CODE ROUTAGE",
+        "description": "Routing among accredited platforms for French e-invoicing reform. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0225",
+        "type": "FRCTC ELECTRONIC ADDRESS",
+        "description": "Electronic addresses in the context of the French e-invoicing reform. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0226",
+        "type": "FRCTC Particulier",
+        "description": "Identifiers for French citizens sending invoices to the Public Sector. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0227",
+        "type": "NON - EU based company",
+        "description": "NON - EU based company identifier. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0228",
+        "type": "Répertoire des Entreprises et des Etablissements (RIDET)",
+        "description": "Identifiers for organizations in Nouvelle Caledonie. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0229",
+        "type": "T.A.H.I.T.I (traitement automatique hiérarchisé des institutions de Tahiti)",
+        "description": "Identifiers for organizations in TAHITI. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0230",
+        "type": "National e-Invoicing Framework",
+        "description": "Identifier for organizations. Issuing agency: MDEC, Malaysia."
+    },
+    {
+        "code": "0231",
+        "type": "Single taxable company (France)",
+        "description": "Identifiers for companies in a single taxable company regime. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0232",
+        "type": "NOBB product number",
+        "description": "Identification system for product numbers."
+    },
+    {
+        "code": "0233",
+        "type": "Elnummer",
+        "description": "Identification system for Elnummer."
+    },
+    {
+        "code": "0234",
+        "type": "Toimitusosoite ID",
+        "description": "Identify delivery locations of Finnish government accounting units. Issuing agency: Finnish Government."
+    },
+    {
+        "code": "0235",
+        "type": "UAE Tax Identification Number (TIN)",
+        "description": "Unique number issued to persons required to be identified for tax purposes. Issuing agency: UAE Federal Tax Authority."
+    },
+    {
+        "code": "0236",
+        "type": "ToimipaikkalD",
+        "description": "Identification system for ToimipaikkalD."
+    },
+    {
+        "code": "0237",
+        "type": "CPR (Danish person civil registration number)",
+        "description": "Civil registration number for individuals in Denmark."
+    },
+    {
+        "code": "0238",
+        "type": "Plateforme.s agréée.s à la facturation électronique (PPF/PDP)",
+        "description": "Identifiers for e-invoicing Public Platform and Partner platforms. Issuing agency: AIFE, France."
+    },
+    {
+        "code": "0239",
+        "type": "EAEU",
+        "description": "Eurasian Economic Union identification scheme."
+    },
+    {
+        "code": "0240",
+        "type": "Register of legal persons (Répertoire des personnes morales)",
+        "description": "Register of legal persons for official identification."
+    },
+    {
+        "code": "0241",
+        "type": "Name unknown",
+        "description": "Identifier for entry 0241 (Name unknown)."
+    },
+    {
+        "code": "0242",
+        "type": "OpenPeppol Service Provider Identification Scheme (SPIS)",
+        "description": "Peppol service provider identification scheme."
+    },
+    {
+        "code": "0243",
+        "type": "Name unknown",
+        "description": "Identifier for entry 0243 (Name unknown)."
+    },
+    {
+        "code": "0244",
+        "type": "Tax Identification (Tax ID), Nigeria",
+        "description": "National tax identification system for Nigeria."
+    },
+    {
+        "code": "0245",
+        "type": "Tax identification number (DIČ), Slovakia",
+        "description": "Slovakian tax identification number for organizations."
+    }
+]

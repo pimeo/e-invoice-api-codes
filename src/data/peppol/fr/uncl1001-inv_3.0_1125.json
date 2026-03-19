@@ -1,0 +1,137 @@
+[
+    {
+        "code": "71",
+        "type": "Demande de paiement",
+        "description": "Document/message émis par un créancier à un débiteur pour demander le paiement d'une ou plusieurs factures échues."
+    },
+    {
+        "code": "80",
+        "type": "Note de débit relative à des biens ou services",
+        "description": "Informations de débit relatives à une transaction de biens ou de services à la partie concernée."
+    },
+    {
+        "code": "82",
+        "type": "Facture de services mesurés",
+        "description": "Document/message réclamant le paiement pour la fourniture de services mesurés (ex: gaz, électricité, etc.) fournis à un compteur fixe dont la consommation est mesurée sur une période de temps."
+    },
+    {
+        "code": "84",
+        "type": "Note de débit relative à des ajustements financiers",
+        "description": "Document/message fournissant des informations de débit relatives à des ajustements financiers à la partie concernée."
+    },
+    {
+        "code": "102",
+        "type": "Notification fiscale",
+        "description": "Utilisé pour spécifier que le message est une notification fiscale."
+    },
+    {
+        "code": "218",
+        "type": "Demande de paiement final basée sur l'achèvement des travaux",
+        "description": "La demande de paiement finale d'une série de demandes de paiement soumises lors de l'achèvement de tous les travaux."
+    },
+    {
+        "code": "219",
+        "type": "Demande de paiement pour unités achevées",
+        "description": "Une demande de paiement pour des unités achevées."
+    },
+    {
+        "code": "326",
+        "type": "Facture partielle",
+        "description": "Document/message spécifiant les détails d'une facture incomplète."
+    },
+    {
+        "code": "331",
+        "type": "Facture commerciale incluant une liste de colisage",
+        "description": "La transaction commerciale (facture) inclura une liste de colisage."
+    },
+    {
+        "code": "380",
+        "type": "Facture commerciale",
+        "description": "(1334) Document/message réclamant le paiement pour des biens ou services fournis selon les conditions convenues entre le vendeur et l'acheteur."
+    },
+    {
+        "code": "382",
+        "type": "Note de commission",
+        "description": "Document/message dans lequel un vendeur spécifie le montant de la commission, le pourcentage du montant de la facture, ou une autre base de calcul de la commission à laquelle un agent commercial a droit."
+    },
+    {
+        "code": "383",
+        "type": "Note de débit",
+        "description": "Document/message fournissant des informations de débit à la partie concernée."
+    },
+    {
+        "code": "384",
+        "type": "Facture rectificative",
+        "description": "Facture commerciale qui inclut des informations révisées différant d'une soumission antérieure de la même facture."
+    },
+    {
+        "code": "386",
+        "type": "Facture d'acompte",
+        "description": "Une facture pour payer des montants pour des biens et services à l'avance ; ces montants seront déduits de la facture finale."
+    },
+    {
+        "code": "388",
+        "type": "Facture fiscale",
+        "description": "Une facture à des fins fiscales."
+    },
+    {
+        "code": "389",
+        "type": "Facture d'auto-facturation",
+        "description": "Une facture que le destinataire de la facture produit à la place du vendeur."
+    },
+    {
+        "code": "393",
+        "type": "Facture d'affacturage",
+        "description": "Facture cédée à un tiers pour recouvrement."
+    },
+    {
+        "code": "395",
+        "type": "Facture de consignation",
+        "description": "Facture commerciale couvrant une transaction autre qu'une vente."
+    },
+    {
+        "code": "553",
+        "type": "Rapport d'anomalie de facture du transitaire",
+        "description": "Document/message signalant des écarts de facture identifiés par le transitaire."
+    },
+    {
+        "code": "575",
+        "type": "Facture de l'assureur",
+        "description": "Document/message émis par un assureur spécifiant le coût d'une assurance qui a été effectuée et en réclamant le paiement."
+    },
+    {
+        "code": "623",
+        "type": "Facture du transitaire",
+        "description": "Facture émise par un transitaire spécifiant les services rendus et les frais encourus et en réclamant le paiement."
+    },
+    {
+        "code": "780",
+        "type": "Facture de fret",
+        "description": "Document/message émis par un opérateur de transport spécifiant les frais de fret et les charges encourues pour une opération de transport et indiquant les conditions de paiement."
+    },
+    {
+        "code": "817",
+        "type": "Notification de réclamation",
+        "description": "Document notifiant une réclamation."
+    },
+    {
+        "code": "870",
+        "type": "Facture consulaire",
+        "description": "Document/message devant être préparé par un exportateur dans son pays et présenté à une représentation diplomatique du pays importateur pour visa, puis présenté par l'importateur en relation avec l'importation des marchandises qui y sont décrites."
+    },
+    {
+        "code": "875",
+        "type": "Facture de construction partielle",
+        "description": "Facture partielle dans le cadre d'un projet de construction spécifique."
+    },
+    {
+        "code": "876",
+        "type": "Facture finale de construction partielle",
+        "description": "Facture concluant toutes les factures de construction partielles précédentes d'un service partiel achevé dans le cadre d'un projet de construction spécifique."
+    },
+    {
+        "code": "877",
+        "type": "Facture de construction finale",
+        "description": "Facture concluant toutes les factures partielles et les factures finales de construction partielles précédentes dans le cadre d'un projet de construction spécifique."
+    }
+]

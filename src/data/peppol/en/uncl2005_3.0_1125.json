@@ -1,0 +1,14 @@
+[
+    {
+        "code": "3",
+        "type": "Invoice document issue date time"
+    },
+    {
+        "code": "35",
+        "type": "Delivery date/time, actual"
+    },
+    {
+        "code": "432",
+        "type": "Paid to date"
+    }
+]
