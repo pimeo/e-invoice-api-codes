@@ -9,7 +9,7 @@ await esbuild
     minify: true,
     treeShaking: true,
     platform: "node",
-    format: "cjs",
+    format: "esm",
     target: "node24",
     plugins: [nodeExternalsPlugin()],
   })
