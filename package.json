@@ -1,5 +1,5 @@
 {
-    "name": "e-invoice-codes",
+    "name": "e-invoice-api-codes",
     "version": "0.1.0",
     "main": "dist/server.js",
     "license": "MIT",
@@ -10,8 +10,9 @@
         "dist"
     ],
     "scripts": {
+        "dev": "fastify start -l info --watch --pretty-logs --port 4040 --address 0.0.0.0 src/dev-server.js",
         "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
-        "build": "rm -rf dist && node esbuild.mjs"
+        "build": "rm -rf dist && node esbuild.mjs && cp -r data dist"
     },
     "packageManager": "pnpm",
     "type": "module",
@@ -21,6 +22,7 @@
     "devDependencies": {
         "esbuild": "^0.27.4",
         "esbuild-node-externals": "^1.20.1",
+        "fastify-cli": "^7.4.1",
         "jest": "^30.3.0"
     }
 }

@@ -1,15 +1,16 @@
-## Prompt
 
-```
-Given this list, can you generate a json array with object schema containing keys "code", "type" and "description"? 
-Can you now translate the keys "type" and "description" to french. Please keep the actual json schema.
 
-Example: 
-{
-    "code": "0002",
-    "type": "System Information et Repertoire des Entreprise et des Etablissements: SIRENE",
-    "description": "Notes on Use of Code: The Sirene number is used in France mainly for the official registration in the Trade Register and as the only number used between authorities and organizations, and between authorities when dealing with data interchange on organizations. Issuing agency: Institut National de la Statistique et des Etudes Economiques, (I.N.S.E.E.), France."
-}
+## Installation
+
+```sh
+pnpm install
+
+# For development
+pnpm dev
+
+# For production
+pnpm build
+node dist/server.js
 ```
 
 ## Peppol
