@@ -34,6 +34,7 @@ export function createStore() {
             BrFrCdvCl09: new Map(),
             BrFrCdvCl10: new Map(),
             BrFrCdvCl11: new Map(),
+            brFrMap12: new Map(),
         }
     };
 
@@ -113,6 +114,7 @@ async function loadJsonFiles(store) {
         loadAndIndex("br-fr-cdv-cl-09_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl09),
         loadAndIndex("br-fr-cdv-cl-10_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl10),
         loadAndIndex("br-fr-cdv-cl-11_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl11),
+        loadAndIndex("br-fr-map-12_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.brFrMap12),
 
         // english datas
         loadAndIndex("currencies.json", "data/peppol/en", store.en.currencies),
