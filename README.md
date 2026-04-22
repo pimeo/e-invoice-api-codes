@@ -103,13 +103,22 @@ Règles de gestion spécifiques France, par catégories :
 ### Codes list
 
 ## BR-FR-04 - Codes type de la facture
-Type de facture
+Concerne les champs BT-3, EXT-FR-FE-02, EXT-FR-FE-137
 
 ## BR-FR-07 - Code sujets pour les notes BT-22
+Concerne les champs BT-22, BT-21
 
 ## BR-FR-08 - Code du Cadre de facturation (Mode de facturation)
+Concerne le champ BT-23
 
 ## BR-FR-17 - Codes type pour qualifier les pièces jointes
+Concerne le champ BT-123
+
+## BR-FR-15 - Codes de catégorie de TVA
+Concerne les champs BT-95, BT-102, BT-118, BT-151
+
+## BR-FR-18 - Taux de TVA autorisé
+Concerne les champs BT-96, BT-103, BT-119, BT-152
 
 #### BR-FR-CDV-CL-01 - Donnée listée
 
@@ -141,3 +150,4 @@ Expliquer les rejets et les suspensions.
 #### BR-FR-CDV-CL-11 - Code objet MDG-43
 
 #### BR-FR-MAP-12 - Code TVA taux autorisés
+Concerne les champs BT-96, BT-103, BT-119, BT-152

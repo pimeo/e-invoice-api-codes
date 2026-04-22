@@ -24,6 +24,7 @@ export function createStore() {
             BrFr04: new Map(),
             BrFr07: new Map(),
             BrFr08: new Map(),
+            BrFr15: new Map(),
             BrFr17: new Map(),
             BrFrCdvCl01: new Map(),
             BrFrCdvCl02: new Map(),
@@ -82,7 +83,12 @@ async function loadAndIndex(fileName, filePath = "data", targetMap) {
 
     items.forEach((item) => {
         // We index by lowercase code for case-insensitive searching
-        targetMap.set(item.code.toLowerCase(), item);
+        try {
+            targetMap.set(item.code.toLowerCase(), item);
+        } catch (err) {
+            console.error(`Cannot load items for path: ${path} and item: ${item}`)
+            throw err
+        }
     });
 }
 
@@ -103,10 +109,11 @@ async function loadJsonFiles(store) {
         loadAndIndex("uncl5189_3.0_1125.json", "data/peppol/fr", store.fr.allowanceReason),
         loadAndIndex("vatex_3.0_1125.json", "data/peppol/fr", store.fr.vatex),
         loadAndIndex("unecerec20_3.0_1125.json", "data/peppol/fr", store.fr.unit),
-        loadAndIndex("br-fr-04_2426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr04),
-        loadAndIndex("br-fr-07_2426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr08),
-        loadAndIndex("br-fr-08_2426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr08),
-        loadAndIndex("br-fr-17_2426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr17),
+        loadAndIndex("br-fr-04_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr04),
+        loadAndIndex("br-fr-07_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr08),
+        loadAndIndex("br-fr-08_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr08),
+        loadAndIndex("br-fr-15_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr15),
+        loadAndIndex("br-fr-17_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr17),
         loadAndIndex("br-fr-cdv-cl-01_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl01),
         loadAndIndex("br-fr-cdv-cl-02_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl02),
         loadAndIndex("br-fr-cdv-cl-03_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl03),
