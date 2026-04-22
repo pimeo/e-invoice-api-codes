@@ -1,0 +1,38 @@
+[
+    {
+        "code": "S",
+        "label": "Taux de TVA standard"
+    },
+    {
+        "code": "E",
+        "label": "Exonéré de TVA"
+    },
+    {
+        "code": "AE",
+        "label": "Autoliquidation de TVA"
+    },
+    {
+        "code": "K",
+        "label": "Exonération pour cause de livraison intracommunautaire"
+    },
+    {
+        "code": "G",
+        "label": "Exonération de TVA pour Export hors UE"
+    },
+    {
+        "code": "O",
+        "label": "Hors du périmètre d'application de la TVA"
+    },
+    {
+        "code": "Z",
+        "label": "Taux de TVA égal à 0 (cf. G1.47)"
+    },
+    {
+        "code": "L",
+        "label": "Iles Canaries"
+    },
+    {
+        "code": "M",
+        "label": "Ceuta et Mellila"
+    }
+]
