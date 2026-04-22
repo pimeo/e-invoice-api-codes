@@ -135,3 +135,5 @@ Expliquer les rejets et les suspensions.
 #### BR-FR-CDV-CL-10 - Code ACTION requise
 
 #### BR-FR-CDV-CL-11 - Code objet MDG-43
+
+#### BR-FR-MAP-12 - Code TVA taux autorisés
