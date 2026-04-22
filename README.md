@@ -105,6 +105,10 @@ Règles de gestion spécifiques France, par catégories :
 ## BR-FR-04 - Codes type de la facture
 Type de facture
 
+## BR-FR-07 - Code sujets pour les notes BT-22
+
+## BR-FR-08 - Code du Cadre de facturation (Mode de facturation)
+
 ## BR-FR-17 - Codes type pour qualifier les pièces jointes
 
 #### BR-FR-CDV-CL-01 - Donnée listée

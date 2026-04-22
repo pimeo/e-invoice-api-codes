@@ -1,0 +1,30 @@
+[
+    {
+        "code": "ACC",
+        "label": "Clause de subrogation factoring"
+    },
+    {
+        "code": "AAI",
+        "label": "Information générale : des éléments en général en fond de page des factures papier"
+    },
+    {
+        "code": "SUR",
+        "label": "Remarques fournisseur"
+    },
+    {
+        "code": "ABL",
+        "label": "Information légale : par exemple N° registre des métiers, RCS"
+    },
+    {
+        "code": "CUS",
+        "label": "Information douanière"
+    },
+    {
+        "code": "BLU",
+        "label": "'Eco-participation (L. 541-10 du code de l'environnement)' ou 'Eco-contribution DEEE'"
+    },
+    {
+        "code": "BAR",
+        "label": "type de traitement attendu (e-invoicing, e-reporting, hors réforme, ...)"
+    }
+]
