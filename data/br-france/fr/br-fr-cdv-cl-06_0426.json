@@ -1,0 +1,134 @@
+[
+    {
+        "code": "200",
+        "label": "Déposée",
+        "field_criteria": "obligatoire PPF",
+        "note": ""
+    },
+    {
+        "code": "201",
+        "label": "Émise par la plateforme",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "202",
+        "label": "Reçue par la plateforme",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "203",
+        "label": "Mise à disposition",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "204",
+        "label": "Prise en charge",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "205",
+        "label": "Approuvée",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "206",
+        "label": "Approuvée partiellement",
+        "field_criteria": "facultatif",
+        "note": "Motif obligatoire"
+    },
+    {
+        "code": "207",
+        "label": "En litige",
+        "field_criteria": "facultatif",
+        "note": "Motif obligatoire"
+    },
+    {
+        "code": "208",
+        "label": "Suspendue",
+        "field_criteria": "facultatif",
+        "note": "Motif obligatoire"
+    },
+    {
+        "code": "209",
+        "label": "Complétée",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "210",
+        "label": "Refusée",
+        "field_criteria": "obligatoire PFF",
+        "note": "Motif obligatoire"
+    },
+    {
+        "code": "211",
+        "label": "Paiement transmis",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "212",
+        "label": "Encaissée",
+        "field_criteria": "obligatoire PFF",
+        "note": "Montant MEN requis"
+    },
+    {
+        "code": "213",
+        "label": "Rejetée",
+        "field_criteria": "obligatoire PFF",
+        "note": "Motif obligatoire"
+    },
+    {
+        "code": "214",
+        "label": "Visée",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "220",
+        "label": "Annulée",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "221",
+        "label": "Erreur routage",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "224",
+        "label": "Demande de paiement direct",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "225",
+        "label": "Affacturée",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "226",
+        "label": "Affacturée confidentiel",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "227",
+        "label": "Changement de compte à payer",
+        "field_criteria": "facultatif",
+        "note": ""
+    },
+    {
+        "code": "228",
+        "label": "Non affacturée",
+        "field_criteria": "facultatif",
+        "note": ""
+    }
+]

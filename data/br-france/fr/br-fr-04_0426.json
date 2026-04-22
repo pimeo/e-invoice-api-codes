@@ -1,0 +1,82 @@
+[
+    {
+        "category": "factures simples",
+        "code": "380",
+        "label": "facture commerciale"
+    },
+    {
+        "category": "factures simples",
+        "code": "389",
+        "label": "facture auto-facturée"
+    },
+    {
+        "category": "factures simples",
+        "code": "393",
+        "label": "facture affacturée"
+    },
+    {
+        "category": "factures simples",
+        "code": "501",
+        "label": "facture auto-facturée affacturée"
+    },
+    {
+        "category": "factures d'acompte",
+        "code": "386",
+        "label": "facture d'acompte"
+    },
+    {
+        "category": "factures d'acompte",
+        "code": "500",
+        "label": "facture d’acompte auto-facturée"
+    },
+    {
+        "category": "factures rectificatives",
+        "code": "384",
+        "label": "facture rectificative"
+    },
+    {
+        "category": "factures rectificatives",
+        "code": "471",
+        "label": "facture rectificative auto-facturée"
+    },
+    {
+        "category": "factures rectificatives",
+        "code": "472",
+        "label": "facture rectificative affacturée"
+    },
+    {
+        "category": "factures rectificatives",
+        "code": "473",
+        "label": "facture rectificative auto-facturée affacturée"
+    },
+    {
+        "category": "avoirs",
+        "code": "261",
+        "label": "avoir auto-facturé"
+    },
+    {
+        "category": "avoirs",
+        "code": "262",
+        "label": "avoir pour remise global"
+    },
+    {
+        "category": "avoirs",
+        "code": "381",
+        "label": "avoir"
+    },
+    {
+        "category": "avoirs",
+        "code": "396",
+        "label": "avoir affacturé"
+    },
+    {
+        "category": "avoirs",
+        "code": "502",
+        "label": "avoir auto-facturé affacturé"
+    },
+    {
+        "category": "avoirs",
+        "code": "503",
+        "label": "avoir de facture d'acompte"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "code": "NOA",
+        "label": "No action required",
+        "note": "No action required"
+    },
+    {
+        "code": "PIN",
+        "label": "Provide information",
+        "note": "Missing information requested without re-issuing invoice"
+    },
+    {
+        "code": "NIN",
+        "label": "Issue new invoice",
+        "note": "Request to re-issue a corrected invoice"
+    },
+    {
+        "code": "CNF",
+        "label": "Credit fully",
+        "note": "Request to fully cancel the referenced invoice with a credit note"
+    },
+    {
+        "code": "CNP",
+        "label": "Credit partially",
+        "note": "Request to issue partial credit note for corrections only"
+    },
+    {
+        "code": "CNA",
+        "label": "Credit the amount",
+        "note": "Request to repay the amount paid on the invoice"
+    },
+    {
+        "code": "OTH",
+        "label": "Other",
+        "note": "Requested action is not defined by code"
+    }
+]

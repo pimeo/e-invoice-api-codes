@@ -1,0 +1,37 @@
+[
+    {
+        "code": "NOA",
+        "label": "Aucune Action Requise",
+        "note": "Aucun action requise"
+    },
+    {
+        "code": "PIN",
+        "label": "Information complémentaire requise",
+        "note": "Informations manquantes demandées sans réémission de la facture"
+    },
+    {
+        "code": "NIN",
+        "label": "Créer une Facture Rectificative",
+        "note": "Demande de réémission d'une facture corrigée"
+    },
+    {
+        "code": "CNF",
+        "label": "Créer un Avoir total",
+        "note": "Demande d'annulation totale de la facture référencée par une note de crédit"
+    },
+    {
+        "code": "CNP",
+        "label": "Créer un Avoir Partiel",
+        "note": "Demande d'émission d'un avoir partiel pour corrections uniquement"
+    },
+    {
+        "code": "CNA",
+        "label": "Rembourser le paiement de la facture",
+        "note": "Demande de remboursement du montant payé sur la facture"
+    },
+    {
+        "code": "OTH",
+        "label": "Autre",
+        "note": "L'action demandée n'est pas définie par un code"
+    }
+]

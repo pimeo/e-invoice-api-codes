@@ -1,0 +1,67 @@
+[
+    {
+        "category": "Phase Transmission",
+        "code": "10",
+        "label": "Déposée"
+    },
+    {
+        "category": "Phase Transmission",
+        "code": "51",
+        "label": "Emise"
+    },
+    {
+        "category": "Phase Transmission",
+        "code": "43",
+        "label": "Reçue"
+    },
+    {
+        "category": "Phase Transmission",
+        "code": "8",
+        "label": "Rejetée"
+    },
+    {
+        "category": "Phase Transmission",
+        "code": "48",
+        "label": "Mise à Disposition"
+    },
+    {
+        "category": "Phase Traitement",
+        "code": "45",
+        "label": "(In Process) = Prise en charge"
+    },
+    {
+        "category": "Phase Traitement",
+        "code": "39",
+        "label": "(on hold) = Suspendue"
+    },
+    {
+        "category": "Phase Traitement",
+        "code": "37",
+        "label": "(Complete) = Completée"
+    },
+    {
+        "category": "Phase Traitement",
+        "code": "50",
+        "label": "(Refjected / Refused) = Refusée (by C4)"
+    },
+    {
+        "category": "Phase Traitement",
+        "code": "49",
+        "label": "(Conditionnaly accepted) = Approuvée Partiellement"
+    },
+    {
+        "category": "Phase Traitement",
+        "code": "47",
+        "label": "(Paid) = Paiement Transmis ET Encaissée"
+    },
+    {
+        "category": "Phase Traitement",
+        "code": "46",
+        "label": "(Under Query) = En litige"
+    },
+    {
+        "category": "Phase Traitement",
+        "code": "1",
+        "label": "(accepted) = Approuvée"
+    }
+]

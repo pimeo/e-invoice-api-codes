@@ -1,0 +1,46 @@
+[
+    {
+        "code": "BY",
+        "label": "Acheteur"
+    },
+    {
+        "code": "AB",
+        "label": "Représentant de l'acheteur pour la vente."
+    },
+    {
+        "code": "DL",
+        "label": "Affactureur (Factor)"
+    },
+    {
+        "code": "SE",
+        "label": "Vendeur"
+    },
+    {
+        "code": "AB",
+        "label": "Agent d'acheteur"
+    },
+    {
+        "code": "SR",
+        "label": "Agent de Vendeur"
+    },
+    {
+        "code": "WK",
+        "label": "Plateforme ou opérateur de dématérialisation du fournisseur/vendeur ou de l'acheteur. Peut être une PA ou une SC"
+    },
+    {
+        "code": "PE",
+        "label": "Bénéficiaire (Payee)"
+    },
+    {
+        "code": "PR",
+        "label": "Payeur"
+    },
+    {
+        "code": "II",
+        "label": "INVOICER (Invoice issuer)"
+    },
+    {
+        "code": "IV",
+        "label": "INVOICEE"
+    }
+]

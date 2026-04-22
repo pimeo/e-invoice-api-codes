@@ -1,0 +1,27 @@
+[
+    {
+        "code": "REGULATED",
+        "label": "",
+        "description": ""
+    },
+    {
+        "code": "NON_REGULATED",
+        "label": "",
+        "description": ""
+    },
+    {
+        "code": "B2C",
+        "label": "",
+        "description": ""
+    },
+    {
+        "code": "B2BINT",
+        "label": "",
+        "description": ""
+    },
+    {
+        "code": "OUTOFSCOPE",
+        "label": "",
+        "description": ""
+    }
+]

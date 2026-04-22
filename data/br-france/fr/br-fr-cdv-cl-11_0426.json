@@ -1,0 +1,58 @@
+[
+    {
+        "code": "MEN",
+        "label": "Montant encaissé (TTC)"
+    },
+    {
+        "code": "MPA",
+        "label": "Montant payé"
+    },
+    {
+        "code": "RAP",
+        "label": "Reste à payer (en cas de paiement partiel)"
+    },
+    {
+        "code": "ESC",
+        "label": "Escompte accordé"
+    },
+    {
+        "code": "RAB",
+        "label": "Rabais accordé"
+    },
+    {
+        "code": "REM",
+        "label": "Remise accordée"
+    },
+    {
+        "code": "MAP",
+        "label": "Montant HT Approuvé"
+    },
+    {
+        "code": "MAPTTC",
+        "label": "Montant TTC Approuvé"
+    },
+    {
+        "code": "MNA",
+        "label": "Montant HT NON Approuvé"
+    },
+    {
+        "code": "MNATTC",
+        "label": "Montant TTC Non Approuvé"
+    },
+    {
+        "code": "CBB",
+        "label": "Coordonnées Bancaires Bénéficiaire à modifier"
+    },
+    {
+        "code": "DIV",
+        "label": "Donnée invalide"
+    },
+    {
+        "code": "DVA",
+        "label": "Donnée valide attendue"
+    },
+    {
+        "code": "MAJ",
+        "label": "Donnée à prendre en compte à la place de celle présente dans la facture pour le traitement (Statut 'Complétée' ou 'Complément')"
+    }
+]

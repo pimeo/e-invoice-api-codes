@@ -1,0 +1,42 @@
+[
+    {
+        "code": "BY",
+        "label": "Acheteur"
+    },
+    {
+        "code": "AB",
+        "label": "Représentant de l'acheteur pour la vente."
+    },
+    {
+        "code": "DL",
+        "label": "Affactureur (Factor)"
+    },
+    {
+        "code": "SE",
+        "label": "Vendeur"
+    },
+    {
+        "code": "AB",
+        "label": "Agent d'acheteur"
+    },
+    {
+        "code": "SR",
+        "label": "Agent de Vendeur"
+    },
+    {
+        "code": "PE",
+        "label": "Bénéficiaire (Payee)"
+    },
+    {
+        "code": "PR",
+        "label": "Payeur"
+    },
+    {
+        "code": "II",
+        "label": "INVOICER (Facturant)"
+    },
+    {
+        "code": "IV",
+        "label": "INVOICEE (Facturé à, adressé à)"
+    }
+]

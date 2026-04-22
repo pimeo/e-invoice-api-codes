@@ -19,6 +19,21 @@ export function createStore() {
         invoicedNoteSubject: new Map(),
         allowanceReason: new Map(),
         vatex: new Map(),
+        unit: new Map(),
+        specificFrenchRules: {
+            BrFr04: new Map(),
+            BrFrCdvCl01: new Map(),
+            BrFrCdvCl02: new Map(),
+            BrFrCdvCl03: new Map(),
+            BrFrCdvCl04: new Map(),
+            BrFrCdvCl05: new Map(),
+            BrFrCdvCl06: new Map(),
+            BrFrCdvCl07: new Map(),
+            BrFrCdvCl08: new Map(),
+            BrFrCdvCl09: new Map(),
+            BrFrCdvCl10: new Map(),
+            BrFrCdvCl11: new Map(),
+        }
     };
 
     // Centralized english store
@@ -35,6 +50,7 @@ export function createStore() {
         invoicedNoteSubject: new Map(),
         allowanceReason: new Map(),
         vatex: new Map(),
+        unit: new Map(),
     };
 
     // Centralized store
@@ -82,6 +98,19 @@ async function loadJsonFiles(store) {
         loadAndIndex("uncl4451_3.0_1125.json", "data/peppol/fr", store.fr.invoicedNoteSubject),
         loadAndIndex("uncl5189_3.0_1125.json", "data/peppol/fr", store.fr.allowanceReason),
         loadAndIndex("vatex_3.0_1125.json", "data/peppol/fr", store.fr.vatex),
+        loadAndIndex("unecerec20_3.0_1125.json", "data/peppol/fr", store.fr.unit),
+        loadAndIndex("br-fr-04_2426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr04),
+        loadAndIndex("br-fr-cdv-cl-01_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl01),
+        loadAndIndex("br-fr-cdv-cl-02_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl02),
+        loadAndIndex("br-fr-cdv-cl-03_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl03),
+        loadAndIndex("br-fr-cdv-cl-04_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl04),
+        loadAndIndex("br-fr-cdv-cl-05_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl05),
+        loadAndIndex("br-fr-cdv-cl-06_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl06),
+        loadAndIndex("br-fr-cdv-cl-07_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl07),
+        loadAndIndex("br-fr-cdv-cl-08_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl08),
+        loadAndIndex("br-fr-cdv-cl-09_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl09),
+        loadAndIndex("br-fr-cdv-cl-10_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl10),
+        loadAndIndex("br-fr-cdv-cl-11_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl11),
 
         // english datas
         loadAndIndex("currencies.json", "data/peppol/en", store.en.currencies),
@@ -96,6 +125,7 @@ async function loadJsonFiles(store) {
         loadAndIndex("uncl4451_3.0_1125.json", "data/peppol/en", store.en.invoicedNoteSubject),
         loadAndIndex("uncl5189_3.0_1125.json", "data/peppol/en", store.en.allowanceReason),
         loadAndIndex("vatex_3.0_1125.json", "data/peppol/en", store.en.vatex),
+        loadAndIndex("unecerec20_3.0_1125.json", "data/peppol/en", store.en.unit),
 
         //   loadAndIndex('currencies.json', store.currencies),
         //   loadAndIndex('vat-codes.json', store.vat),

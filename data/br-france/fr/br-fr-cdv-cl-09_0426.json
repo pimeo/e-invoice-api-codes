@@ -1,0 +1,222 @@
+[
+    {
+        "code": "JUSTIF_ABS",
+        "label": "Justificatif absent ou insuffisant",
+        "description": "Ce motif doit être utilisé s'il manque des pièces jointes pour le traitement de la facture (statut 'Suspendue') Elle devra faire l'objet d'un renvoi par l'émetteur d'un cycle de vie au statut 'Complétée' avec la ou les pièce(s) jointe(s) manquante(s)"
+    },
+    {
+        "code": "ROUTAGE_ERR",
+        "label": "Erreur de routage",
+        "description": "Ce motif doit être utilisé dans le cas où les informations servant au routage de la facture sont devenues obsolètes. Ceci peut se produire par exemple : - en cas de décalage de mise à jour d’annuaire - une erreur de la PDP émettrice. Post correction de l'annuaire par le destinataire de la facture, la facture peut-être transmise à nouveau (Sans aucun changement sur les données de la facture)"
+    },
+    {
+        "code": "AUTRE",
+        "label": "Autre",
+        "description": "Ce motif nécessite une explication en Note de CDV"
+    },
+    {
+        "code": "COORD_BANC_ERR",
+        "label": "Erreur de coordonnées bancaires",
+        "description": "Les références bancaires sur la facture ne correspondent pas à ce qui est paramétré chez le Payeur / Acheteur)"
+    },
+    {
+        "code": "TX_TVA_ERR",
+        "label": "Taux de TVA erroné",
+        "description": "Un taux de TVA utilisé n'est pas celui qui aurait dû"
+    },
+    {
+        "code": "MONTANTTOTAL_ERR",
+        "label": "Montant Total Erroné",
+        "description": "Un des montants totaux de la facture est erronée, par exemple Net à payer"
+    },
+    {
+        "code": "CALCUL_ERR",
+        "label": "Erreur de calcul de la facture",
+        "description": "Soit détecté au schematron, soit après (pour les lignes, ou arrondi non accepté)"
+    },
+    {
+        "code": "NON_CONFORME",
+        "label": "Mention légale manquante",
+        "description": "Toute mention légale non contrôlée"
+    },
+    {
+        "code": "DOUBLON",
+        "label": "Facture en doublon (déjà émise / réçue)",
+        "description": "Facture en doublon (même numéro même fournisseur et même année de la date de facture)"
+    },
+    {
+        "code": "DEST_INC",
+        "label": "Destinataire inconnu",
+        "description": "A l'émission, le destinataire est inconnu. Il n'existe pas dans l'annuaire."
+    },
+    {
+        "code": "DEST_ERR",
+        "label": "Erreur de destinataire",
+        "description": "L'entité juridique destinataire de la facture n'est pas la bonne (n° de SIREN du Destinataire). Par exemple en cas de multi-société dans un groupe, il arrive que la société facturée ne soit pas celle qui aurait dû l'être."
+    },
+    {
+        "code": "TRANSAC_INC",
+        "label": "Transaction inconnue",
+        "description": "La facture ne correspond pas à une livraison effectuée ou une prestation de service livrée."
+    },
+    {
+        "code": "EMMET_INC",
+        "label": "Emetteur inconnu",
+        "description": "L'émetteur de la facture est inconnu du Destinataire (anti-spam)"
+    },
+    {
+        "code": "CONTRAT_TERM",
+        "label": "Contrat terminé",
+        "description": "Contrat terminé, plus de facture possible"
+    },
+    {
+        "code": "DOUBLE_FACT",
+        "label": "DOUBLE FACTURE",
+        "description": "Prestation ou livraison déjà facturé sur une autre facture"
+    },
+    {
+        "code": "CMD_ERR",
+        "label": "N° de COMMANDE Incorrect ou manquant",
+        "description": "N° de commande erroné, inexistant ou déjà facturé. Ne peut être utilisé avec un stratut REFUSÉE que si le numéro de camaande a été fourni par l'ACHETEUR AVANT LA FACTURATION."
+    },
+    {
+        "code": "ADR_ERR",
+        "label": "L'adresse de facturation électronique erronée",
+        "description": "L'adresse de facturation électronique du destinataire (BT-49 ou BT-34) est absente ou erronée"
+    },
+    {
+        "code": "SIRET_ERR",
+        "label": "Erroné ou absent",
+        "description": "Le SIRET du destinataire est erroné ou absent si exigé"
+    },
+    {
+        "code": "CODE_ROUTAGE_ERR",
+        "label": "CODE_ROUTAGE Absent ou Erroné",
+        "description": "Le CODE_ROUTAGE du destinataire est erroné ou absent si exigé"
+    },
+    {
+        "code": "REF_CT_ABSENT",
+        "label": "Référence contractuelle nécessaire pour le traitement de la facture manquante",
+        "description": "Référence exigée contractuellement est absente (liste à encadrer) et à identifier dans le CDV : BT-12 (N° de contrat), N° de BL (BT-16), Ref Acheteur (BT-10), Objet Facturé (BT-18), Référence Projet (BT-11), Facture antérieure (BG-3), …"
+    },
+    {
+        "code": "REF_ERR",
+        "label": "Référence incorrecte",
+        "description": "A préciser dans les autres données du CDV de quelle référence il s'agit"
+    },
+    {
+        "code": "PU_ERR",
+        "label": "Prix Unitaires incorrects",
+        "description": "Un prix Unitaire n'est pas celui attendu"
+    },
+    {
+        "code": "REM_ERR",
+        "label": "Remise erronée",
+        "description": "Une remise est absente ou n'est pas celle attendue"
+    },
+    {
+        "code": "QTE_ERR",
+        "label": "Quantité facturée incorrecte",
+        "description": "Une quantité facturée n'est pas celle attendue"
+    },
+    {
+        "code": "ART_ERR",
+        "label": "Article facturé incorrect",
+        "description": "Un article facturé n'est pas le bon ou est erroné"
+    },
+    {
+        "code": "MODPAI_ERR",
+        "label": "Modalités de paiement incorrectes",
+        "description": "Les modalités de paiement (date d'échéance par exemple) n'est pas celle escomptées"
+    },
+    {
+        "code": "QUALITE_ERR",
+        "label": "Qualité d'article livré incorrecte",
+        "description": "Un des articles livré est défectueux"
+    },
+    {
+        "code": "LIVR_INCOMP",
+        "label": "Problème de livraison",
+        "description": "Livraison incomplète, non conforme"
+    },
+    {
+        "code": "REJ_SEMAN",
+        "label": "Rejet pour erreur sémantique",
+        "description": "Analyse du format sémantique"
+    },
+    {
+        "code": "REJ_UNI",
+        "label": "Rejet sur contrôle unicité",
+        "description": "Contrôle d'unicité"
+    },
+    {
+        "code": "REJ_COH",
+        "label": "Rejet sur contrôle Cohérence de données",
+        "description": "Contrôle cohérence de données (les balises et les référentiels)"
+    },
+    {
+        "code": "REJ_ADR",
+        "label": "Rejet sur Contrôle d'adressage",
+        "description": "Contrôle d'adressage"
+    },
+    {
+        "code": "REJ_CONT_B2G",
+        "label": "Rejet sur Contrôles métier B2G",
+        "description": "Contrôles B2G (vérification du n° d'engagement…)"
+    },
+    {
+        "code": "REJ_REF_PJ",
+        "label": "Rejet sur Référence de PJ",
+        "description": "Référence de PJ"
+    },
+    {
+        "code": "REJ_ASS_PJ",
+        "label": "Rejet sur Erreur d'association de la PJ",
+        "description": "Erreur d'association de la PJ"
+    },
+    {
+        "code": "IRR_VIDE_F",
+        "label": "Contrôle de non vide sur les fichiers du flux",
+        "description": "Contrôle de non vide sur les fichiers du flux"
+    },
+    {
+        "code": "IRR_TYPE_F",
+        "label": "Contrôle de type et extension des fichiers du flux",
+        "description": "Contrôle de type et extension des fichiers du flux"
+    },
+    {
+        "code": "IRR_SYNTAX",
+        "label": "Contrôle syntaxique des fichiers du flux",
+        "description": "Contrôle syntaxique des fichiers du flux"
+    },
+    {
+        "code": "IRR_TAILLE_PJ",
+        "label": "Contrôle de taille des PJ de chaque fichier du flux",
+        "description": "Contrôle de taille des PJ de chaque fichier du flux"
+    },
+    {
+        "code": "IRR_NOM_PJ",
+        "label": "Contrôle du nom des PJ de chaque fichier du flux (absence de caractères interdits)",
+        "description": "Contrôle du nom des PJ de chaque fichier du flux (absence de caractères interdits)"
+    },
+    {
+        "code": "IRR_VID_PJ",
+        "label": "Contrôle de PJ non vide de chaque fichier du flux",
+        "description": "Contrôle de PJ non vide de chaque fichier du flux"
+    },
+    {
+        "code": "IRR_EXT_DOC",
+        "label": "Contrôle de l'extension des PJ de chaque fichier du flux",
+        "description": "Contrôle de l'extension des PJ de chaque fichier du flux"
+    },
+    {
+        "code": "IRR_TAILLE_F",
+        "label": "Contrôle de taille max des fichiers contenus dans le flux",
+        "description": "Contrôle de taille max des fichiers contenus dans le flux"
+    },
+    {
+        "code": "IRR_ANTIVIRUS",
+        "label": "Contrôle anti-virus",
+        "description": "Le flux ne respecte pas les conditions de sécurité"
+    }
+]
