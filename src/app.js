@@ -22,6 +22,7 @@ export function createStore() {
         unit: new Map(),
         specificFrenchRules: {
             BrFr04: new Map(),
+            BrFr17: new Map(),
             BrFrCdvCl01: new Map(),
             BrFrCdvCl02: new Map(),
             BrFrCdvCl03: new Map(),
@@ -100,6 +101,7 @@ async function loadJsonFiles(store) {
         loadAndIndex("vatex_3.0_1125.json", "data/peppol/fr", store.fr.vatex),
         loadAndIndex("unecerec20_3.0_1125.json", "data/peppol/fr", store.fr.unit),
         loadAndIndex("br-fr-04_2426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr04),
+        loadAndIndex("br-fr-17_2426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFr17),
         loadAndIndex("br-fr-cdv-cl-01_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl01),
         loadAndIndex("br-fr-cdv-cl-02_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl02),
         loadAndIndex("br-fr-cdv-cl-03_0426.json", "data/br-france/fr", store.fr.specificFrenchRules.BrFrCdvCl03),

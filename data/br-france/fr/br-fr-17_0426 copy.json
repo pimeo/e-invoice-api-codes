@@ -1,0 +1,50 @@
+[
+    {
+        "code": "RIB",
+        "label": "RIB (qui contient l'IBAN / N° de compte + nom de Titulaire)"
+    },
+    {
+        "code": "LISIBLE",
+        "label": "Représentation lisible complète de la facture."
+    },
+    {
+        "code": "FEUILLE_DE_STYLE",
+        "label": "feuille de style permettant de créer une représentation lisible"
+    },
+    {
+        "code": "PJA",
+        "label": "Pièce jointe additionnelle"
+    },
+    {
+        "code": "BORDEREAU_SUIVI",
+        "label": "Bordereau de suivi"
+    },
+    {
+        "code": "DOCUMENT_ANNEXE",
+        "label": "Document annexe"
+    },
+    {
+        "code": "BON_LIVRAISON",
+        "label": "Bon de livraison"
+    },
+    {
+        "code": "BON_COMMANDE",
+        "label": "Bon de Commande"
+    },
+    {
+        "code": "BORDEREAU_SUIVI_VALIDATION",
+        "label": "Bordereau de suivi et validation"
+    },
+    {
+        "code": "ETAT_ACOMPTE",
+        "label": "État d'acompte"
+    },
+    {
+        "code": "FACTURE_PAIEMENT_DIRECT",
+        "label": "Facture de sous-traitant à payer en direct"
+    },
+    {
+        "code": "RECAPITULATIF_COTRAITANCE",
+        "label": "Listing de l'ensemble des factures de co-traitance à traiter ensemble"
+    },
+]

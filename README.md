@@ -105,7 +105,7 @@ Règles de gestion spécifiques France, par catégories :
 ## BR-FR-04 - Codes type de la facture
 Type de facture
 
-Les autres types de factures définis dans la norme (UNTDID 1001) ne doivent pas être utilisés. En attente de l'intégration des codes par la maintenance EN16931
+## BR-FR-17 - Codes type pour qualifier les pièces jointes
 
 #### BR-FR-CDV-CL-01 - Donnée listée
 

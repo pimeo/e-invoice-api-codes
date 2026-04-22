@@ -11,17 +11,22 @@
     },
     {
         "code": "B2C",
-        "label": "",
+        "label": "Relève du E-invoicing",
         "description": ""
     },
     {
         "code": "B2BINT",
-        "label": "",
+        "label": "Relève du e-reporting des ventes B2Bint",
         "description": ""
     },
     {
         "code": "OUTOFSCOPE",
-        "label": "",
+        "label": "Hors réforme",
+        "description": ""
+    },
+    {
+        "code": "ARCHIVEONLY",
+        "label": "AVOIR interne créé pour annuler une facture REJETÉE ou REFUSÉE, et NE DOIT PAS faire l'objet d'un traitement e-invoicing",
         "description": ""
     }
 ]
